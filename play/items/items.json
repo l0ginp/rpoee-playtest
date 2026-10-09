@@ -1,0 +1,418 @@
+{
+ "items": {
+  "sword_basic": {
+   "name": {
+    "en": "Iron Short Sword",
+    "th": "ดาบสั้นเหล็ก"
+   },
+   "slot": "weapon",
+   "anchor": "handR",
+   "origin": [
+    0.5,
+    0.9
+   ],
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "sprites": {
+    "north": "/items/sword_basic/north.png"
+   },
+   "icon": "/items/sword_basic/icon.png",
+   "weaponType": "slash1h"
+  },
+  "hat_beret": {
+   "name": {
+    "en": "Red Beret",
+    "th": "หมวกเบเร่ต์แดง"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.72
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "sprites": {
+    "south": "/items/hat_beret/south.png"
+   },
+   "icon": "/items/hat_beret/icon.png",
+   "scale": 0.9
+  },
+  "wings_angel": {
+   "name": {
+    "en": "Angel Wings",
+    "th": "ปีกนางฟ้า"
+   },
+   "slot": "back",
+   "costume": true,
+   "anchor": "back",
+   "origin": [
+    0.5,
+    0.42
+   ],
+   "offset": [
+    0,
+    4
+   ],
+   "sideScale": 0.45,
+   "flap": {
+    "hz": 1.1,
+    "amp": 0.1
+   },
+   "sprites": {
+    "north": "/items/wings_angel/north.png"
+   },
+   "icon": "/items/wings_angel/icon.png",
+   "scale": 1.15
+  },
+  "float_crystal": {
+   "name": {
+    "en": "Floating Crystal",
+    "th": "คริสตัลลอยฟ้า"
+   },
+   "slot": "float",
+   "costume": true,
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "scale": 0.7,
+   "hover": {
+    "height": 60,
+    "bob": 3,
+    "hz": 0.6,
+    "follow": 4
+   },
+   "sprites": {
+    "south": "/items/float_crystal/south.png"
+   },
+   "icon": "/items/float_crystal/icon.png"
+  },
+  "w_dagger": {
+   "name": {
+    "en": "Dagger",
+    "th": "มีด"
+   },
+   "sprites": {
+    "north": "/items/w_dagger/north.png"
+   },
+   "origin": [
+    0.5,
+    0.86
+   ],
+   "slot": "weapon",
+   "anchor": "handR",
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "stab",
+   "scale": 0.55
+  },
+  "w_mace": {
+   "name": {
+    "en": "Mace",
+    "th": "กระบอง"
+   },
+   "sprites": {
+    "north": "/items/w_mace/north.png"
+   },
+   "origin": [
+    0.5,
+    0.86
+   ],
+   "slot": "weapon",
+   "anchor": "handR",
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "smash1h",
+   "scale": 0.55
+  },
+  "w_greatsword": {
+   "name": {
+    "en": "Greatsword",
+    "th": "ดาบสองมือ"
+   },
+   "sprites": {
+    "north": "/items/w_greatsword/north.png"
+   },
+   "origin": [
+    0.5,
+    0.82
+   ],
+   "slot": "weapon",
+   "anchor": "handR",
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "slash2h",
+   "scale": 0.65
+  },
+  "w_hammer": {
+   "name": {
+    "en": "War Club",
+    "th": "กระบองยักษ์"
+   },
+   "sprites": {
+    "north": "/items/w_hammer/north.png"
+   },
+   "origin": [
+    0.5,
+    0.86
+   ],
+   "slot": "weapon",
+   "anchor": "handR",
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "smash2h",
+   "scale": 0.55
+  },
+  "w_spear": {
+   "name": {
+    "en": "Spear",
+    "th": "หอก"
+   },
+   "sprites": {
+    "north": "/items/w_spear/north.png"
+   },
+   "origin": [
+    0.5,
+    0.62
+   ],
+   "slot": "weapon",
+   "anchor": "handR",
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "thrust",
+   "scale": 0.9
+  },
+  "w_bow": {
+   "name": {
+    "en": "Bow",
+    "th": "ธนู"
+   },
+   "sprites": {
+    "north": "/items/w_bow/north.png"
+   },
+   "origin": [
+    0.2,
+    0.5
+   ],
+   "slot": "weapon",
+   "anchor": "handR",
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "bow",
+   "scale": 1.25,
+   "string": {
+    "top": [
+     12.5,
+     2
+    ],
+    "bottom": [
+     12.5,
+     46
+    ],
+    "color": "#e8dcc0"
+   }
+  },
+  "w_staff": {
+   "name": {
+    "en": "Staff",
+    "th": "ไม้เท้า"
+   },
+   "sprites": {
+    "north": "/items/w_staff/north.png"
+   },
+   "origin": [
+    0.5,
+    0.66
+   ],
+   "slot": "weapon",
+   "anchor": "handR",
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "staff",
+   "scale": 0.59
+  },
+  "s_buckler": {
+   "name": {
+    "en": "Buckler",
+    "th": "โล่"
+   },
+   "sprites": {
+    "south": "/items/s_buckler/south.png"
+   },
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "slot": "shield",
+   "anchor": "handL",
+   "scale": 0.75
+  },
+  "h_kasa": {
+   "name": {
+    "en": "Straw Kasa",
+    "th": "หมวกฟาง"
+   },
+   "sprites": {
+    "south": "/items/h_kasa/south.png"
+   },
+   "origin": [
+    0.5,
+    0.62
+   ],
+   "slot": "headTop",
+   "anchor": "head",
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "h_kabuto": {
+   "name": {
+    "en": "Kabuto",
+    "th": "คาบูโตะ"
+   },
+   "sprites": {
+    "south": "/items/h_kabuto/south.png"
+   },
+   "origin": [
+    0.5,
+    0.66
+   ],
+   "slot": "headTop",
+   "anchor": "head",
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "hair_ponytail": {
+   "name": {
+    "en": "Long Ponytail",
+    "th": "ผมยาวหางม้า"
+   },
+   "slot": "hair",
+   "costume": false,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/hair_ponytail/south.png",
+    "south-east": "/items/hair_ponytail/south-east.png",
+    "east": "/items/hair_ponytail/east.png",
+    "north-east": "/items/hair_ponytail/north-east.png",
+    "north": "/items/hair_ponytail/north.png"
+   }
+  },
+  "face_kitsune": {
+   "name": {
+    "en": "Kitsune Mask",
+    "th": "หน้ากากจิ้งจอก"
+   },
+   "slot": "headMid",
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/face_kitsune/south.png",
+    "south-east": "/items/face_kitsune/south-east.png",
+    "east": "/items/face_kitsune/east.png",
+    "north-east": "/items/face_kitsune/north-east.png"
+   },
+   "hide": [
+    "north",
+    "north-west"
+   ]
+  },
+  "face_oni": {
+   "name": {
+    "en": "Oni Mask",
+    "th": "หน้ากากยักษ์"
+   },
+   "slot": "headMid",
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/face_oni/south.png",
+    "south-east": "/items/face_oni/south-east.png",
+    "east": "/items/face_oni/east.png",
+    "north-east": "/items/face_oni/north-east.png"
+   },
+   "hide": [
+    "north",
+    "north-west"
+   ]
+  }
+ },
+ "hairstyles": [
+  {
+   "id": "default",
+   "item": null,
+   "name": {
+    "en": "Just Rolled Out of Bed",
+    "th": "ทรงตื่นสาย ไม่หวีก็หล่อ"
+   },
+   "preview": "/items/hair_default/preview.png"
+  },
+  {
+   "id": "ponytail",
+   "item": "hair_ponytail",
+   "name": {
+    "en": "Ponytail of Destiny",
+    "th": "หางม้าแห่งโชคชะตา"
+   },
+   "preview": "/items/hair_ponytail/preview.png"
+  }
+ ]
+}

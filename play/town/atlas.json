@@ -1,0 +1,372 @@
+{
+ "frames": {
+  "hall": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 379,
+    "h": 277
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 379,
+    "h": 277
+   },
+   "sourceSize": {
+    "w": 379,
+    "h": 277
+   }
+  },
+  "sacred_tree": {
+   "frame": {
+    "x": 385,
+    "y": 2,
+    "w": 212,
+    "h": 222
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 212,
+    "h": 222
+   },
+   "sourceSize": {
+    "w": 212,
+    "h": 222
+   }
+  },
+  "kura": {
+   "frame": {
+    "x": 2,
+    "y": 283,
+    "w": 208,
+    "h": 171
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 208,
+    "h": 171
+   },
+   "sourceSize": {
+    "w": 208,
+    "h": 171
+   }
+  },
+  "forge": {
+   "frame": {
+    "x": 214,
+    "y": 283,
+    "w": 235,
+    "h": 167
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 235,
+    "h": 167
+   },
+   "sourceSize": {
+    "w": 235,
+    "h": 167
+   }
+  },
+  "stall_shop": {
+   "frame": {
+    "x": 453,
+    "y": 283,
+    "w": 183,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 183,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 183,
+    "h": 128
+   }
+  },
+  "stall_costume": {
+   "frame": {
+    "x": 2,
+    "y": 458,
+    "w": 179,
+    "h": 127
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 179,
+    "h": 127
+   },
+   "sourceSize": {
+    "w": 179,
+    "h": 127
+   }
+  },
+  "bridge": {
+   "frame": {
+    "x": 185,
+    "y": 458,
+    "w": 196,
+    "h": 124
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 196,
+    "h": 124
+   },
+   "sourceSize": {
+    "w": 196,
+    "h": 124
+   }
+  },
+  "torii": {
+   "frame": {
+    "x": 385,
+    "y": 458,
+    "w": 96,
+    "h": 96
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 96
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 96
+   }
+  },
+  "chozuya": {
+   "frame": {
+    "x": 485,
+    "y": 458,
+    "w": 96,
+    "h": 80
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 80
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 80
+   }
+  },
+  "npc_merchant": {
+   "frame": {
+    "x": 585,
+    "y": 458,
+    "w": 38,
+    "h": 76
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 38,
+    "h": 76
+   },
+   "sourceSize": {
+    "w": 38,
+    "h": 76
+   }
+  },
+  "npc_smith": {
+   "frame": {
+    "x": 627,
+    "y": 458,
+    "w": 47,
+    "h": 74
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 47,
+    "h": 74
+   },
+   "sourceSize": {
+    "w": 47,
+    "h": 74
+   }
+  },
+  "npc_tailor": {
+   "frame": {
+    "x": 2,
+    "y": 589,
+    "w": 42,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 42,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 42,
+    "h": 72
+   }
+  },
+  "npc_priest": {
+   "frame": {
+    "x": 48,
+    "y": 589,
+    "w": 55,
+    "h": 70
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 55,
+    "h": 70
+   },
+   "sourceSize": {
+    "w": 55,
+    "h": 70
+   }
+  },
+  "gate_barricade": {
+   "frame": {
+    "x": 107,
+    "y": 589,
+    "w": 50,
+    "h": 66
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 50,
+    "h": 66
+   },
+   "sourceSize": {
+    "w": 50,
+    "h": 66
+   }
+  },
+  "npc_elder": {
+   "frame": {
+    "x": 161,
+    "y": 589,
+    "w": 33,
+    "h": 64
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 33,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 33,
+    "h": 64
+   }
+  },
+  "npc_keeper": {
+   "frame": {
+    "x": 198,
+    "y": 589,
+    "w": 56,
+    "h": 62
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 56,
+    "h": 62
+   },
+   "sourceSize": {
+    "w": 56,
+    "h": 62
+   }
+  },
+  "dummy": {
+   "frame": {
+    "x": 258,
+    "y": 589,
+    "w": 40,
+    "h": 60
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 40,
+    "h": 60
+   },
+   "sourceSize": {
+    "w": 40,
+    "h": 60
+   }
+  },
+  "toro": {
+   "frame": {
+    "x": 302,
+    "y": 589,
+    "w": 22,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 22,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 22,
+    "h": 56
+   }
+  }
+ },
+ "meta": {
+  "image": "atlas.png",
+  "size": {
+   "w": 687,
+   "h": 663
+  },
+  "scale": "1"
+ }
+}

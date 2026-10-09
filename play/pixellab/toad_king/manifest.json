@@ -1,0 +1,37 @@
+{
+ "id": "96684092-a48a-4d14-898a-a9737f9e8c92",
+ "name": "toad_king",
+ "size": {
+  "width": 128,
+  "height": 128
+ },
+ "view": "low top-down",
+ "rotations": {
+  "south": "/pixellab/toad_king/rotations/south.png",
+  "west": "/pixellab/toad_king/rotations/west.png",
+  "east": "/pixellab/toad_king/rotations/east.png",
+  "north": "/pixellab/toad_king/rotations/north.png",
+  "south-east": "/pixellab/toad_king/rotations/south-east.png",
+  "north-east": "/pixellab/toad_king/rotations/north-east.png",
+  "north-west": "/pixellab/toad_king/rotations/north-west.png",
+  "south-west": "/pixellab/toad_king/rotations/south-west.png"
+ },
+ "animations": {
+  "idle": {
+   "south": [
+    "/pixellab/toad_king/animations/idle/south/0.png",
+    "/pixellab/toad_king/animations/idle/south/1.png",
+    "/pixellab/toad_king/animations/idle/south/2.png",
+    "/pixellab/toad_king/animations/idle/south/3.png",
+    "/pixellab/toad_king/animations/idle/south/4.png",
+    "/pixellab/toad_king/animations/idle/south/5.png",
+    "/pixellab/toad_king/animations/idle/south/6.png",
+    "/pixellab/toad_king/animations/idle/south/7.png",
+    "/pixellab/toad_king/animations/idle/south/8.png"
+   ]
+  }
+ },
+ "atlas": [
+  "/pixellab/toad_king/frames_0"
+ ]
+}

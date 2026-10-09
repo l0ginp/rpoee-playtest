@@ -1,0 +1,763 @@
+{
+ "id": "ea975a4e-4b5f-4ed4-b1dc-18254e739808",
+ "name": "swordman_base",
+ "size": {
+  "width": 88,
+  "height": 88
+ },
+ "view": "low top-down",
+ "rotations": {
+  "south": "/pixellab/swordman_base/rotations/south.png",
+  "west": "/pixellab/swordman_base/rotations/west.png",
+  "east": "/pixellab/swordman_base/rotations/east.png",
+  "north": "/pixellab/swordman_base/rotations/north.png",
+  "south-east": "/pixellab/swordman_base/rotations/south-east.png",
+  "north-east": "/pixellab/swordman_base/rotations/north-east.png",
+  "north-west": "/pixellab/swordman_base/rotations/north-west.png",
+  "south-west": "/pixellab/swordman_base/rotations/south-west.png"
+ },
+ "animations": {
+  "breathing-idle": {
+   "south": [
+    "/pixellab/swordman_base/animations/breathing-idle/south/0.png",
+    "/pixellab/swordman_base/animations/breathing-idle/south/1.png",
+    "/pixellab/swordman_base/animations/breathing-idle/south/2.png",
+    "/pixellab/swordman_base/animations/breathing-idle/south/3.png"
+   ],
+   "south-west": [
+    "/pixellab/swordman_base/animations/breathing-idle/south-west/0.png",
+    "/pixellab/swordman_base/animations/breathing-idle/south-west/1.png",
+    "/pixellab/swordman_base/animations/breathing-idle/south-west/2.png",
+    "/pixellab/swordman_base/animations/breathing-idle/south-west/3.png"
+   ],
+   "north-west": [
+    "/pixellab/swordman_base/animations/breathing-idle/north-west/0.png",
+    "/pixellab/swordman_base/animations/breathing-idle/north-west/1.png",
+    "/pixellab/swordman_base/animations/breathing-idle/north-west/2.png",
+    "/pixellab/swordman_base/animations/breathing-idle/north-west/3.png"
+   ],
+   "west": [
+    "/pixellab/swordman_base/animations/breathing-idle/west/0.png",
+    "/pixellab/swordman_base/animations/breathing-idle/west/1.png",
+    "/pixellab/swordman_base/animations/breathing-idle/west/2.png",
+    "/pixellab/swordman_base/animations/breathing-idle/west/3.png"
+   ],
+   "north-east": [
+    "/pixellab/swordman_base/animations/breathing-idle/north-east/0.png",
+    "/pixellab/swordman_base/animations/breathing-idle/north-east/1.png",
+    "/pixellab/swordman_base/animations/breathing-idle/north-east/2.png",
+    "/pixellab/swordman_base/animations/breathing-idle/north-east/3.png"
+   ],
+   "east": [
+    "/pixellab/swordman_base/animations/breathing-idle/east/0.png",
+    "/pixellab/swordman_base/animations/breathing-idle/east/1.png",
+    "/pixellab/swordman_base/animations/breathing-idle/east/2.png",
+    "/pixellab/swordman_base/animations/breathing-idle/east/3.png"
+   ],
+   "south-east": [
+    "/pixellab/swordman_base/animations/breathing-idle/south-east/0.png",
+    "/pixellab/swordman_base/animations/breathing-idle/south-east/1.png",
+    "/pixellab/swordman_base/animations/breathing-idle/south-east/2.png",
+    "/pixellab/swordman_base/animations/breathing-idle/south-east/3.png"
+   ],
+   "north": [
+    "/pixellab/swordman_base/animations/breathing-idle/north/0.png",
+    "/pixellab/swordman_base/animations/breathing-idle/north/1.png",
+    "/pixellab/swordman_base/animations/breathing-idle/north/2.png",
+    "/pixellab/swordman_base/animations/breathing-idle/north/3.png"
+   ]
+  },
+  "slash2h": {
+   "east": [
+    "/pixellab/swordman_base/animations/slash2h/east/0.png",
+    "/pixellab/swordman_base/animations/slash2h/east/1.png",
+    "/pixellab/swordman_base/animations/slash2h/east/2.png",
+    "/pixellab/swordman_base/animations/slash2h/east/3.png",
+    "/pixellab/swordman_base/animations/slash2h/east/4.png",
+    "/pixellab/swordman_base/animations/slash2h/east/5.png",
+    "/pixellab/swordman_base/animations/slash2h/east/6.png",
+    "/pixellab/swordman_base/animations/slash2h/east/7.png",
+    "/pixellab/swordman_base/animations/slash2h/east/8.png",
+    "/pixellab/swordman_base/animations/slash2h/east/9.png",
+    "/pixellab/swordman_base/animations/slash2h/east/10.png"
+   ],
+   "north-east": [
+    "/pixellab/swordman_base/animations/slash2h/north-east/0.png",
+    "/pixellab/swordman_base/animations/slash2h/north-east/1.png",
+    "/pixellab/swordman_base/animations/slash2h/north-east/2.png",
+    "/pixellab/swordman_base/animations/slash2h/north-east/3.png",
+    "/pixellab/swordman_base/animations/slash2h/north-east/4.png",
+    "/pixellab/swordman_base/animations/slash2h/north-east/5.png",
+    "/pixellab/swordman_base/animations/slash2h/north-east/6.png",
+    "/pixellab/swordman_base/animations/slash2h/north-east/7.png",
+    "/pixellab/swordman_base/animations/slash2h/north-east/8.png",
+    "/pixellab/swordman_base/animations/slash2h/north-east/9.png",
+    "/pixellab/swordman_base/animations/slash2h/north-east/10.png"
+   ],
+   "south": [
+    "/pixellab/swordman_base/animations/slash2h/south/0.png",
+    "/pixellab/swordman_base/animations/slash2h/south/1.png",
+    "/pixellab/swordman_base/animations/slash2h/south/2.png",
+    "/pixellab/swordman_base/animations/slash2h/south/3.png",
+    "/pixellab/swordman_base/animations/slash2h/south/4.png",
+    "/pixellab/swordman_base/animations/slash2h/south/5.png",
+    "/pixellab/swordman_base/animations/slash2h/south/6.png",
+    "/pixellab/swordman_base/animations/slash2h/south/7.png",
+    "/pixellab/swordman_base/animations/slash2h/south/8.png",
+    "/pixellab/swordman_base/animations/slash2h/south/9.png",
+    "/pixellab/swordman_base/animations/slash2h/south/10.png"
+   ],
+   "south-east": [
+    "/pixellab/swordman_base/animations/slash2h/south-east/0.png",
+    "/pixellab/swordman_base/animations/slash2h/south-east/1.png",
+    "/pixellab/swordman_base/animations/slash2h/south-east/2.png",
+    "/pixellab/swordman_base/animations/slash2h/south-east/3.png",
+    "/pixellab/swordman_base/animations/slash2h/south-east/4.png",
+    "/pixellab/swordman_base/animations/slash2h/south-east/5.png",
+    "/pixellab/swordman_base/animations/slash2h/south-east/6.png",
+    "/pixellab/swordman_base/animations/slash2h/south-east/7.png",
+    "/pixellab/swordman_base/animations/slash2h/south-east/8.png",
+    "/pixellab/swordman_base/animations/slash2h/south-east/9.png",
+    "/pixellab/swordman_base/animations/slash2h/south-east/10.png"
+   ],
+   "north": [
+    "/pixellab/swordman_base/animations/slash2h/north/0.png",
+    "/pixellab/swordman_base/animations/slash2h/north/1.png",
+    "/pixellab/swordman_base/animations/slash2h/north/2.png",
+    "/pixellab/swordman_base/animations/slash2h/north/3.png",
+    "/pixellab/swordman_base/animations/slash2h/north/4.png",
+    "/pixellab/swordman_base/animations/slash2h/north/5.png",
+    "/pixellab/swordman_base/animations/slash2h/north/6.png",
+    "/pixellab/swordman_base/animations/slash2h/north/7.png",
+    "/pixellab/swordman_base/animations/slash2h/north/8.png",
+    "/pixellab/swordman_base/animations/slash2h/north/9.png",
+    "/pixellab/swordman_base/animations/slash2h/north/10.png"
+   ]
+  },
+  "staff": {
+   "north-east": [
+    "/pixellab/swordman_base/animations/staff/north-east/0.png",
+    "/pixellab/swordman_base/animations/staff/north-east/1.png",
+    "/pixellab/swordman_base/animations/staff/north-east/2.png",
+    "/pixellab/swordman_base/animations/staff/north-east/3.png",
+    "/pixellab/swordman_base/animations/staff/north-east/4.png",
+    "/pixellab/swordman_base/animations/staff/north-east/5.png",
+    "/pixellab/swordman_base/animations/staff/north-east/6.png",
+    "/pixellab/swordman_base/animations/staff/north-east/7.png",
+    "/pixellab/swordman_base/animations/staff/north-east/8.png"
+   ],
+   "south": [
+    "/pixellab/swordman_base/animations/staff/south/0.png",
+    "/pixellab/swordman_base/animations/staff/south/1.png",
+    "/pixellab/swordman_base/animations/staff/south/2.png",
+    "/pixellab/swordman_base/animations/staff/south/3.png",
+    "/pixellab/swordman_base/animations/staff/south/4.png",
+    "/pixellab/swordman_base/animations/staff/south/5.png",
+    "/pixellab/swordman_base/animations/staff/south/6.png",
+    "/pixellab/swordman_base/animations/staff/south/7.png",
+    "/pixellab/swordman_base/animations/staff/south/8.png"
+   ],
+   "east": [
+    "/pixellab/swordman_base/animations/staff/east/0.png",
+    "/pixellab/swordman_base/animations/staff/east/1.png",
+    "/pixellab/swordman_base/animations/staff/east/2.png",
+    "/pixellab/swordman_base/animations/staff/east/3.png",
+    "/pixellab/swordman_base/animations/staff/east/4.png",
+    "/pixellab/swordman_base/animations/staff/east/5.png",
+    "/pixellab/swordman_base/animations/staff/east/6.png",
+    "/pixellab/swordman_base/animations/staff/east/7.png",
+    "/pixellab/swordman_base/animations/staff/east/8.png"
+   ],
+   "north": [
+    "/pixellab/swordman_base/animations/staff/north/0.png",
+    "/pixellab/swordman_base/animations/staff/north/1.png",
+    "/pixellab/swordman_base/animations/staff/north/2.png",
+    "/pixellab/swordman_base/animations/staff/north/3.png",
+    "/pixellab/swordman_base/animations/staff/north/4.png",
+    "/pixellab/swordman_base/animations/staff/north/5.png",
+    "/pixellab/swordman_base/animations/staff/north/6.png",
+    "/pixellab/swordman_base/animations/staff/north/7.png",
+    "/pixellab/swordman_base/animations/staff/north/8.png"
+   ],
+   "south-east": [
+    "/pixellab/swordman_base/animations/staff/south-east/0.png",
+    "/pixellab/swordman_base/animations/staff/south-east/1.png",
+    "/pixellab/swordman_base/animations/staff/south-east/2.png",
+    "/pixellab/swordman_base/animations/staff/south-east/3.png",
+    "/pixellab/swordman_base/animations/staff/south-east/4.png",
+    "/pixellab/swordman_base/animations/staff/south-east/5.png",
+    "/pixellab/swordman_base/animations/staff/south-east/6.png",
+    "/pixellab/swordman_base/animations/staff/south-east/7.png",
+    "/pixellab/swordman_base/animations/staff/south-east/8.png"
+   ]
+  },
+  "attack": {
+   "south-east": [
+    "/pixellab/swordman_base/animations/attack/south-east/0.png",
+    "/pixellab/swordman_base/animations/attack/south-east/1.png",
+    "/pixellab/swordman_base/animations/attack/south-east/2.png",
+    "/pixellab/swordman_base/animations/attack/south-east/3.png",
+    "/pixellab/swordman_base/animations/attack/south-east/4.png",
+    "/pixellab/swordman_base/animations/attack/south-east/5.png",
+    "/pixellab/swordman_base/animations/attack/south-east/6.png",
+    "/pixellab/swordman_base/animations/attack/south-east/7.png",
+    "/pixellab/swordman_base/animations/attack/south-east/8.png"
+   ],
+   "north": [
+    "/pixellab/swordman_base/animations/attack/north/0.png",
+    "/pixellab/swordman_base/animations/attack/north/1.png",
+    "/pixellab/swordman_base/animations/attack/north/2.png",
+    "/pixellab/swordman_base/animations/attack/north/3.png",
+    "/pixellab/swordman_base/animations/attack/north/4.png",
+    "/pixellab/swordman_base/animations/attack/north/5.png",
+    "/pixellab/swordman_base/animations/attack/north/6.png",
+    "/pixellab/swordman_base/animations/attack/north/7.png",
+    "/pixellab/swordman_base/animations/attack/north/8.png"
+   ],
+   "north-east": [
+    "/pixellab/swordman_base/animations/attack/north-east/0.png",
+    "/pixellab/swordman_base/animations/attack/north-east/1.png",
+    "/pixellab/swordman_base/animations/attack/north-east/2.png",
+    "/pixellab/swordman_base/animations/attack/north-east/3.png",
+    "/pixellab/swordman_base/animations/attack/north-east/4.png",
+    "/pixellab/swordman_base/animations/attack/north-east/5.png",
+    "/pixellab/swordman_base/animations/attack/north-east/6.png",
+    "/pixellab/swordman_base/animations/attack/north-east/7.png",
+    "/pixellab/swordman_base/animations/attack/north-east/8.png"
+   ],
+   "north-west": [
+    "/pixellab/swordman_base/animations/attack/north-west/0.png",
+    "/pixellab/swordman_base/animations/attack/north-west/1.png",
+    "/pixellab/swordman_base/animations/attack/north-west/2.png",
+    "/pixellab/swordman_base/animations/attack/north-west/3.png",
+    "/pixellab/swordman_base/animations/attack/north-west/4.png",
+    "/pixellab/swordman_base/animations/attack/north-west/5.png",
+    "/pixellab/swordman_base/animations/attack/north-west/6.png",
+    "/pixellab/swordman_base/animations/attack/north-west/7.png",
+    "/pixellab/swordman_base/animations/attack/north-west/8.png"
+   ],
+   "east": [
+    "/pixellab/swordman_base/animations/attack/east/0.png",
+    "/pixellab/swordman_base/animations/attack/east/1.png",
+    "/pixellab/swordman_base/animations/attack/east/2.png",
+    "/pixellab/swordman_base/animations/attack/east/3.png",
+    "/pixellab/swordman_base/animations/attack/east/4.png",
+    "/pixellab/swordman_base/animations/attack/east/5.png",
+    "/pixellab/swordman_base/animations/attack/east/6.png",
+    "/pixellab/swordman_base/animations/attack/east/7.png",
+    "/pixellab/swordman_base/animations/attack/east/8.png"
+   ],
+   "west": [
+    "/pixellab/swordman_base/animations/attack/west/0.png",
+    "/pixellab/swordman_base/animations/attack/west/1.png",
+    "/pixellab/swordman_base/animations/attack/west/2.png",
+    "/pixellab/swordman_base/animations/attack/west/3.png",
+    "/pixellab/swordman_base/animations/attack/west/4.png",
+    "/pixellab/swordman_base/animations/attack/west/5.png",
+    "/pixellab/swordman_base/animations/attack/west/6.png",
+    "/pixellab/swordman_base/animations/attack/west/7.png",
+    "/pixellab/swordman_base/animations/attack/west/8.png"
+   ],
+   "south": [
+    "/pixellab/swordman_base/animations/attack/south/0.png",
+    "/pixellab/swordman_base/animations/attack/south/1.png",
+    "/pixellab/swordman_base/animations/attack/south/2.png",
+    "/pixellab/swordman_base/animations/attack/south/3.png",
+    "/pixellab/swordman_base/animations/attack/south/4.png",
+    "/pixellab/swordman_base/animations/attack/south/5.png",
+    "/pixellab/swordman_base/animations/attack/south/6.png",
+    "/pixellab/swordman_base/animations/attack/south/7.png",
+    "/pixellab/swordman_base/animations/attack/south/8.png"
+   ],
+   "south-west": [
+    "/pixellab/swordman_base/animations/attack/south-west/0.png",
+    "/pixellab/swordman_base/animations/attack/south-west/1.png",
+    "/pixellab/swordman_base/animations/attack/south-west/2.png",
+    "/pixellab/swordman_base/animations/attack/south-west/3.png",
+    "/pixellab/swordman_base/animations/attack/south-west/4.png",
+    "/pixellab/swordman_base/animations/attack/south-west/5.png",
+    "/pixellab/swordman_base/animations/attack/south-west/6.png",
+    "/pixellab/swordman_base/animations/attack/south-west/7.png",
+    "/pixellab/swordman_base/animations/attack/south-west/8.png"
+   ]
+  },
+  "bow": {
+   "north": [
+    "/pixellab/swordman_base/animations/bow/north/0.png",
+    "/pixellab/swordman_base/animations/bow/north/1.png",
+    "/pixellab/swordman_base/animations/bow/north/2.png",
+    "/pixellab/swordman_base/animations/bow/north/3.png",
+    "/pixellab/swordman_base/animations/bow/north/4.png",
+    "/pixellab/swordman_base/animations/bow/north/5.png",
+    "/pixellab/swordman_base/animations/bow/north/6.png",
+    "/pixellab/swordman_base/animations/bow/north/7.png"
+   ],
+   "south": [
+    "/pixellab/swordman_base/animations/bow/south/0.png",
+    "/pixellab/swordman_base/animations/bow/south/1.png",
+    "/pixellab/swordman_base/animations/bow/south/2.png",
+    "/pixellab/swordman_base/animations/bow/south/3.png",
+    "/pixellab/swordman_base/animations/bow/south/4.png",
+    "/pixellab/swordman_base/animations/bow/south/5.png",
+    "/pixellab/swordman_base/animations/bow/south/6.png",
+    "/pixellab/swordman_base/animations/bow/south/7.png",
+    "/pixellab/swordman_base/animations/bow/south/8.png"
+   ],
+   "east": [
+    "/pixellab/swordman_base/animations/bow/east/0.png",
+    "/pixellab/swordman_base/animations/bow/east/1.png",
+    "/pixellab/swordman_base/animations/bow/east/2.png",
+    "/pixellab/swordman_base/animations/bow/east/3.png",
+    "/pixellab/swordman_base/animations/bow/east/4.png",
+    "/pixellab/swordman_base/animations/bow/east/5.png",
+    "/pixellab/swordman_base/animations/bow/east/6.png",
+    "/pixellab/swordman_base/animations/bow/east/7.png",
+    "/pixellab/swordman_base/animations/bow/east/8.png"
+   ],
+   "north-east": [
+    "/pixellab/swordman_base/animations/bow/north-east/0.png",
+    "/pixellab/swordman_base/animations/bow/north-east/1.png",
+    "/pixellab/swordman_base/animations/bow/north-east/2.png",
+    "/pixellab/swordman_base/animations/bow/north-east/3.png",
+    "/pixellab/swordman_base/animations/bow/north-east/4.png",
+    "/pixellab/swordman_base/animations/bow/north-east/5.png",
+    "/pixellab/swordman_base/animations/bow/north-east/6.png",
+    "/pixellab/swordman_base/animations/bow/north-east/7.png",
+    "/pixellab/swordman_base/animations/bow/north-east/8.png"
+   ],
+   "south-east": [
+    "/pixellab/swordman_base/animations/bow/south-east/0.png",
+    "/pixellab/swordman_base/animations/bow/south-east/1.png",
+    "/pixellab/swordman_base/animations/bow/south-east/2.png",
+    "/pixellab/swordman_base/animations/bow/south-east/3.png",
+    "/pixellab/swordman_base/animations/bow/south-east/4.png",
+    "/pixellab/swordman_base/animations/bow/south-east/5.png",
+    "/pixellab/swordman_base/animations/bow/south-east/6.png",
+    "/pixellab/swordman_base/animations/bow/south-east/7.png",
+    "/pixellab/swordman_base/animations/bow/south-east/8.png"
+   ]
+  },
+  "smash2h": {
+   "east": [
+    "/pixellab/swordman_base/animations/smash2h/east/0.png",
+    "/pixellab/swordman_base/animations/smash2h/east/1.png",
+    "/pixellab/swordman_base/animations/smash2h/east/2.png",
+    "/pixellab/swordman_base/animations/smash2h/east/3.png",
+    "/pixellab/swordman_base/animations/smash2h/east/4.png",
+    "/pixellab/swordman_base/animations/smash2h/east/5.png",
+    "/pixellab/swordman_base/animations/smash2h/east/6.png",
+    "/pixellab/swordman_base/animations/smash2h/east/7.png",
+    "/pixellab/swordman_base/animations/smash2h/east/8.png",
+    "/pixellab/swordman_base/animations/smash2h/east/9.png",
+    "/pixellab/swordman_base/animations/smash2h/east/10.png"
+   ],
+   "north": [
+    "/pixellab/swordman_base/animations/smash2h/north/0.png",
+    "/pixellab/swordman_base/animations/smash2h/north/1.png",
+    "/pixellab/swordman_base/animations/smash2h/north/2.png",
+    "/pixellab/swordman_base/animations/smash2h/north/3.png",
+    "/pixellab/swordman_base/animations/smash2h/north/4.png",
+    "/pixellab/swordman_base/animations/smash2h/north/5.png",
+    "/pixellab/swordman_base/animations/smash2h/north/6.png",
+    "/pixellab/swordman_base/animations/smash2h/north/7.png",
+    "/pixellab/swordman_base/animations/smash2h/north/8.png",
+    "/pixellab/swordman_base/animations/smash2h/north/9.png",
+    "/pixellab/swordman_base/animations/smash2h/north/10.png"
+   ],
+   "south-east": [
+    "/pixellab/swordman_base/animations/smash2h/south-east/0.png",
+    "/pixellab/swordman_base/animations/smash2h/south-east/1.png",
+    "/pixellab/swordman_base/animations/smash2h/south-east/2.png",
+    "/pixellab/swordman_base/animations/smash2h/south-east/3.png",
+    "/pixellab/swordman_base/animations/smash2h/south-east/4.png",
+    "/pixellab/swordman_base/animations/smash2h/south-east/5.png",
+    "/pixellab/swordman_base/animations/smash2h/south-east/6.png",
+    "/pixellab/swordman_base/animations/smash2h/south-east/7.png",
+    "/pixellab/swordman_base/animations/smash2h/south-east/8.png",
+    "/pixellab/swordman_base/animations/smash2h/south-east/9.png",
+    "/pixellab/swordman_base/animations/smash2h/south-east/10.png"
+   ],
+   "north-east": [
+    "/pixellab/swordman_base/animations/smash2h/north-east/0.png",
+    "/pixellab/swordman_base/animations/smash2h/north-east/1.png",
+    "/pixellab/swordman_base/animations/smash2h/north-east/2.png",
+    "/pixellab/swordman_base/animations/smash2h/north-east/3.png",
+    "/pixellab/swordman_base/animations/smash2h/north-east/4.png",
+    "/pixellab/swordman_base/animations/smash2h/north-east/5.png",
+    "/pixellab/swordman_base/animations/smash2h/north-east/6.png",
+    "/pixellab/swordman_base/animations/smash2h/north-east/7.png",
+    "/pixellab/swordman_base/animations/smash2h/north-east/8.png",
+    "/pixellab/swordman_base/animations/smash2h/north-east/9.png",
+    "/pixellab/swordman_base/animations/smash2h/north-east/10.png"
+   ],
+   "south": [
+    "/pixellab/swordman_base/animations/smash2h/south/0.png",
+    "/pixellab/swordman_base/animations/smash2h/south/1.png",
+    "/pixellab/swordman_base/animations/smash2h/south/2.png",
+    "/pixellab/swordman_base/animations/smash2h/south/3.png",
+    "/pixellab/swordman_base/animations/smash2h/south/4.png",
+    "/pixellab/swordman_base/animations/smash2h/south/5.png",
+    "/pixellab/swordman_base/animations/smash2h/south/6.png",
+    "/pixellab/swordman_base/animations/smash2h/south/7.png",
+    "/pixellab/swordman_base/animations/smash2h/south/8.png",
+    "/pixellab/swordman_base/animations/smash2h/south/9.png",
+    "/pixellab/swordman_base/animations/smash2h/south/10.png"
+   ]
+  },
+  "slash1h": {
+   "east": [
+    "/pixellab/swordman_base/animations/slash1h/east/0.png",
+    "/pixellab/swordman_base/animations/slash1h/east/1.png",
+    "/pixellab/swordman_base/animations/slash1h/east/2.png",
+    "/pixellab/swordman_base/animations/slash1h/east/3.png",
+    "/pixellab/swordman_base/animations/slash1h/east/4.png",
+    "/pixellab/swordman_base/animations/slash1h/east/5.png",
+    "/pixellab/swordman_base/animations/slash1h/east/6.png",
+    "/pixellab/swordman_base/animations/slash1h/east/7.png",
+    "/pixellab/swordman_base/animations/slash1h/east/8.png"
+   ],
+   "south": [
+    "/pixellab/swordman_base/animations/slash1h/south/0.png",
+    "/pixellab/swordman_base/animations/slash1h/south/1.png",
+    "/pixellab/swordman_base/animations/slash1h/south/2.png",
+    "/pixellab/swordman_base/animations/slash1h/south/3.png",
+    "/pixellab/swordman_base/animations/slash1h/south/4.png",
+    "/pixellab/swordman_base/animations/slash1h/south/5.png",
+    "/pixellab/swordman_base/animations/slash1h/south/6.png",
+    "/pixellab/swordman_base/animations/slash1h/south/7.png",
+    "/pixellab/swordman_base/animations/slash1h/south/8.png"
+   ],
+   "south-east": [
+    "/pixellab/swordman_base/animations/slash1h/south-east/0.png",
+    "/pixellab/swordman_base/animations/slash1h/south-east/1.png",
+    "/pixellab/swordman_base/animations/slash1h/south-east/2.png",
+    "/pixellab/swordman_base/animations/slash1h/south-east/3.png",
+    "/pixellab/swordman_base/animations/slash1h/south-east/4.png",
+    "/pixellab/swordman_base/animations/slash1h/south-east/5.png",
+    "/pixellab/swordman_base/animations/slash1h/south-east/6.png",
+    "/pixellab/swordman_base/animations/slash1h/south-east/7.png",
+    "/pixellab/swordman_base/animations/slash1h/south-east/8.png"
+   ],
+   "north": [
+    "/pixellab/swordman_base/animations/slash1h/north/0.png",
+    "/pixellab/swordman_base/animations/slash1h/north/1.png",
+    "/pixellab/swordman_base/animations/slash1h/north/2.png",
+    "/pixellab/swordman_base/animations/slash1h/north/3.png",
+    "/pixellab/swordman_base/animations/slash1h/north/4.png",
+    "/pixellab/swordman_base/animations/slash1h/north/5.png",
+    "/pixellab/swordman_base/animations/slash1h/north/6.png",
+    "/pixellab/swordman_base/animations/slash1h/north/7.png",
+    "/pixellab/swordman_base/animations/slash1h/north/8.png"
+   ],
+   "north-east": [
+    "/pixellab/swordman_base/animations/slash1h/north-east/0.png",
+    "/pixellab/swordman_base/animations/slash1h/north-east/1.png",
+    "/pixellab/swordman_base/animations/slash1h/north-east/2.png",
+    "/pixellab/swordman_base/animations/slash1h/north-east/3.png",
+    "/pixellab/swordman_base/animations/slash1h/north-east/4.png",
+    "/pixellab/swordman_base/animations/slash1h/north-east/5.png",
+    "/pixellab/swordman_base/animations/slash1h/north-east/6.png",
+    "/pixellab/swordman_base/animations/slash1h/north-east/7.png",
+    "/pixellab/swordman_base/animations/slash1h/north-east/8.png"
+   ]
+  },
+  "thrust": {
+   "south": [
+    "/pixellab/swordman_base/animations/thrust/south/0.png",
+    "/pixellab/swordman_base/animations/thrust/south/1.png",
+    "/pixellab/swordman_base/animations/thrust/south/2.png",
+    "/pixellab/swordman_base/animations/thrust/south/3.png",
+    "/pixellab/swordman_base/animations/thrust/south/4.png",
+    "/pixellab/swordman_base/animations/thrust/south/5.png",
+    "/pixellab/swordman_base/animations/thrust/south/6.png",
+    "/pixellab/swordman_base/animations/thrust/south/7.png",
+    "/pixellab/swordman_base/animations/thrust/south/8.png"
+   ],
+   "south-east": [
+    "/pixellab/swordman_base/animations/thrust/south-east/0.png",
+    "/pixellab/swordman_base/animations/thrust/south-east/1.png",
+    "/pixellab/swordman_base/animations/thrust/south-east/2.png",
+    "/pixellab/swordman_base/animations/thrust/south-east/3.png",
+    "/pixellab/swordman_base/animations/thrust/south-east/4.png",
+    "/pixellab/swordman_base/animations/thrust/south-east/5.png",
+    "/pixellab/swordman_base/animations/thrust/south-east/6.png",
+    "/pixellab/swordman_base/animations/thrust/south-east/7.png",
+    "/pixellab/swordman_base/animations/thrust/south-east/8.png"
+   ],
+   "north-east": [
+    "/pixellab/swordman_base/animations/thrust/north-east/0.png",
+    "/pixellab/swordman_base/animations/thrust/north-east/1.png",
+    "/pixellab/swordman_base/animations/thrust/north-east/2.png",
+    "/pixellab/swordman_base/animations/thrust/north-east/3.png",
+    "/pixellab/swordman_base/animations/thrust/north-east/4.png",
+    "/pixellab/swordman_base/animations/thrust/north-east/5.png",
+    "/pixellab/swordman_base/animations/thrust/north-east/6.png",
+    "/pixellab/swordman_base/animations/thrust/north-east/7.png",
+    "/pixellab/swordman_base/animations/thrust/north-east/8.png"
+   ],
+   "north": [
+    "/pixellab/swordman_base/animations/thrust/north/0.png",
+    "/pixellab/swordman_base/animations/thrust/north/1.png",
+    "/pixellab/swordman_base/animations/thrust/north/2.png",
+    "/pixellab/swordman_base/animations/thrust/north/3.png",
+    "/pixellab/swordman_base/animations/thrust/north/4.png",
+    "/pixellab/swordman_base/animations/thrust/north/5.png",
+    "/pixellab/swordman_base/animations/thrust/north/6.png",
+    "/pixellab/swordman_base/animations/thrust/north/7.png",
+    "/pixellab/swordman_base/animations/thrust/north/8.png"
+   ],
+   "east": [
+    "/pixellab/swordman_base/animations/thrust/east/0.png",
+    "/pixellab/swordman_base/animations/thrust/east/1.png",
+    "/pixellab/swordman_base/animations/thrust/east/2.png",
+    "/pixellab/swordman_base/animations/thrust/east/3.png",
+    "/pixellab/swordman_base/animations/thrust/east/4.png",
+    "/pixellab/swordman_base/animations/thrust/east/5.png",
+    "/pixellab/swordman_base/animations/thrust/east/6.png",
+    "/pixellab/swordman_base/animations/thrust/east/7.png",
+    "/pixellab/swordman_base/animations/thrust/east/8.png"
+   ]
+  },
+  "smash1h": {
+   "north": [
+    "/pixellab/swordman_base/animations/smash1h/north/0.png",
+    "/pixellab/swordman_base/animations/smash1h/north/1.png",
+    "/pixellab/swordman_base/animations/smash1h/north/2.png",
+    "/pixellab/swordman_base/animations/smash1h/north/3.png",
+    "/pixellab/swordman_base/animations/smash1h/north/4.png",
+    "/pixellab/swordman_base/animations/smash1h/north/5.png",
+    "/pixellab/swordman_base/animations/smash1h/north/6.png",
+    "/pixellab/swordman_base/animations/smash1h/north/7.png",
+    "/pixellab/swordman_base/animations/smash1h/north/8.png"
+   ],
+   "east": [
+    "/pixellab/swordman_base/animations/smash1h/east/0.png",
+    "/pixellab/swordman_base/animations/smash1h/east/1.png",
+    "/pixellab/swordman_base/animations/smash1h/east/2.png",
+    "/pixellab/swordman_base/animations/smash1h/east/3.png",
+    "/pixellab/swordman_base/animations/smash1h/east/4.png",
+    "/pixellab/swordman_base/animations/smash1h/east/5.png",
+    "/pixellab/swordman_base/animations/smash1h/east/6.png",
+    "/pixellab/swordman_base/animations/smash1h/east/7.png",
+    "/pixellab/swordman_base/animations/smash1h/east/8.png"
+   ],
+   "south-east": [
+    "/pixellab/swordman_base/animations/smash1h/south-east/0.png",
+    "/pixellab/swordman_base/animations/smash1h/south-east/1.png",
+    "/pixellab/swordman_base/animations/smash1h/south-east/2.png",
+    "/pixellab/swordman_base/animations/smash1h/south-east/3.png",
+    "/pixellab/swordman_base/animations/smash1h/south-east/4.png",
+    "/pixellab/swordman_base/animations/smash1h/south-east/5.png",
+    "/pixellab/swordman_base/animations/smash1h/south-east/6.png",
+    "/pixellab/swordman_base/animations/smash1h/south-east/7.png",
+    "/pixellab/swordman_base/animations/smash1h/south-east/8.png"
+   ],
+   "north-east": [
+    "/pixellab/swordman_base/animations/smash1h/north-east/0.png",
+    "/pixellab/swordman_base/animations/smash1h/north-east/1.png",
+    "/pixellab/swordman_base/animations/smash1h/north-east/2.png",
+    "/pixellab/swordman_base/animations/smash1h/north-east/3.png",
+    "/pixellab/swordman_base/animations/smash1h/north-east/4.png",
+    "/pixellab/swordman_base/animations/smash1h/north-east/5.png",
+    "/pixellab/swordman_base/animations/smash1h/north-east/6.png",
+    "/pixellab/swordman_base/animations/smash1h/north-east/7.png",
+    "/pixellab/swordman_base/animations/smash1h/north-east/8.png"
+   ],
+   "south": [
+    "/pixellab/swordman_base/animations/smash1h/south/0.png",
+    "/pixellab/swordman_base/animations/smash1h/south/1.png",
+    "/pixellab/swordman_base/animations/smash1h/south/2.png",
+    "/pixellab/swordman_base/animations/smash1h/south/3.png",
+    "/pixellab/swordman_base/animations/smash1h/south/4.png",
+    "/pixellab/swordman_base/animations/smash1h/south/5.png",
+    "/pixellab/swordman_base/animations/smash1h/south/6.png",
+    "/pixellab/swordman_base/animations/smash1h/south/7.png",
+    "/pixellab/swordman_base/animations/smash1h/south/8.png"
+   ]
+  },
+  "stab": {
+   "east": [
+    "/pixellab/swordman_base/animations/stab/east/0.png",
+    "/pixellab/swordman_base/animations/stab/east/1.png",
+    "/pixellab/swordman_base/animations/stab/east/2.png",
+    "/pixellab/swordman_base/animations/stab/east/3.png",
+    "/pixellab/swordman_base/animations/stab/east/4.png",
+    "/pixellab/swordman_base/animations/stab/east/5.png",
+    "/pixellab/swordman_base/animations/stab/east/6.png",
+    "/pixellab/swordman_base/animations/stab/east/7.png",
+    "/pixellab/swordman_base/animations/stab/east/8.png"
+   ],
+   "south-east": [
+    "/pixellab/swordman_base/animations/stab/south-east/0.png",
+    "/pixellab/swordman_base/animations/stab/south-east/1.png",
+    "/pixellab/swordman_base/animations/stab/south-east/2.png",
+    "/pixellab/swordman_base/animations/stab/south-east/3.png",
+    "/pixellab/swordman_base/animations/stab/south-east/4.png",
+    "/pixellab/swordman_base/animations/stab/south-east/5.png",
+    "/pixellab/swordman_base/animations/stab/south-east/6.png",
+    "/pixellab/swordman_base/animations/stab/south-east/7.png",
+    "/pixellab/swordman_base/animations/stab/south-east/8.png"
+   ],
+   "south": [
+    "/pixellab/swordman_base/animations/stab/south/0.png",
+    "/pixellab/swordman_base/animations/stab/south/1.png",
+    "/pixellab/swordman_base/animations/stab/south/2.png",
+    "/pixellab/swordman_base/animations/stab/south/3.png",
+    "/pixellab/swordman_base/animations/stab/south/4.png",
+    "/pixellab/swordman_base/animations/stab/south/5.png",
+    "/pixellab/swordman_base/animations/stab/south/6.png",
+    "/pixellab/swordman_base/animations/stab/south/7.png",
+    "/pixellab/swordman_base/animations/stab/south/8.png"
+   ],
+   "north-east": [
+    "/pixellab/swordman_base/animations/stab/north-east/0.png",
+    "/pixellab/swordman_base/animations/stab/north-east/1.png",
+    "/pixellab/swordman_base/animations/stab/north-east/2.png",
+    "/pixellab/swordman_base/animations/stab/north-east/3.png",
+    "/pixellab/swordman_base/animations/stab/north-east/4.png",
+    "/pixellab/swordman_base/animations/stab/north-east/5.png",
+    "/pixellab/swordman_base/animations/stab/north-east/6.png",
+    "/pixellab/swordman_base/animations/stab/north-east/7.png",
+    "/pixellab/swordman_base/animations/stab/north-east/8.png"
+   ],
+   "north": [
+    "/pixellab/swordman_base/animations/stab/north/0.png",
+    "/pixellab/swordman_base/animations/stab/north/1.png",
+    "/pixellab/swordman_base/animations/stab/north/2.png",
+    "/pixellab/swordman_base/animations/stab/north/3.png",
+    "/pixellab/swordman_base/animations/stab/north/4.png",
+    "/pixellab/swordman_base/animations/stab/north/5.png",
+    "/pixellab/swordman_base/animations/stab/north/6.png",
+    "/pixellab/swordman_base/animations/stab/north/7.png",
+    "/pixellab/swordman_base/animations/stab/north/8.png"
+   ]
+  },
+  "walking": {
+   "north-east": [
+    "/pixellab/swordman_base/animations/walking/north-east/0.png",
+    "/pixellab/swordman_base/animations/walking/north-east/1.png",
+    "/pixellab/swordman_base/animations/walking/north-east/2.png",
+    "/pixellab/swordman_base/animations/walking/north-east/3.png",
+    "/pixellab/swordman_base/animations/walking/north-east/4.png",
+    "/pixellab/swordman_base/animations/walking/north-east/5.png"
+   ],
+   "south-east": [
+    "/pixellab/swordman_base/animations/walking/south-east/0.png",
+    "/pixellab/swordman_base/animations/walking/south-east/1.png",
+    "/pixellab/swordman_base/animations/walking/south-east/2.png",
+    "/pixellab/swordman_base/animations/walking/south-east/3.png",
+    "/pixellab/swordman_base/animations/walking/south-east/4.png",
+    "/pixellab/swordman_base/animations/walking/south-east/5.png"
+   ],
+   "north-west": [
+    "/pixellab/swordman_base/animations/walking/north-west/0.png",
+    "/pixellab/swordman_base/animations/walking/north-west/1.png",
+    "/pixellab/swordman_base/animations/walking/north-west/2.png",
+    "/pixellab/swordman_base/animations/walking/north-west/3.png",
+    "/pixellab/swordman_base/animations/walking/north-west/4.png",
+    "/pixellab/swordman_base/animations/walking/north-west/5.png"
+   ],
+   "east": [
+    "/pixellab/swordman_base/animations/walking/east/0.png",
+    "/pixellab/swordman_base/animations/walking/east/1.png",
+    "/pixellab/swordman_base/animations/walking/east/2.png",
+    "/pixellab/swordman_base/animations/walking/east/3.png",
+    "/pixellab/swordman_base/animations/walking/east/4.png",
+    "/pixellab/swordman_base/animations/walking/east/5.png"
+   ],
+   "south-west": [
+    "/pixellab/swordman_base/animations/walking/south-west/0.png",
+    "/pixellab/swordman_base/animations/walking/south-west/1.png",
+    "/pixellab/swordman_base/animations/walking/south-west/2.png",
+    "/pixellab/swordman_base/animations/walking/south-west/3.png",
+    "/pixellab/swordman_base/animations/walking/south-west/4.png",
+    "/pixellab/swordman_base/animations/walking/south-west/5.png"
+   ],
+   "north": [
+    "/pixellab/swordman_base/animations/walking/north/0.png",
+    "/pixellab/swordman_base/animations/walking/north/1.png",
+    "/pixellab/swordman_base/animations/walking/north/2.png",
+    "/pixellab/swordman_base/animations/walking/north/3.png",
+    "/pixellab/swordman_base/animations/walking/north/4.png",
+    "/pixellab/swordman_base/animations/walking/north/5.png"
+   ],
+   "west": [
+    "/pixellab/swordman_base/animations/walking/west/0.png",
+    "/pixellab/swordman_base/animations/walking/west/1.png",
+    "/pixellab/swordman_base/animations/walking/west/2.png",
+    "/pixellab/swordman_base/animations/walking/west/3.png",
+    "/pixellab/swordman_base/animations/walking/west/4.png",
+    "/pixellab/swordman_base/animations/walking/west/5.png"
+   ],
+   "south": [
+    "/pixellab/swordman_base/animations/walking/south/0.png",
+    "/pixellab/swordman_base/animations/walking/south/1.png",
+    "/pixellab/swordman_base/animations/walking/south/2.png",
+    "/pixellab/swordman_base/animations/walking/south/3.png",
+    "/pixellab/swordman_base/animations/walking/south/4.png",
+    "/pixellab/swordman_base/animations/walking/south/5.png"
+   ]
+  },
+  "roll": {
+   "south": [
+    "/pixellab/swordman_base/animations/roll/south/0.png",
+    "/pixellab/swordman_base/animations/roll/south/1.png",
+    "/pixellab/swordman_base/animations/roll/south/2.png",
+    "/pixellab/swordman_base/animations/roll/south/3.png",
+    "/pixellab/swordman_base/animations/roll/south/4.png",
+    "/pixellab/swordman_base/animations/roll/south/5.png",
+    "/pixellab/swordman_base/animations/roll/south/6.png",
+    "/pixellab/swordman_base/animations/roll/south/7.png",
+    "/pixellab/swordman_base/animations/roll/south/8.png"
+   ],
+   "south-east": [
+    "/pixellab/swordman_base/animations/roll/south-east/0.png",
+    "/pixellab/swordman_base/animations/roll/south-east/1.png",
+    "/pixellab/swordman_base/animations/roll/south-east/2.png",
+    "/pixellab/swordman_base/animations/roll/south-east/3.png",
+    "/pixellab/swordman_base/animations/roll/south-east/4.png",
+    "/pixellab/swordman_base/animations/roll/south-east/5.png",
+    "/pixellab/swordman_base/animations/roll/south-east/6.png",
+    "/pixellab/swordman_base/animations/roll/south-east/7.png",
+    "/pixellab/swordman_base/animations/roll/south-east/8.png"
+   ],
+   "east": [
+    "/pixellab/swordman_base/animations/roll/east/0.png",
+    "/pixellab/swordman_base/animations/roll/east/1.png",
+    "/pixellab/swordman_base/animations/roll/east/2.png",
+    "/pixellab/swordman_base/animations/roll/east/3.png",
+    "/pixellab/swordman_base/animations/roll/east/4.png",
+    "/pixellab/swordman_base/animations/roll/east/5.png",
+    "/pixellab/swordman_base/animations/roll/east/6.png",
+    "/pixellab/swordman_base/animations/roll/east/7.png",
+    "/pixellab/swordman_base/animations/roll/east/8.png"
+   ],
+   "north-east": [
+    "/pixellab/swordman_base/animations/roll/north-east/0.png",
+    "/pixellab/swordman_base/animations/roll/north-east/1.png",
+    "/pixellab/swordman_base/animations/roll/north-east/2.png",
+    "/pixellab/swordman_base/animations/roll/north-east/3.png",
+    "/pixellab/swordman_base/animations/roll/north-east/4.png",
+    "/pixellab/swordman_base/animations/roll/north-east/5.png",
+    "/pixellab/swordman_base/animations/roll/north-east/6.png",
+    "/pixellab/swordman_base/animations/roll/north-east/7.png",
+    "/pixellab/swordman_base/animations/roll/north-east/8.png"
+   ],
+   "north": [
+    "/pixellab/swordman_base/animations/roll/north/0.png",
+    "/pixellab/swordman_base/animations/roll/north/1.png",
+    "/pixellab/swordman_base/animations/roll/north/2.png",
+    "/pixellab/swordman_base/animations/roll/north/3.png",
+    "/pixellab/swordman_base/animations/roll/north/4.png",
+    "/pixellab/swordman_base/animations/roll/north/5.png",
+    "/pixellab/swordman_base/animations/roll/north/6.png",
+    "/pixellab/swordman_base/animations/roll/north/7.png",
+    "/pixellab/swordman_base/animations/roll/north/8.png"
+   ]
+  }
+ },
+ "atlas": [
+  "/pixellab/swordman_base/frames_0",
+  "/pixellab/swordman_base/frames_1"
+ ]
+}

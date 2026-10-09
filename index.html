@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RPOEE Playtest</title>
+<meta name="description" content="RPOEE — isometric action RPG playtest build. Tester guide and play link.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#120e09;--panel:#1c1610;--line:#4a3a22;--gold:#e8c060;--gold2:#ffd27a;--ink:#f3e6c8;--dim:#b4a585;--red:#e0503a;--blue:#6aa8ff}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]){--bg:#f6efe2;--panel:#fffaf0;--line:#d8c49a;--gold:#a8741c;--gold2:#8a5a10;--ink:#2a2014;--dim:#6a5a40}}
+:root[data-theme="dark"]{--bg:#120e09;--panel:#1c1610;--line:#4a3a22;--gold:#e8c060;--gold2:#ffd27a;--ink:#f3e6c8;--dim:#b4a585}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 "Noto Sans Thai",system-ui,sans-serif}
+main{max-width:860px;margin:0 auto;padding:28px 16px 60px}
+header{text-align:center;padding:24px 0 8px}
+h1{font-size:clamp(28px,6vw,44px);margin:0;letter-spacing:1px;color:var(--gold2)}
+.sub{color:var(--dim);margin:6px 0 20px}
+.play{display:inline-block;background:var(--gold);color:#1c1610;font-weight:700;font-size:20px;padding:14px 40px;border-radius:10px;text-decoration:none;box-shadow:0 4px 0 #0006}
+.play:hover{filter:brightness(1.08)}
+.alt{display:block;margin-top:10px;color:var(--dim);font-size:14px}
+.alt a{color:var(--gold2)}
+section{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:18px 20px;margin:18px 0}
+h2{margin:0 0 10px;font-size:20px;color:var(--gold2)}
+table{width:100%;border-collapse:collapse;font-size:15px}
+td,th{padding:6px 8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{color:var(--dim);font-weight:600}
+kbd{display:inline-block;min-width:22px;padding:1px 7px;border:1px solid var(--line);border-bottom-width:3px;border-radius:5px;font:13px ui-monospace,monospace;background:var(--bg);text-align:center}
+ul{margin:6px 0;padding-left:22px}
+li{margin:3px 0}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+@media (max-width:640px){.two{grid-template-columns:1fr}}
+.note{color:var(--dim);font-size:14px}
+.tag{display:inline-block;font-size:12px;padding:1px 8px;border-radius:99px;border:1px solid var(--line);color:var(--dim);margin-left:6px}
+.lang{position:absolute;top:12px;right:16px}
+.lang button{background:none;border:1px solid var(--line);color:var(--ink);border-radius:6px;padding:3px 10px;cursor:pointer;font:inherit;font-size:13px}
+.lang button.on{background:var(--gold);color:#1c1610;border-color:var(--gold)}
+[data-en]{display:none}
+html[lang="en"] [data-th]{display:none}
+html[lang="en"] [data-en]{display:revert}
+</style>
+</head>
+<body>
+<div class="lang"><button id="th" class="on">ไทย</button> <button id="en">EN</button></div>
+<main>
+<header>
+  <h1>RPOEE</h1>
+  <p class="sub"><span data-th>เกมแอคชั่น RPG มุมมองเฉียง — เวอร์ชันทดสอบ (Playtest)</span><span data-en>Isometric action RPG — playtest build</span></p>
+  <a class="play" href="play/"><span data-th>▶ เข้าเล่น</span><span data-en>▶ Play</span></a>
+  <span class="alt"><span data-th>เล่นภาษาไทย:</span><span data-en>Thai language:</span> <a href="play/?lang=th">play/?lang=th</a></span>
+</header>
+
+<section>
+  <h2><span data-th>ก่อนเล่น</span><span data-en>Before you start</span></h2>
+  <ul data-th>
+    <li>เล่นบนเบราว์เซอร์ได้ทันที ไม่ต้องติดตั้ง (Chrome / Edge / Safari รุ่นใหม่)</li>
+    <li>มือถือ: <b>เล่นแนวนอนเท่านั้น</b> ถือแนวตั้งเกมจะหยุดและบอกให้หมุนจอ</li>
+    <li>เซฟเก็บในเบราว์เซอร์ของคุณเอง — เปลี่ยนเครื่อง/โหมดไม่ระบุตัวตน = เริ่มใหม่</li>
+    <li>เสียงเปิดหลังแตะหรือกดปุ่มครั้งแรก ปรับเสียงได้ที่ ⚙️</li>
+    <li>เป็นเวอร์ชันทดลอง อาจเจอบั๊ก ภาพหรือตัวเลขยังไม่ลงตัว</li>
+  </ul>
+  <ul data-en>
+    <li>Runs in the browser, nothing to install (recent Chrome / Edge / Safari).</li>
+    <li>Phone: <b>landscape only</b> — portrait pauses the game.</li>
+    <li>Your save lives in your browser — another device or private window starts fresh.</li>
+    <li>Sound starts after your first tap/key; volume in ⚙️.</li>
+    <li>Early build: expect bugs and unbalanced numbers.</li>
+  </ul>
+</section>
+
+<div class="two">
+<section>
+  <h2><span data-th>ปุ่ม (คอม)</span><span data-en>Controls (PC)</span><span class="tag">⚙️ <span data-th>เปลี่ยนได้</span><span data-en>rebindable</span></span></h2>
+  <table>
+    <tr><td><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> / <span data-th>คลิกพื้น</span><span data-en>click ground</span></td><td><span data-th>เดิน</span><span data-en>Move</span></td></tr>
+    <tr><td><span data-th>คลิกมอน</span><span data-en>Click monster</span> / <kbd>Space</kbd></td><td><span data-th>ล็อกเป้า + ตีต่อเนื่อง</span><span data-en>Lock on &amp; attack</span></td></tr>
+    <tr><td><kbd>Q</kbd><kbd>E</kbd><kbd>R</kbd><kbd>T</kbd></td><td><span data-th>สกิล 4 ช่อง</span><span data-en>4 skill slots</span></td></tr>
+    <tr><td><kbd>Shift</kbd></td><td><span data-th>กลิ้งหลบ</span><span data-en>Dodge roll</span></td></tr>
+    <tr><td><kbd>1</kbd><kbd>2</kbd></td><td><span data-th>ยาเลือด / ยามานา</span><span data-en>Life / mana potion</span></td></tr>
+    <tr><td><kbd>F</kbd></td><td><span data-th>คุยกับ NPC</span><span data-en>Talk to NPC</span></td></tr>
+    <tr><td><kbd>I</kbd> <kbd>C</kbd> <kbd>P</kbd> <kbd>K</kbd></td><td><span data-th>กระเป๋า · ตัวละคร · ต้นไม้สกิล · เลือกสกิล</span><span data-en>Bag · Character · Skill tree · Skills</span></td></tr>
+    <tr><td><span data-th>ล้อเมาส์</span><span data-en>Mouse wheel</span></td><td><span data-th>ซูม</span><span data-en>Zoom</span></td></tr>
+  </table>
+</section>
+<section>
+  <h2><span data-th>ปุ่ม (มือถือ)</span><span data-en>Controls (phone)</span></h2>
+  <ul data-th>
+    <li><b>จอยซ้าย</b>: แตะครึ่งซ้ายของจอแล้วลากเพื่อเดิน</li>
+    <li><b>⚔️</b> ล็อกเป้าใกล้สุดแล้วตี</li>
+    <li><b>สกิล 4 ปุ่ม / 🤸 กลิ้ง</b>: แตะ = ใช้ทันที · ลากออกจากปุ่ม = เล็งทิศเอง</li>
+    <li><b>ช่องของด่วน 2 ช่อง</b>: แตะ = ใช้ · แตะค้าง = เลือกของ</li>
+    <li><b>💬</b> คุย (ขึ้นเมื่ออยู่ใกล้ NPC)</li>
+    <li>มุมขวาบน: 📜 สกิล · 🌳 ต้นไม้ (บีบสองนิ้วซูม) · 👤 ตัวละคร · 🎒 กระเป๋า · ⚙️ ตั้งค่า</li>
+  </ul>
+  <ul data-en>
+    <li><b>Left joystick</b>: touch the left half and drag.</li>
+    <li><b>⚔️</b> locks the nearest enemy and attacks.</li>
+    <li><b>4 skills / 🤸 roll</b>: tap = cast · drag off the button = aim.</li>
+    <li><b>2 quick slots</b>: tap = use · hold = choose item.</li>
+    <li><b>💬</b> talk (near NPCs).</li>
+    <li>Top right: 📜 skills · 🌳 tree (pinch to zoom) · 👤 character · 🎒 bag · ⚙️ settings.</li>
+  </ul>
+</section>
+</div>
+
+<section>
+  <h2><span data-th>มีอะไรให้ลอง</span><span data-en>What to try</span></h2>
+  <ul data-th>
+    <li><b>สร้างตัวละคร</b> เลือกทรงผม แล้วเดินดูเมือง คุยกับ NPC (ร้านค้า ช่างตีเหล็ก วาร์ป โกดัง)</li>
+    <li><b>ลานฝึก</b> (ทางใต้ของเมือง มีป้าย) — ลองสกิลกับหุ่นไม้ได้ไม่จำกัด</li>
+    <li><b>หนองกบ</b> — ออกทางโทริอิกลางน้ำ ฆ่ากบ เก็บของ เลเวลอัป ลึกเข้าไปมี <b>ราชาคางคก</b> (บอส) ให้คุยเพื่อท้าสู้</li>
+    <li><b>ไอเทม</b>: ระดับ ธรรมดา/เมจิก/แรร์/ยูนีค · คราฟด้วย Orb (คลิก Orb แล้วคลิกไอเทม) · อาวุธทุกชิ้นมีสกิล 1 อัน</li>
+    <li><b>เลเวลอัป</b>: แต้มสเตตัส (<kbd>C</kbd>) + แต้มต้นไม้สกิล (<kbd>P</kbd>) · ใส่สกิลลงช่อง (<kbd>K</kbd>)</li>
+    <li><b>ม้วนคาถาวาร์ป</b>: ใช้ในหนองแล้วเปิดประตูกลับเมือง ในเมืองมีประตูพากลับจุดเดิม</li>
+    <li><b>ช่างตีเหล็ก</b>: ย่อยอาวุธเป็น Skill Gem ติดตัวได้ 1 อัน</li>
+    <li><b>🧪 ตัวเลือกทดสอบ</b> (มุมขวาบน กรอบประสีม่วง): เพิ่มเลเวล ดรอปของ คูณดาเมจ/เลือด — ไว้ลองระบบเร็ว ๆ</li>
+  </ul>
+  <ul data-en>
+    <li><b>Create a character</b>, pick a hairstyle, explore town and talk to NPCs (shop, smith, warp, storage).</li>
+    <li><b>Practice Meadow</b> (south of town, signposted) — test skills on training dummies.</li>
+    <li><b>Frog Marsh</b> — through the torii in the pond. Kill frogs, loot, level up. The <b>Toad King</b> boss waits deeper in; talk to challenge him.</li>
+    <li><b>Items</b>: normal/magic/rare/unique · craft with Orbs (click orb, then item) · every weapon carries a skill.</li>
+    <li><b>Level up</b>: stat points (<kbd>C</kbd>) + skill tree points (<kbd>P</kbd>) · put skills in slots (<kbd>K</kbd>).</li>
+    <li><b>Town Portal scroll</b>: opens a portal home; a portal in town brings you back.</li>
+    <li><b>Smith</b>: extract a weapon's skill into a Skill Gem.</li>
+    <li><b>🧪 Test options</b> (top right, dashed purple): level up, drop loot, damage/life multipliers.</li>
+  </ul>
+</section>
+
+<section>
+  <h2><span data-th>อยากให้ช่วยดู / แจ้งปัญหา</span><span data-en>Feedback we want</span></h2>
+  <ul data-th>
+    <li>การต่อสู้รู้สึกเป็นยังไง (ตี สกิล กลิ้งหลบ ความยากของบอส)</li>
+    <li>ดรอปเยอะ/น้อยไป ฟาร์มสนุกไหม คราฟเข้าใจง่ายไหม</li>
+    <li>ปุ่มบนมือถือกดง่ายไหม มีอะไรบังจอไหม</li>
+    <li>บั๊ก: บอกว่าทำอะไรอยู่ เครื่อง/เบราว์เซอร์อะไร ถ้ามีภาพหน้าจอยิ่งดี</li>
+  </ul>
+  <ul data-en>
+    <li>How does combat feel (attacks, skills, roll, boss difficulty)?</li>
+    <li>Drops too many/few? Is farming fun? Is crafting clear?</li>
+    <li>Phone controls comfortable? Anything covering the screen?</li>
+    <li>Bugs: what you were doing, device/browser, and a screenshot if you can.</li>
+  </ul>
+  <p><a class="play" style="font-size:16px;padding:10px 24px" href="https://github.com/l0ginp/rpoee-playtest/issues/new"><span data-th>📝 แจ้งปัญหา / ข้อเสนอแนะ</span><span data-en>📝 Report a bug / feedback</span></a></p>
+  <p class="note"><span data-th>ต้องมีบัญชี GitHub เพื่อแจ้งผ่านลิงก์นี้ หรือส่งให้ผู้จัดทดสอบโดยตรงก็ได้</span><span data-en>Needs a GitHub account, or send it to the playtest organiser directly.</span></p>
+</section>
+<p class="note" style="text-align:center">RPOEE playtest · <span id="ver"></span></p>
+</main>
+<script>
+(function () {
+  var html = document.documentElement;
+  function set(l) {
+    html.lang = l;
+    document.getElementById("th").classList.toggle("on", l === "th");
+    document.getElementById("en").classList.toggle("on", l === "en");
+    try { localStorage.setItem("guide-lang", l); } catch (e) {}
+  }
+  var saved = null;
+  try { saved = localStorage.getItem("guide-lang"); } catch (e) {}
+  set(saved || ((navigator.language || "").indexOf("th") === 0 ? "th" : "en"));
+  document.getElementById("th").onclick = function () { set("th"); };
+  document.getElementById("en").onclick = function () { set("en"); };
+  document.getElementById("ver").textContent = document.lastModified.split(" ")[0];
+})();
+</script>
+</body>
+</html>
