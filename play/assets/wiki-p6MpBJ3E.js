@@ -1,4 +1,4 @@
-import{$ as e,C as t,D as n,E as r,F as i,G as a,L as o,M as s,O as ee,Q as c,T as l,U as u,W as d,Y as f,Z as p,_ as m,d as h,et as g,g as _,h as te,i as v,j as y,k as b,l as x,m as S,n as C,nt as w,o as T,p as ne,t as E,tt as D,u as O,w as k}from"./skill-icons-kFd95tIa.js";var A=`<!-- คู่มือเกม (แสดงในหน้า Wiki แท็บ "คู่มือ") — ข้อมูลตัวเลขละเอียดอยู่ในหน้า Wiki อื่นที่สร้างจากโค้ดเกม -->
+import{$ as e,C as t,D as n,E as r,F as i,G as a,L as o,M as s,O as ee,Q as c,T as l,U as u,W as d,Y as f,Z as p,_ as m,d as h,et as g,g as _,h as te,i as v,j as y,k as b,l as x,m as S,n as C,nt as w,o as T,p as ne,t as E,tt as D,u as O,w as k}from"./skill-icons-Dh_h23zn.js";var A=`<!-- คู่มือเกม (แสดงในหน้า Wiki แท็บ "คู่มือ") — ข้อมูลตัวเลขละเอียดอยู่ในหน้า Wiki อื่นที่สร้างจากโค้ดเกม -->
 <article data-lang="th">
 <section id="th-start">
 <h2>1. เริ่มเกม</h2>
@@ -20,7 +20,7 @@ import{$ as e,C as t,D as n,E as r,F as i,G as a,L as o,M as s,O as ee,Q as c,T 
 <tr><td><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> / คลิกพื้น</td><td>เดิน (กดเมาส์ค้าง = เดินตามเคอร์เซอร์)</td></tr>
 <tr><td>คลิกมอน / <kbd>Q</kbd> (ช่อง ⚔️ โจมตีปกติ)</td><td>ล็อกเป้า (ตัวใกล้สุดในระยะ 6 ช่อง) แล้วตีต่อเนื่อง · โจมตีปกติอยู่ในช่องสกิล ย้ายช่องได้ที่ <kbd>K</kbd></td></tr>
 <tr><td><kbd>Q</kbd><kbd>E</kbd><kbd>R</kbd><kbd>T</kbd></td><td>สกิลช่อง 1–4 (คลิกขวาที่ช่อง = เปลี่ยนสกิล)</td></tr>
-<tr><td><kbd>Shift</kbd></td><td>กลิ้งหลบ</td></tr>
+<tr><td><kbd>Space</kbd></td><td>กลิ้งหลบ</td></tr>
 <tr><td><kbd>1</kbd> <kbd>2</kbd></td><td>ของด่วน: สมุนไพร / ยามานา</td></tr>
 <tr><td><kbd>F</kbd></td><td>คุยกับ NPC / บอส (หรือคลิกที่ตัว)</td></tr>
 <tr><td><kbd>Z</kbd></td><td>เก็บ Orb และไอเทมรอบตัว (3 ช่อง) · เงินเก็บเอง</td></tr>
@@ -60,7 +60,7 @@ import{$ as e,C as t,D as n,E as r,F as i,G as a,L as o,M as s,O as ee,Q as c,T 
 <li>ระยะตีตามอาวุธ (ช่อง): มีดสั้น 1.0 · ดาบมือเดียว 1.3 · ดาบสองมือ 1.6 · กระบองมือเดียว 1.2 · กระบองสองมือ 1.5 · หอก 2.2 · ธนู 6 · ไม้เท้า 5 · มือเปล่า 0.9</li>
 <li>ธนู/ไม้เท้ายิงกระสุน ไม่พลาด · อาวุธระยะประชิดโอกาสโดน 90% + ความแม่นยำ ÷ 1000</li>
 </ul>
-<h3>กลิ้งหลบ <kbd>Shift</kbd></h3>
+<h3>กลิ้งหลบ <kbd>Space</kbd></h3>
 <ul>
 <li>กลิ้ง 2.2 ช่อง ใช้เวลา 0.45 วิ · <b>อมตะช่วงกลางท่า</b> (12%–75% ของท่า) · คูลดาวน์ 1 วิ</li>
 <li>กลิ้งยกเลิกท่าตีปกติได้ แต่<b>ระหว่างร่ายสกิลกลิ้งไม่ได้</b></li>
@@ -204,6 +204,8 @@ import{$ as e,C as t,D as n,E as r,F as i,G as a,L as o,M as s,O as ee,Q as c,T 
 </ul>
 <h3>ของใช้</h3>
 <ul>
+<li><b>ฟื้นเลือดติดตัว</b>: ทุกคนฟื้นเลือด 0.5% ของเลือดสูงสุดต่อวินาทีตลอดเวลา (ยืนพักเฉย ๆ ก็ค่อย ๆ เต็ม) รวมอยู่ในค่า "ฟื้นชีวิต" ของหน้าต่าง <kbd>C</kbd></li>
+<li><b>มอนดรอปของใช้</b>: สมุนไพร ~10% · โมจิ ~6% · ยามานา ~5% ต่อตัว · บอสให้สมุนไพร 2 ห่อแน่นอน · เดินผ่านเก็บเองเหมือนเงิน</li>
 <li>สมุนไพร (Healing Herb) ฟื้นเลือด 40% · โมจิ (Rice Cake) ฟื้นเลือด 15% · ยามานา ฟื้นมานา 50% · ใช้ตอนเลือด/มานาเต็มไม่ได้ · <b>มีคูลดาวน์</b>: ยาเลือดใช้ร่วมกัน (สมุนไพร 4 วิ · โมจิ 2 วิ) · ยามานา 4 วิ</li>
 <li>ม้วนวาร์ปกลับเมือง (Scroll of Town Portal) — ดูหัวข้อแผนที่</li>
 </ul>
@@ -246,6 +248,8 @@ import{$ as e,C as t,D as n,E as r,F as i,G as a,L as o,M as s,O as ee,Q as c,T 
 <tr><td><b>ซากศาลเจ้าป่ามอส</b> (แมปแรก)</td><td>กัปปะ Lv1 (ตีใกล้) · เห็ดสปอร์ Lv2 (ยิงไกล หลบลูกสปอร์ได้) · บอส เทงงุ (ร่างแยก) Lv3</td><td>โทริอิทางเหนือ → เมือง (<b>ถูกผนึก</b>จนกว่าจะชนะบอส)</td></tr>
 <tr><td><b>Hasunuma Shrine</b> (เมือง)</td><td>—</td><td>โทริอิกลางสระ (ข้ามสะพาน) → หนองกบ · ประตูใต้ยังปิด</td></tr>
 <tr><td><b>หนองกบ</b></td><td>กบ Lv3 · บอส ราชาคางคก <b>Lv15</b> ทางเหนือ (ไว้กลับมาสู้ทีหลัง)</td><td>โทริอิหลังจุดเกิด → เมือง</td></tr>
+<tr><td><b>หุบใบแดง</b> (เปิดวาร์ปเมื่อ Lv 5)</td><td>กัปปะลำธาร · เห็ดปีศาจใบแดง — เลเวลขึ้นตามทางเดิน <b>Lv5 → 9</b> · เจ้าถิ่น ★ หัวหน้ากัปปะ <b>Lv10</b> ท้ายทาง (XP ×5 ดรอปของเมจิกขึ้นไป)</td><td>โทริอิหลังจุดเกิด → เมือง · โทริอิท้ายทาง → ทุ่งจิโซ (<b>ผนึก</b>จนกว่าจะล้มหัวหน้ากัปปะ)</td></tr>
+<tr><td><b>ทุ่งจิโซยามสนธยา</b> (เปิดวาร์ปเมื่อเคยไปถึง)</td><td>กัปปะหล่ม · เห็ดปีศาจเงา (สปอร์ช้า 40%) — <b>Lv10 → 14</b> · เจ้าถิ่น ★ เห็ดปีศาจผู้เฒ่า <b>Lv15</b></td><td>โทริอิหลังจุดเกิด → เมือง · โทริอิท้ายทาง → เมือง (<b>ผนึก</b>จนกว่าจะล้มเห็ดผู้เฒ่า)</td></tr>
 </table></div>
 <ul>
 <li>แมปต่อสู้สุ่มรูปร่างใหม่ทุกครั้งที่เข้า · เป็น<b>แมปยาว</b> ทางคดเคี้ยวจากจุดเกิด (ล่าง) ไปถึงบอส (บน): แมปแรก ~185 ช่อง · หนองกบ ~170 ช่อง</li>
@@ -257,12 +261,12 @@ import{$ as e,C as t,D as n,E as r,F as i,G as a,L as o,M as s,O as ee,Q as c,T 
 <h2>14. บอส</h2>
 <h3>Karasu Tengu (ร่างแยก) — Lv3, เลือด 950</h3>
 <ul>
-<li>เกาะรออยู่ลึกในแมปแรก โฉบลงมาเองเมื่อเราเข้าใกล้ 6 ช่อง (ร่างแยก — ตัวจริงจะกลับมาใน Act 1)</li>
+<li>ลึกในแมปแรกมี<b>รูปปั้นศิลาเทงงุ</b>หลายองค์บนลานซากศาล — เดินเข้าใกล้องค์ไหน 5 ช่อง เทงงุจะโฉบลงมาทับองค์นั้นจนแตกแล้วเริ่มสู้ (ร่างแยก — ตัวจริงจะกลับมาใน Act 1)</li>
 <li><b>ยืนตีแลกเฉย ๆ ไม่ชนะ</b>: ยืนประชิดนาน 2 วิ = <b>ระเบิดลม</b>รอบตัว (วงแดงเตือน) แล้วหายตัวไปที่อื่น — ตีแล้วถอย กลิ้งหลบ</li>
 <li><b>เลือดต่ำกว่าครึ่ง = เอาจริง</b>: พุ่งฟันสองครั้งติด · ขนนกสองระลอก · <b>ฝนขนนก</b> วงม่วงตกใส่จุดที่ยืน — เดินออกจากวง</li>
 <li><b>พุ่งฟัน</b>: มีเส้นแดงเตือน แล้วพุ่ง 5 ช่อง — กลิ้งหลบออกจากเส้น</li>
 <li><b>ขนนก</b>: ยิง 5 เส้นเป็นรูปพัด · <b>พัดลม</b>: เมื่อเรายืนใกล้ ตีเป็นรูปกรวย · <b>หายตัว</b>: วาร์ปไปห่าง ๆ</li>
-<li>เลือดหมด = บินหนี ทิ้งของ และ<b>ทำลายผนึก</b>ประตูไปเมือง · ถ้าเราตาย เทงงุกลับไปเกาะรอ</li>
+<li>เลือดหมด = ร่างแยกแตกสลายเป็นฝูงอีกา ทิ้งของ และ<b>ทำลายผนึก</b>ประตูไปเมือง · ถ้าเราตาย เทงงุกลับไปเป็นรูปปั้นรอ (รูปปั้นกลับมาครบ)</li>
 </ul>
 <h3>Yokai Toad King — Lv15, เลือด 4,055 (ไม่แสดงหลอดเลือด)</h3>
 <p class="warn">ตั้งใจให้เป็นบอสที่กลับมาสู้ทีหลัง ไม่ใช่สู้ตั้งแต่แรก — ลูกน้องกบผู้พิทักษ์ Lv13 · ลูกกบ Lv11 · ท่ากระโดดทับแรง 41–53 · ตอนตกลงมาหลังเฟสลูกกบแรง 46–57</p>
@@ -319,7 +323,7 @@ import{$ as e,C as t,D as n,E as r,F as i,G as a,L as o,M as s,O as ee,Q as c,T 
 <tr><td><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> / click ground</td><td>Move (hold the mouse to follow the cursor)</td></tr>
 <tr><td>Click monster / <kbd>Q</kbd> (⚔️ Basic Attack slot)</td><td>Lock on (nearest within 6 tiles) and keep attacking · Basic Attack lives in a skill slot; move it in <kbd>K</kbd></td></tr>
 <tr><td><kbd>Q</kbd><kbd>E</kbd><kbd>R</kbd><kbd>T</kbd></td><td>Skill slots 1–4 (right-click a slot to change it)</td></tr>
-<tr><td><kbd>Shift</kbd></td><td>Dodge roll</td></tr>
+<tr><td><kbd>Space</kbd></td><td>Dodge roll</td></tr>
 <tr><td><kbd>1</kbd> <kbd>2</kbd></td><td>Quick slots: Healing Herb / Mana Potion</td></tr>
 <tr><td><kbd>F</kbd></td><td>Talk to an NPC or boss (or click them)</td></tr>
 <tr><td><kbd>Z</kbd></td><td>Pick up orbs and items within 3 tiles · zeny is automatic</td></tr>
@@ -359,7 +363,7 @@ import{$ as e,C as t,D as n,E as r,F as i,G as a,L as o,M as s,O as ee,Q as c,T 
 <li>Reach by weapon (tiles): dagger 1.0 · 1H sword 1.3 · 2H sword 1.6 · 1H mace 1.2 · 2H mace 1.5 · spear 2.2 · bow 6 · staff 5 · unarmed 0.9.</li>
 <li>Bows and staves fire projectiles and never miss. Melee hit chance is 90% + accuracy ÷ 1000.</li>
 </ul>
-<h3>Dodge roll <kbd>Shift</kbd></h3>
+<h3>Dodge roll <kbd>Space</kbd></h3>
 <ul>
 <li>Rolls 2.2 tiles in 0.45 s · <b>invulnerable mid-roll</b> (12%–75% of the roll) · 1 s cooldown.</li>
 <li>Rolling cancels a basic attack, but <b>you can't roll while casting a skill</b>.</li>
@@ -503,6 +507,8 @@ import{$ as e,C as t,D as n,E as r,F as i,G as a,L as o,M as s,O as ee,Q as c,T 
 </ul>
 <h3>Consumables</h3>
 <ul>
+<li><b>Natural regeneration</b>: everyone regenerates 0.5% of max Life per second all the time (rest and it fills up), included in "Life regen" in the <kbd>C</kbd> panel.</li>
+<li><b>Monsters drop consumables</b>: Healing Herb ~10% · Rice Cake ~6% · Mana Potion ~5% per kill · bosses always drop 2 Healing Herbs · walk over them to pick up, like zeny.</li>
 <li>Healing Herb restores 40% Life · Rice Cake 15% Life · Mana Potion 50% Mana · can't be used when full · <b>cooldowns</b>: life potions share one (Herb 4 s · Rice Cake 2 s) · Mana Potion 4 s.</li>
 <li>Scroll of Town Portal — see Maps.</li>
 </ul>
@@ -545,6 +551,8 @@ import{$ as e,C as t,D as n,E as r,F as i,G as a,L as o,M as s,O as ee,Q as c,T 
 <tr><td><b>Mossy Shrine Ruins</b> (first map)</td><td>Kappa Lv1 (melee) · Spore Kinoko Lv2 (ranged — dodge the spores) · boss Karasu Tengu (Clone) Lv3</td><td>North torii → town (<b>sealed</b> until the boss is beaten)</td></tr>
 <tr><td><b>Hasunuma Shrine</b> (town)</td><td>—</td><td>Torii in the pond (over the bridge) → Frog Marsh · south gate closed</td></tr>
 <tr><td><b>Frog Marsh</b></td><td>Marsh Frog Lv3 · boss Yokai Toad King <b>Lv15</b> to the north (come back later)</td><td>Torii behind the spawn → town</td></tr>
+<tr><td><b>Crimson Maple Hollow</b> (warp opens at Lv 5)</td><td>River Kappa · Ember Kinoko — level rises along the trail <b>Lv5 → 9</b> · guardian ★ Kappa Chief <b>Lv10</b> at the end (XP ×5, drops Magic or better)</td><td>Torii behind the spawn → town · torii at the end → Jizo Moor (<b>sealed</b> until the Kappa Chief falls)</td></tr>
+<tr><td><b>Jizo Moor at Dusk</b> (warp opens once reached)</td><td>Bog Kappa · Shade Kinoko (spores slow 40%) — <b>Lv10 → 14</b> · guardian ★ Elder Kinoko <b>Lv15</b></td><td>Torii behind the spawn → town · torii at the end → town (<b>sealed</b> until the Elder Kinoko falls)</td></tr>
 </table></div>
 <ul>
 <li>Combat maps get a new random layout every time you enter · they are <b>long maps</b>: a winding trail from the spawn (bottom) to the boss (top) — first map ~185 tiles · Frog Marsh ~170 tiles.</li>
@@ -556,12 +564,12 @@ import{$ as e,C as t,D as n,E as r,F as i,G as a,L as o,M as s,O as ee,Q as c,T 
 <h2>14. Bosses</h2>
 <h3>Karasu Tengu (Clone) — Lv3, 950 Life</h3>
 <ul>
-<li>Perches deep in the first map and swoops down when you get within 6 tiles (a clone — the real Tengu returns in Act 1).</li>
+<li>Deep in the first map, <b>stone Tengu statues</b> stand on the shrine grounds — come within 5 tiles of one and he dives onto it, shattering it, and the fight starts (a clone — the real Tengu returns in Act 1).</li>
 <li><b>Face-tanking doesn't work</b>: stay next to him for 2 s and he does a <b>wind burst</b> all around (red ring warning), then blinks away — hit and back off, roll.</li>
 <li><b>Below half life he gets serious</b>: double dash · two feather volleys · <b>feather rain</b> — purple circles land where you stand; step out.</li>
 <li><b>Dash slash</b>: a red line warns, then a 5-tile dash — roll out of the line.</li>
 <li><b>Feathers</b>: 5 in a fan · <b>Gust</b>: a cone when you stand close · <b>Blink</b>: teleports away.</li>
-<li>At 0 Life he flies off, drops loot and <b>breaks the seal</b> on the gate to town. If you die he returns to his perch.</li>
+<li>At 0 Life the clone bursts into a flock of crows, drops loot and <b>breaks the seal</b> on the gate to town. If you die he turns back into a statue (all statues return).</li>
 </ul>
 <h3>Yokai Toad King — Lv15, 4,055 Life (no visible HP bar)</h3>
 <p class="warn">Meant to be fought later, not right away — Frog Guard minions Lv13 · froglets Lv11 · leap slam hits 41–53 · the crash after the froglet phase hits 46–57.</p>
