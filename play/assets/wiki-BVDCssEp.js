@@ -1,4 +1,4 @@
-import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W as l,Y as u,_ as d,b as f,c as p,d as m,f as te,j as h,k as g,n as _,o as v,p as y,q as b,r as x,s as S,t as C,u as ne,v as w,x as T,y as E,z as D}from"./skill-icons-BfRZ8PXG.js";var O=`<!-- คู่มือเกม (แสดงในหน้า Wiki แท็บ "คู่มือ") — ข้อมูลตัวเลขละเอียดอยู่ในหน้า Wiki อื่นที่สร้างจากโค้ดเกม -->
+import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W as l,Y as u,_ as d,b as f,c as p,d as m,f as te,j as h,k as g,n as _,o as v,p as y,q as b,r as x,s as S,t as C,u as ne,v as w,x as T,y as E,z as D}from"./skill-icons-po5dipE_.js";var O=`<!-- คู่มือเกม (แสดงในหน้า Wiki แท็บ "คู่มือ") — ข้อมูลตัวเลขละเอียดอยู่ในหน้า Wiki อื่นที่สร้างจากโค้ดเกม -->
 <article data-lang="th">
 <section id="th-start">
 <h2>1. เริ่มเกม</h2>
@@ -17,7 +17,7 @@ import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W 
 <div class="scroll"><table>
 <tr><th>ปุ่ม</th><th>ทำอะไร</th></tr>
 <tr><td><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> / คลิกพื้น</td><td>เดิน (กดเมาส์ค้าง = เดินตามเคอร์เซอร์)</td></tr>
-<tr><td>คลิกมอน / <kbd>Space</kbd></td><td>ล็อกเป้า (ตัวใกล้สุดในระยะ 6 ช่อง) แล้วตีต่อเนื่อง</td></tr>
+<tr><td>คลิกมอน / <kbd>Q</kbd> (ช่อง ⚔️ โจมตีปกติ)</td><td>ล็อกเป้า (ตัวใกล้สุดในระยะ 6 ช่อง) แล้วตีต่อเนื่อง · โจมตีปกติอยู่ในช่องสกิล ย้ายช่องได้ที่ <kbd>K</kbd></td></tr>
 <tr><td><kbd>Q</kbd><kbd>E</kbd><kbd>R</kbd><kbd>T</kbd></td><td>สกิลช่อง 1–4 (คลิกขวาที่ช่อง = เปลี่ยนสกิล)</td></tr>
 <tr><td><kbd>Shift</kbd></td><td>กลิ้งหลบ</td></tr>
 <tr><td><kbd>1</kbd> <kbd>2</kbd></td><td>ของด่วน: สมุนไพร / ยามานา</td></tr>
@@ -173,7 +173,7 @@ import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W 
 <li><b>ต้นไม้สกิล</b>: จุดชนิด Skill</li>
 </ul>
 <ul>
-<li>มี 4 ช่อง <kbd>Q</kbd><kbd>E</kbd><kbd>R</kbd><kbd>T</kbd> · สกิลที่ใช้กับอาวุธที่ถือไม่ได้จะเป็นสีเทา</li>
+<li>มี 4 ช่อง <kbd>Q</kbd><kbd>E</kbd><kbd>R</kbd><kbd>T</kbd> · ช่องแรกเป็น <b>⚔️ โจมตีปกติ</b> (ย้ายช่องได้) · สกิลที่ใช้กับอาวุธที่ถือไม่ได้จะเป็นสีเทา</li>
 <li>ความแรงสกิลเพิ่ม 8% ต่อเลเวลสกิล</li>
 </ul>
 <p class="more"><a href="#skills">ตารางสกิลทั้งหมด อาวุธที่สุ่มได้ และค่าย่อยเจม — ดูใน Wiki หน้าสกิล →</a></p></section>
@@ -246,7 +246,7 @@ import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W 
 <tr><td><b>หนองกบ</b></td><td>กบ Lv3 · บอส ราชาคางคก <b>Lv15</b> ทางเหนือ (ไว้กลับมาสู้ทีหลัง)</td><td>โทริอิหลังจุดเกิด → เมือง</td></tr>
 </table></div>
 <ul>
-<li>แมปต่อสู้สุ่มรูปร่างใหม่ทุกครั้งที่เข้า</li>
+<li>แมปต่อสู้สุ่มรูปร่างใหม่ทุกครั้งที่เข้า · เป็น<b>แมปยาว</b> ทางคดเคี้ยวจากจุดเกิด (ล่าง) ไปถึงบอส (บน): แมปแรก ~110 ช่อง · หนองกบ ~170 ช่อง</li>
 <li><b>ม้วนวาร์ปกลับเมือง</b>: ใช้ในแมปต่อสู้ → ประตูเปิดข้างตัว เดินออกแล้วเดินเข้า = ไปเมือง · ในเมืองมีประตูขากลับข้างจุดเกิด พากลับ<b>จุดเดิมในแมปเดิม</b> (ใช้ได้ครั้งเดียว) · เปิดได้ทีละประตู · ใช้ในเมืองไม่ได้ และใช้ในแมปแรกก่อนชนะบอสไม่ได้ (ไม่เสียม้วน)</li>
 </ul>
 </section>
@@ -314,7 +314,7 @@ import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W 
 <div class="scroll"><table>
 <tr><th>Key</th><th>Action</th></tr>
 <tr><td><kbd>W</kbd><kbd>A</kbd><kbd>S</kbd><kbd>D</kbd> / click ground</td><td>Move (hold the mouse to follow the cursor)</td></tr>
-<tr><td>Click monster / <kbd>Space</kbd></td><td>Lock on (nearest within 6 tiles) and keep attacking</td></tr>
+<tr><td>Click monster / <kbd>Q</kbd> (⚔️ Basic Attack slot)</td><td>Lock on (nearest within 6 tiles) and keep attacking · Basic Attack lives in a skill slot; move it in <kbd>K</kbd></td></tr>
 <tr><td><kbd>Q</kbd><kbd>E</kbd><kbd>R</kbd><kbd>T</kbd></td><td>Skill slots 1–4 (right-click a slot to change it)</td></tr>
 <tr><td><kbd>Shift</kbd></td><td>Dodge roll</td></tr>
 <tr><td><kbd>1</kbd> <kbd>2</kbd></td><td>Quick slots: Healing Herb / Mana Potion</td></tr>
@@ -470,7 +470,7 @@ import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W 
 <li><b>Skill tree</b>: Skill nodes.</li>
 </ul>
 <ul>
-<li>4 slots on <kbd>Q</kbd><kbd>E</kbd><kbd>R</kbd><kbd>T</kbd> · skills your weapon can't use are greyed out.</li>
+<li>4 slots on <kbd>Q</kbd><kbd>E</kbd><kbd>R</kbd><kbd>T</kbd> · the first holds <b>⚔️ Basic Attack</b> (movable) · skills your weapon can't use are greyed out.</li>
 <li>Skill power +8% per skill level.</li>
 </ul>
 <p class="more"><a href="#skills">Full skill table, weapon pools and gem costs — Wiki skills page →</a></p></section>
@@ -543,7 +543,7 @@ import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W 
 <tr><td><b>Frog Marsh</b></td><td>Marsh Frog Lv3 · boss Yokai Toad King <b>Lv15</b> to the north (come back later)</td><td>Torii behind the spawn → town</td></tr>
 </table></div>
 <ul>
-<li>Combat maps get a new random layout every time you enter.</li>
+<li>Combat maps get a new random layout every time you enter · they are <b>long maps</b>: a winding trail from the spawn (bottom) to the boss (top) — first map ~110 tiles · Frog Marsh ~170 tiles.</li>
 <li><b>Scroll of Town Portal</b>: use it on a combat map → a portal opens beside you; step away and walk in to reach town. In town a return portal by the spawn takes you back to <b>the same spot on the same map</b> (single use). One portal at a time. It doesn't work in town, or in the first map before the boss is beaten (no scroll is used).</li>
 </ul>
 </section>
