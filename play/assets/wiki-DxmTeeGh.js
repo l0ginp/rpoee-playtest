@@ -246,7 +246,7 @@ import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W 
 <tr><td><b>หนองกบ</b></td><td>กบ Lv3 · บอส ราชาคางคก <b>Lv15</b> ทางเหนือ (ไว้กลับมาสู้ทีหลัง)</td><td>โทริอิหลังจุดเกิด → เมือง</td></tr>
 </table></div>
 <ul>
-<li>แมปต่อสู้สุ่มรูปร่างใหม่ทุกครั้งที่เข้า · เป็น<b>แมปยาว</b> ทางคดเคี้ยวจากจุดเกิด (ล่าง) ไปถึงบอส (บน): แมปแรก ~110 ช่อง · หนองกบ ~170 ช่อง</li>
+<li>แมปต่อสู้สุ่มรูปร่างใหม่ทุกครั้งที่เข้า · เป็น<b>แมปยาว</b> ทางคดเคี้ยวจากจุดเกิด (ล่าง) ไปถึงบอส (บน): แมปแรก ~185 ช่อง · หนองกบ ~170 ช่อง</li>
 <li><b>ม้วนวาร์ปกลับเมือง</b>: ใช้ในแมปต่อสู้ → ประตูเปิดข้างตัว เดินออกแล้วเดินเข้า = ไปเมือง · ในเมืองมีประตูขากลับข้างจุดเกิด พากลับ<b>จุดเดิมในแมปเดิม</b> (ใช้ได้ครั้งเดียว) · เปิดได้ทีละประตู · ใช้ในเมืองไม่ได้ และใช้ในแมปแรกก่อนชนะบอสไม่ได้ (ไม่เสียม้วน)</li>
 </ul>
 </section>
@@ -543,7 +543,7 @@ import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W 
 <tr><td><b>Frog Marsh</b></td><td>Marsh Frog Lv3 · boss Yokai Toad King <b>Lv15</b> to the north (come back later)</td><td>Torii behind the spawn → town</td></tr>
 </table></div>
 <ul>
-<li>Combat maps get a new random layout every time you enter · they are <b>long maps</b>: a winding trail from the spawn (bottom) to the boss (top) — first map ~110 tiles · Frog Marsh ~170 tiles.</li>
+<li>Combat maps get a new random layout every time you enter · they are <b>long maps</b>: a winding trail from the spawn (bottom) to the boss (top) — first map ~185 tiles · Frog Marsh ~170 tiles.</li>
 <li><b>Scroll of Town Portal</b>: use it on a combat map → a portal opens beside you; step away and walk in to reach town. In town a return portal by the spawn takes you back to <b>the same spot on the same map</b> (single use). One portal at a time. It doesn't work in town, or in the first map before the boss is beaten (no scroll is used).</li>
 </ul>
 </section>
