@@ -1,4 +1,4 @@
-import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W as l,Y as u,_ as d,b as f,c as p,d as m,f as te,j as h,k as g,n as _,o as v,p as y,q as b,r as x,s as S,t as C,u as ne,v as w,x as T,y as E,z as D}from"./skill-icons-DFFzN18U.js";var O=`<!-- คู่มือเกม (แสดงในหน้า Wiki แท็บ "คู่มือ") — ข้อมูลตัวเลขละเอียดอยู่ในหน้า Wiki อื่นที่สร้างจากโค้ดเกม -->
+import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W as l,Y as u,_ as d,b as f,c as p,d as m,f as te,j as h,k as g,n as _,o as v,p as y,q as b,r as x,s as S,t as C,u as ne,v as w,x as T,y as E,z as D}from"./skill-icons-BfRZ8PXG.js";var O=`<!-- คู่มือเกม (แสดงในหน้า Wiki แท็บ "คู่มือ") — ข้อมูลตัวเลขละเอียดอยู่ในหน้า Wiki อื่นที่สร้างจากโค้ดเกม -->
 <article data-lang="th">
 <section id="th-start">
 <h2>1. เริ่มเกม</h2>
@@ -148,7 +148,8 @@ import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W 
 <h3>วิธีใช้</h3>
 <ul>
 <li><b>มือถือ</b>: หน้าต่างเต็มจอ · <b>แตะจุด = ดูรายละเอียด</b> ในการ์ดด้านล่าง แล้วกดปุ่มเพื่ออัป (ไม่เผลออัปผิด) · ลากเพื่อเลื่อน · สองนิ้วบีบเพื่อซูม</li>
-<li><b>คอม</b>: ชี้จุด = ดูรายละเอียด · คลิกจุดที่ติดกัน = อัปทันที · คลิกจุดไกล = วางเส้นทาง</li>
+<li><b>คอม</b>: ชี้จุด = ดูรายละเอียด · คลิกจุด = เลือก แล้วกดปุ่มในการ์ดเพื่อยืนยันการอัป (กันอัปผิด)</li>
+<li><b>ถอดคืนแต้มทีละจุด</b>: เลือกจุดที่อัปแล้ว กด "ถอดคืนแต้ม" — ถอดได้จากปลายทางเข้ามา (จุดที่เหลือต้องยังต่อถึงจุดเริ่ม)</li>
 <li><b>อัปทั้งเส้นทาง</b>: เลือกจุดไกล ๆ เกมจะโชว์เส้นทางสั้นสุด (สีฟ้า) บอกว่าใช้กี่แต้ม แล้วกดอัปทั้งเส้นได้ในครั้งเดียว</li>
 <li><b>Σ</b> = สรุปค่าพลังทั้งหมดที่ได้จากต้นไม้ · ⤢ = ดูทั้งต้นไม้</li>
 </ul>
@@ -255,7 +256,7 @@ import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W 
 <h3>Karasu Tengu (ร่างแยก) — Lv3, เลือด 950</h3>
 <ul>
 <li>เกาะรออยู่ลึกในแมปแรก โฉบลงมาเองเมื่อเราเข้าใกล้ 6 ช่อง (ร่างแยก — ตัวจริงจะกลับมาใน Act 1)</li>
-<li><b>ยืนตีแลกเฉย ๆ ไม่ชนะ</b>: ยืนประชิดนาน 1.5 วิ = <b>ระเบิดลม</b>รอบตัว (วงแดงเตือน) แล้วหายตัวไปที่อื่น — ตีแล้วถอย กลิ้งหลบ</li>
+<li><b>ยืนตีแลกเฉย ๆ ไม่ชนะ</b>: ยืนประชิดนาน 2 วิ = <b>ระเบิดลม</b>รอบตัว (วงแดงเตือน) แล้วหายตัวไปที่อื่น — ตีแล้วถอย กลิ้งหลบ</li>
 <li><b>เลือดต่ำกว่าครึ่ง = เอาจริง</b>: พุ่งฟันสองครั้งติด · ขนนกสองระลอก · <b>ฝนขนนก</b> วงม่วงตกใส่จุดที่ยืน — เดินออกจากวง</li>
 <li><b>พุ่งฟัน</b>: มีเส้นแดงเตือน แล้วพุ่ง 5 ช่อง — กลิ้งหลบออกจากเส้น</li>
 <li><b>ขนนก</b>: ยิง 5 เส้นเป็นรูปพัด · <b>พัดลม</b>: เมื่อเรายืนใกล้ ตีเป็นรูปกรวย · <b>หายตัว</b>: วาร์ปไปห่าง ๆ</li>
@@ -444,7 +445,8 @@ import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W 
 <h3>How to use</h3>
 <ul>
 <li><b>Phone</b>: fullscreen panel · <b>tap a node to inspect it</b> in the card below, then press the button to allocate · drag to move · pinch to zoom.</li>
-<li><b>PC</b>: hover to inspect · click a neighbour to allocate at once · click a far node to plan a path.</li>
+<li><b>PC</b>: hover to inspect · click a node to select it, then confirm with the card button (no accidental points).</li>
+<li><b>Refund one point at a time</b>: select an allocated node and press "Refund this point" — refunds work from the outside in (the rest must stay connected to a start).</li>
 <li><b>Allocate a path</b>: pick a far node and the game shows the shortest route (blue) and its cost; allocate it all in one press.</li>
 <li><b>Σ</b> = total bonuses from your tree · ⤢ = whole tree.</li>
 </ul>
@@ -551,7 +553,7 @@ import{C as e,E as t,G as n,H as r,J as i,K as a,L as o,R as s,S as ee,T as c,W 
 <h3>Karasu Tengu (Clone) — Lv3, 950 Life</h3>
 <ul>
 <li>Perches deep in the first map and swoops down when you get within 6 tiles (a clone — the real Tengu returns in Act 1).</li>
-<li><b>Face-tanking doesn't work</b>: stay next to him for 1.5 s and he does a <b>wind burst</b> all around (red ring warning), then blinks away — hit and back off, roll.</li>
+<li><b>Face-tanking doesn't work</b>: stay next to him for 2 s and he does a <b>wind burst</b> all around (red ring warning), then blinks away — hit and back off, roll.</li>
 <li><b>Below half life he gets serious</b>: double dash · two feather volleys · <b>feather rain</b> — purple circles land where you stand; step out.</li>
 <li><b>Dash slash</b>: a red line warns, then a 5-tile dash — roll out of the line.</li>
 <li><b>Feathers</b>: 5 in a fan · <b>Gust</b>: a cone when you stand close · <b>Blink</b>: teleports away.</li>
