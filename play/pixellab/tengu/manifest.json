@@ -1,0 +1,185 @@
+{
+ "id": "b3635d30-1421-43d6-b0b6-f6ec6d4d6a55",
+ "name": "tengu",
+ "size": {
+  "width": 128,
+  "height": 128
+ },
+ "view": "low top-down",
+ "rotations": {
+  "south": "/pixellab/tengu/rotations/south.png",
+  "west": "/pixellab/tengu/rotations/west.png",
+  "east": "/pixellab/tengu/rotations/east.png",
+  "north": "/pixellab/tengu/rotations/north.png",
+  "south-east": "/pixellab/tengu/rotations/south-east.png",
+  "north-east": "/pixellab/tengu/rotations/north-east.png",
+  "north-west": "/pixellab/tengu/rotations/north-west.png",
+  "south-west": "/pixellab/tengu/rotations/south-west.png"
+ },
+ "animations": {
+  "slash": {
+   "south-east": [
+    "/pixellab/tengu/animations/slash/south-east/0.png",
+    "/pixellab/tengu/animations/slash/south-east/1.png",
+    "/pixellab/tengu/animations/slash/south-east/2.png",
+    "/pixellab/tengu/animations/slash/south-east/3.png",
+    "/pixellab/tengu/animations/slash/south-east/4.png",
+    "/pixellab/tengu/animations/slash/south-east/5.png",
+    "/pixellab/tengu/animations/slash/south-east/6.png",
+    "/pixellab/tengu/animations/slash/south-east/7.png",
+    "/pixellab/tengu/animations/slash/south-east/8.png"
+   ],
+   "north": [
+    "/pixellab/tengu/animations/slash/north/0.png",
+    "/pixellab/tengu/animations/slash/north/1.png",
+    "/pixellab/tengu/animations/slash/north/2.png",
+    "/pixellab/tengu/animations/slash/north/3.png",
+    "/pixellab/tengu/animations/slash/north/4.png",
+    "/pixellab/tengu/animations/slash/north/5.png",
+    "/pixellab/tengu/animations/slash/north/6.png",
+    "/pixellab/tengu/animations/slash/north/7.png",
+    "/pixellab/tengu/animations/slash/north/8.png"
+   ],
+   "south": [
+    "/pixellab/tengu/animations/slash/south/0.png",
+    "/pixellab/tengu/animations/slash/south/1.png",
+    "/pixellab/tengu/animations/slash/south/2.png",
+    "/pixellab/tengu/animations/slash/south/3.png",
+    "/pixellab/tengu/animations/slash/south/4.png",
+    "/pixellab/tengu/animations/slash/south/5.png",
+    "/pixellab/tengu/animations/slash/south/6.png",
+    "/pixellab/tengu/animations/slash/south/7.png",
+    "/pixellab/tengu/animations/slash/south/8.png"
+   ],
+   "north-east": [
+    "/pixellab/tengu/animations/slash/north-east/0.png",
+    "/pixellab/tengu/animations/slash/north-east/1.png",
+    "/pixellab/tengu/animations/slash/north-east/2.png",
+    "/pixellab/tengu/animations/slash/north-east/3.png",
+    "/pixellab/tengu/animations/slash/north-east/4.png",
+    "/pixellab/tengu/animations/slash/north-east/5.png",
+    "/pixellab/tengu/animations/slash/north-east/6.png",
+    "/pixellab/tengu/animations/slash/north-east/7.png",
+    "/pixellab/tengu/animations/slash/north-east/8.png"
+   ],
+   "east": [
+    "/pixellab/tengu/animations/slash/east/0.png",
+    "/pixellab/tengu/animations/slash/east/1.png",
+    "/pixellab/tengu/animations/slash/east/2.png",
+    "/pixellab/tengu/animations/slash/east/3.png",
+    "/pixellab/tengu/animations/slash/east/4.png",
+    "/pixellab/tengu/animations/slash/east/5.png",
+    "/pixellab/tengu/animations/slash/east/6.png",
+    "/pixellab/tengu/animations/slash/east/7.png",
+    "/pixellab/tengu/animations/slash/east/8.png"
+   ]
+  },
+  "idle": {
+   "south": [
+    "/pixellab/tengu/animations/idle/south/0.png",
+    "/pixellab/tengu/animations/idle/south/1.png",
+    "/pixellab/tengu/animations/idle/south/2.png",
+    "/pixellab/tengu/animations/idle/south/3.png",
+    "/pixellab/tengu/animations/idle/south/4.png",
+    "/pixellab/tengu/animations/idle/south/5.png",
+    "/pixellab/tengu/animations/idle/south/6.png"
+   ],
+   "east": [
+    "/pixellab/tengu/animations/idle/east/0.png",
+    "/pixellab/tengu/animations/idle/east/1.png",
+    "/pixellab/tengu/animations/idle/east/2.png",
+    "/pixellab/tengu/animations/idle/east/3.png",
+    "/pixellab/tengu/animations/idle/east/4.png",
+    "/pixellab/tengu/animations/idle/east/5.png",
+    "/pixellab/tengu/animations/idle/east/6.png"
+   ],
+   "north": [
+    "/pixellab/tengu/animations/idle/north/0.png",
+    "/pixellab/tengu/animations/idle/north/1.png",
+    "/pixellab/tengu/animations/idle/north/2.png",
+    "/pixellab/tengu/animations/idle/north/3.png",
+    "/pixellab/tengu/animations/idle/north/4.png",
+    "/pixellab/tengu/animations/idle/north/5.png",
+    "/pixellab/tengu/animations/idle/north/6.png"
+   ],
+   "north-east": [
+    "/pixellab/tengu/animations/idle/north-east/0.png",
+    "/pixellab/tengu/animations/idle/north-east/1.png",
+    "/pixellab/tengu/animations/idle/north-east/2.png",
+    "/pixellab/tengu/animations/idle/north-east/3.png",
+    "/pixellab/tengu/animations/idle/north-east/4.png",
+    "/pixellab/tengu/animations/idle/north-east/5.png",
+    "/pixellab/tengu/animations/idle/north-east/6.png"
+   ],
+   "south-east": [
+    "/pixellab/tengu/animations/idle/south-east/0.png",
+    "/pixellab/tengu/animations/idle/south-east/1.png",
+    "/pixellab/tengu/animations/idle/south-east/2.png",
+    "/pixellab/tengu/animations/idle/south-east/3.png",
+    "/pixellab/tengu/animations/idle/south-east/4.png",
+    "/pixellab/tengu/animations/idle/south-east/5.png",
+    "/pixellab/tengu/animations/idle/south-east/6.png"
+   ]
+  },
+  "fan": {
+   "north-east": [
+    "/pixellab/tengu/animations/fan/north-east/0.png",
+    "/pixellab/tengu/animations/fan/north-east/1.png",
+    "/pixellab/tengu/animations/fan/north-east/2.png",
+    "/pixellab/tengu/animations/fan/north-east/3.png",
+    "/pixellab/tengu/animations/fan/north-east/4.png",
+    "/pixellab/tengu/animations/fan/north-east/5.png",
+    "/pixellab/tengu/animations/fan/north-east/6.png",
+    "/pixellab/tengu/animations/fan/north-east/7.png",
+    "/pixellab/tengu/animations/fan/north-east/8.png"
+   ],
+   "east": [
+    "/pixellab/tengu/animations/fan/east/0.png",
+    "/pixellab/tengu/animations/fan/east/1.png",
+    "/pixellab/tengu/animations/fan/east/2.png",
+    "/pixellab/tengu/animations/fan/east/3.png",
+    "/pixellab/tengu/animations/fan/east/4.png",
+    "/pixellab/tengu/animations/fan/east/5.png",
+    "/pixellab/tengu/animations/fan/east/6.png",
+    "/pixellab/tengu/animations/fan/east/7.png",
+    "/pixellab/tengu/animations/fan/east/8.png"
+   ],
+   "south": [
+    "/pixellab/tengu/animations/fan/south/0.png",
+    "/pixellab/tengu/animations/fan/south/1.png",
+    "/pixellab/tengu/animations/fan/south/2.png",
+    "/pixellab/tengu/animations/fan/south/3.png",
+    "/pixellab/tengu/animations/fan/south/4.png",
+    "/pixellab/tengu/animations/fan/south/5.png",
+    "/pixellab/tengu/animations/fan/south/6.png",
+    "/pixellab/tengu/animations/fan/south/7.png",
+    "/pixellab/tengu/animations/fan/south/8.png"
+   ],
+   "north": [
+    "/pixellab/tengu/animations/fan/north/0.png",
+    "/pixellab/tengu/animations/fan/north/1.png",
+    "/pixellab/tengu/animations/fan/north/2.png",
+    "/pixellab/tengu/animations/fan/north/3.png",
+    "/pixellab/tengu/animations/fan/north/4.png",
+    "/pixellab/tengu/animations/fan/north/5.png",
+    "/pixellab/tengu/animations/fan/north/6.png",
+    "/pixellab/tengu/animations/fan/north/7.png",
+    "/pixellab/tengu/animations/fan/north/8.png"
+   ],
+   "south-east": [
+    "/pixellab/tengu/animations/fan/south-east/0.png",
+    "/pixellab/tengu/animations/fan/south-east/1.png",
+    "/pixellab/tengu/animations/fan/south-east/2.png",
+    "/pixellab/tengu/animations/fan/south-east/3.png",
+    "/pixellab/tengu/animations/fan/south-east/4.png",
+    "/pixellab/tengu/animations/fan/south-east/5.png",
+    "/pixellab/tengu/animations/fan/south-east/6.png",
+    "/pixellab/tengu/animations/fan/south-east/7.png",
+    "/pixellab/tengu/animations/fan/south-east/8.png"
+   ]
+  }
+ },
+ "atlas": [
+  "/pixellab/tengu/frames_0"
+ ]
+}
