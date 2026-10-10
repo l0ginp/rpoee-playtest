@@ -1,0 +1,23 @@
+{
+ "id": "dc81996f-e296-4a86-89d9-747b82201351",
+ "name": "shuten",
+ "size": {
+  "width": 96,
+  "height": 96
+ },
+ "view": "low top-down",
+ "rotations": {
+  "south": "/pixellab/shuten/rotations/south.png",
+  "west": "/pixellab/shuten/rotations/west.png",
+  "east": "/pixellab/shuten/rotations/east.png",
+  "north": "/pixellab/shuten/rotations/north.png",
+  "south-east": "/pixellab/shuten/rotations/south-east.png",
+  "north-east": "/pixellab/shuten/rotations/north-east.png",
+  "north-west": "/pixellab/shuten/rotations/north-west.png",
+  "south-west": "/pixellab/shuten/rotations/south-west.png"
+ },
+ "animations": {},
+ "atlas": [
+  "/pixellab/shuten/frames_0"
+ ]
+}

@@ -1,0 +1,212 @@
+{
+ "frames": {
+  "cedar_tree": {
+   "frame": {
+    "x": 2,
+    "y": 2,
+    "w": 64,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 128
+   }
+  },
+  "waterfall": {
+   "frame": {
+    "x": 70,
+    "y": 2,
+    "w": 96,
+    "h": 128
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 96,
+    "h": 128
+   },
+   "sourceSize": {
+    "w": 96,
+    "h": 128
+   }
+  },
+  "cedar_tree2": {
+   "frame": {
+    "x": 170,
+    "y": 2,
+    "w": 64,
+    "h": 112
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 112
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 112
+   }
+  },
+  "jorogumo": {
+   "frame": {
+    "x": 2,
+    "y": 134,
+    "w": 112,
+    "h": 112
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 112,
+    "h": 112
+   },
+   "sourceSize": {
+    "w": 112,
+    "h": 112
+   }
+  },
+  "cliff_rock": {
+   "frame": {
+    "x": 118,
+    "y": 134,
+    "w": 80,
+    "h": 72
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 80,
+    "h": 72
+   },
+   "sourceSize": {
+    "w": 80,
+    "h": 72
+   }
+  },
+  "rope_bridge": {
+   "frame": {
+    "x": 2,
+    "y": 250,
+    "w": 128,
+    "h": 64
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 128,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 128,
+    "h": 64
+   }
+  },
+  "spider_web": {
+   "frame": {
+    "x": 134,
+    "y": 250,
+    "w": 64,
+    "h": 64
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 64
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 64
+   }
+  },
+  "shimenawa_rock": {
+   "frame": {
+    "x": 202,
+    "y": 250,
+    "w": 64,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 56
+   }
+  },
+  "stalagmite": {
+   "frame": {
+    "x": 270,
+    "y": 250,
+    "w": 32,
+    "h": 56
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 56
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 56
+   }
+  },
+  "cliff_rock2": {
+   "frame": {
+    "x": 2,
+    "y": 318,
+    "w": 64,
+    "h": 48
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 64,
+    "h": 48
+   },
+   "sourceSize": {
+    "w": 64,
+    "h": 48
+   }
+  }
+ },
+ "meta": {
+  "image": "atlas.png",
+  "size": {
+   "w": 311,
+   "h": 368
+  },
+  "scale": "1"
+ }
+}

@@ -1,0 +1,23 @@
+{
+ "id": "ae673efc-12a0-4dd9-9b0a-1d24307a066e",
+ "name": "rokuro",
+ "size": {
+  "width": 96,
+  "height": 96
+ },
+ "view": "low top-down",
+ "rotations": {
+  "south": "/pixellab/rokuro/rotations/south.png",
+  "west": "/pixellab/rokuro/rotations/west.png",
+  "east": "/pixellab/rokuro/rotations/east.png",
+  "north": "/pixellab/rokuro/rotations/north.png",
+  "south-east": "/pixellab/rokuro/rotations/south-east.png",
+  "north-east": "/pixellab/rokuro/rotations/north-east.png",
+  "north-west": "/pixellab/rokuro/rotations/north-west.png",
+  "south-west": "/pixellab/rokuro/rotations/south-west.png"
+ },
+ "animations": {},
+ "atlas": [
+  "/pixellab/rokuro/frames_0"
+ ]
+}

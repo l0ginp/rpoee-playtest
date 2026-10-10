@@ -1,0 +1,118 @@
+{
+ "id": "1b777c99-e8bf-4ebe-b4b7-86802fb6a01b",
+ "name": "tanuki",
+ "size": {
+  "width": 64,
+  "height": 64
+ },
+ "view": "low top-down",
+ "rotations": {
+  "south": "/pixellab/tanuki/rotations/south.png",
+  "west": "/pixellab/tanuki/rotations/west.png",
+  "east": "/pixellab/tanuki/rotations/east.png",
+  "north": "/pixellab/tanuki/rotations/north.png",
+  "south-east": "/pixellab/tanuki/rotations/south-east.png",
+  "north-east": "/pixellab/tanuki/rotations/north-east.png",
+  "north-west": "/pixellab/tanuki/rotations/north-west.png",
+  "south-west": "/pixellab/tanuki/rotations/south-west.png"
+ },
+ "animations": {
+  "attack": {
+   "east": [
+    "/pixellab/tanuki/animations/attack/east/0.png",
+    "/pixellab/tanuki/animations/attack/east/1.png",
+    "/pixellab/tanuki/animations/attack/east/2.png",
+    "/pixellab/tanuki/animations/attack/east/3.png",
+    "/pixellab/tanuki/animations/attack/east/4.png",
+    "/pixellab/tanuki/animations/attack/east/5.png",
+    "/pixellab/tanuki/animations/attack/east/6.png"
+   ],
+   "north": [
+    "/pixellab/tanuki/animations/attack/north/0.png",
+    "/pixellab/tanuki/animations/attack/north/1.png",
+    "/pixellab/tanuki/animations/attack/north/2.png",
+    "/pixellab/tanuki/animations/attack/north/3.png",
+    "/pixellab/tanuki/animations/attack/north/4.png",
+    "/pixellab/tanuki/animations/attack/north/5.png",
+    "/pixellab/tanuki/animations/attack/north/6.png"
+   ],
+   "south-east": [
+    "/pixellab/tanuki/animations/attack/south-east/0.png",
+    "/pixellab/tanuki/animations/attack/south-east/1.png",
+    "/pixellab/tanuki/animations/attack/south-east/2.png",
+    "/pixellab/tanuki/animations/attack/south-east/3.png",
+    "/pixellab/tanuki/animations/attack/south-east/4.png",
+    "/pixellab/tanuki/animations/attack/south-east/5.png",
+    "/pixellab/tanuki/animations/attack/south-east/6.png"
+   ],
+   "south": [
+    "/pixellab/tanuki/animations/attack/south/0.png",
+    "/pixellab/tanuki/animations/attack/south/1.png",
+    "/pixellab/tanuki/animations/attack/south/2.png",
+    "/pixellab/tanuki/animations/attack/south/3.png",
+    "/pixellab/tanuki/animations/attack/south/4.png",
+    "/pixellab/tanuki/animations/attack/south/5.png",
+    "/pixellab/tanuki/animations/attack/south/6.png"
+   ],
+   "north-east": [
+    "/pixellab/tanuki/animations/attack/north-east/0.png",
+    "/pixellab/tanuki/animations/attack/north-east/1.png",
+    "/pixellab/tanuki/animations/attack/north-east/2.png",
+    "/pixellab/tanuki/animations/attack/north-east/3.png",
+    "/pixellab/tanuki/animations/attack/north-east/4.png",
+    "/pixellab/tanuki/animations/attack/north-east/5.png",
+    "/pixellab/tanuki/animations/attack/north-east/6.png"
+   ]
+  },
+  "walking": {
+   "south": [
+    "/pixellab/tanuki/animations/walking/south/0.png",
+    "/pixellab/tanuki/animations/walking/south/1.png",
+    "/pixellab/tanuki/animations/walking/south/2.png",
+    "/pixellab/tanuki/animations/walking/south/3.png",
+    "/pixellab/tanuki/animations/walking/south/4.png",
+    "/pixellab/tanuki/animations/walking/south/5.png",
+    "/pixellab/tanuki/animations/walking/south/6.png"
+   ],
+   "east": [
+    "/pixellab/tanuki/animations/walking/east/0.png",
+    "/pixellab/tanuki/animations/walking/east/1.png",
+    "/pixellab/tanuki/animations/walking/east/2.png",
+    "/pixellab/tanuki/animations/walking/east/3.png",
+    "/pixellab/tanuki/animations/walking/east/4.png",
+    "/pixellab/tanuki/animations/walking/east/5.png",
+    "/pixellab/tanuki/animations/walking/east/6.png"
+   ],
+   "south-east": [
+    "/pixellab/tanuki/animations/walking/south-east/0.png",
+    "/pixellab/tanuki/animations/walking/south-east/1.png",
+    "/pixellab/tanuki/animations/walking/south-east/2.png",
+    "/pixellab/tanuki/animations/walking/south-east/3.png",
+    "/pixellab/tanuki/animations/walking/south-east/4.png",
+    "/pixellab/tanuki/animations/walking/south-east/5.png",
+    "/pixellab/tanuki/animations/walking/south-east/6.png"
+   ],
+   "north-east": [
+    "/pixellab/tanuki/animations/walking/north-east/0.png",
+    "/pixellab/tanuki/animations/walking/north-east/1.png",
+    "/pixellab/tanuki/animations/walking/north-east/2.png",
+    "/pixellab/tanuki/animations/walking/north-east/3.png",
+    "/pixellab/tanuki/animations/walking/north-east/4.png",
+    "/pixellab/tanuki/animations/walking/north-east/5.png",
+    "/pixellab/tanuki/animations/walking/north-east/6.png"
+   ],
+   "north": [
+    "/pixellab/tanuki/animations/walking/north/0.png",
+    "/pixellab/tanuki/animations/walking/north/1.png",
+    "/pixellab/tanuki/animations/walking/north/2.png",
+    "/pixellab/tanuki/animations/walking/north/3.png",
+    "/pixellab/tanuki/animations/walking/north/4.png",
+    "/pixellab/tanuki/animations/walking/north/5.png",
+    "/pixellab/tanuki/animations/walking/north/6.png"
+   ]
+  }
+ },
+ "atlas": [
+  "/pixellab/tanuki/frames_0"
+ ]
+}
