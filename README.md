@@ -2,7 +2,7 @@
 
 Built files of the RPOEE playtest (no source code).
 
-- Guide: https://l0ginp.github.io/rpoee-playtest/
-- Manual: https://l0ginp.github.io/rpoee-playtest/manual.html
-- Wiki: https://l0ginp.github.io/rpoee-playtest/wiki/
-- Play: https://l0ginp.github.io/rpoee-playtest/play/
+- Guide: https://rpoee.l0ginx.app/
+- Manual: https://rpoee.l0ginx.app/manual.html
+- Wiki: https://rpoee.l0ginx.app/wiki/
+- Play: https://rpoee.l0ginx.app/play/
