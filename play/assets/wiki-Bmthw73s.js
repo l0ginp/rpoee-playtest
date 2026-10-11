@@ -1,4 +1,4 @@
-import{$ as e,A as t,B as n,H as r,I as i,L as a,M as o,N as s,O as c,P as l,S as u,U as d,X as f,Y as p,Z as m,at as h,b as ee,c as te,ct as g,d as _,g as v,h as y,i as b,it as x,j as S,k as C,l as w,m as T,n as E,o as D,ot as O,rt as k,s as A,st as j,t as M,tt as N,v as ne,x as P,y as F}from"./skill-icons-DprBNOHY.js";var re=`<!-- คู่มือเกม (แสดงในหน้า Wiki แท็บ "คู่มือ") — ข้อมูลตัวเลขละเอียดอยู่ในหน้า Wiki อื่นที่สร้างจากโค้ดเกม -->
+import{$ as e,A as t,B as n,H as r,I as i,L as a,M as o,N as s,O as c,P as l,S as u,U as d,X as f,Y as p,Z as m,at as h,b as ee,c as te,ct as g,d as _,g as v,h as y,i as b,it as x,j as S,k as C,l as w,m as T,n as E,o as D,ot as O,rt as k,s as A,st as j,t as M,tt as N,v as ne,x as P,y as F}from"./skill-icons-DTpA3kgl.js";var re=`<!-- คู่มือเกม (แสดงในหน้า Wiki แท็บ "คู่มือ") — ข้อมูลตัวเลขละเอียดอยู่ในหน้า Wiki อื่นที่สร้างจากโค้ดเกม -->
 <article data-lang="th">
 <section id="th-start">
 <h2>1. เริ่มเกม</h2>
