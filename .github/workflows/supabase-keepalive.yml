@@ -1,5 +1,5 @@
 # กัน Supabase (แพ็กเกจฟรี) หลับ: ไม่มีคนใช้ 1 สัปดาห์ โปรเจกต์จะถูกพัก
-# เรียก REST API วันละครั้ง (query ตาราง characters ด้วย anon key — RLS ให้ผลว่าง แต่นับเป็นการใช้งาน)
+# เรียก REST API วันละครั้ง (คีย์ publishable ส่งใน header apikey เท่านั้น — ใส่ Authorization: Bearer จะได้ 401) (query ตาราง characters ด้วย anon key — RLS ให้ผลว่าง แต่นับเป็นการใช้งาน)
 # ล้ม = GitHub ส่งอีเมลแจ้งเจ้าของ repo
 name: supabase-keepalive
 on:
@@ -17,7 +17,7 @@ jobs:
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
         run: |
           code=$(curl -s -o /dev/null -w '%{http_code}' --retry 3 --retry-delay 20 \
-            -H "apikey: $SUPABASE_ANON_KEY" -H "Authorization: Bearer $SUPABASE_ANON_KEY" \
+            -H "apikey: $SUPABASE_ANON_KEY" \
             "$SUPABASE_URL/rest/v1/characters?select=id&limit=1")
           echo "status $code"
           test "$code" = "200"
