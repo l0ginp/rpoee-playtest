@@ -1,5 +1,5 @@
 # กัน Supabase (แพ็กเกจฟรี) หลับ: ไม่มีคนใช้ 1 สัปดาห์ โปรเจกต์จะถูกพัก
-# เรียก REST API วันละครั้ง (คีย์ publishable ส่งใน header apikey เท่านั้น — ใส่ Authorization: Bearer จะได้ 401) (query ตาราง characters ด้วย anon key — RLS ให้ผลว่าง แต่นับเป็นการใช้งาน)
+# เรียก Supabase วันละครั้งด้วยคีย์ publishable (ส่งใน header apikey เท่านั้น — ใส่ Authorization: Bearer จะได้ 401)
 # ล้ม = GitHub ส่งอีเมลแจ้งเจ้าของ repo
 name: supabase-keepalive
 on:
@@ -16,8 +16,13 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_ANON_KEY: ${{ secrets.SUPABASE_ANON_KEY }}
         run: |
-          code=$(curl -s -o /dev/null -w '%{http_code}' --retry 3 --retry-delay 20 \
-            -H "apikey: $SUPABASE_ANON_KEY" \
-            "$SUPABASE_URL/rest/v1/characters?select=id&limit=1")
-          echo "status $code"
-          test "$code" = "200"
+          # 1) ฟังก์ชัน keepalive ในฐานข้อมูล (query จริง) · 2) ยังไม่ได้ลง migration = ถอยไปเรียก Auth settings
+          rpc=$(curl -s -o /dev/null -w '%{http_code}' --retry 3 --retry-delay 20 -X POST \
+            -H "apikey: $SUPABASE_ANON_KEY" -H "Content-Type: application/json" -d '{}' \
+            "$SUPABASE_URL/rest/v1/rpc/keepalive")
+          echo "rpc keepalive: $rpc"
+          if [ "$rpc" = "200" ]; then exit 0; fi
+          auth=$(curl -s -o /dev/null -w '%{http_code}' --retry 3 --retry-delay 20 \
+            -H "apikey: $SUPABASE_ANON_KEY" "$SUPABASE_URL/auth/v1/settings")
+          echo "auth settings: $auth (fallback — apply supabase/migrations/20261012000000_keepalive.sql for a real DB query)"
+          test "$auth" = "200"
