@@ -1,4 +1,4 @@
-import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St as l,U as u,V as d,W as f,Y as p,Z as m,_t as h,bt as g,c as te,d as _,dt as v,h as y,ht as b,i as x,it as S,j as C,l as w,lt as T,m as E,n as D,o as O,pt as k,rt as A,s as j,t as M,tt as N,ut as P,vt as F,xt as I,yt as ne}from"./skill-icons-CDidQus_.js";var L=`<!-- คู่มือเกม (แสดงในหน้า Wiki แท็บ "คู่มือ") — ข้อมูลตัวเลขละเอียดอยู่ในหน้า Wiki อื่นที่สร้างจากโค้ดเกม -->
+import{$ as e,A as t,C as n,Et as r,Ft as i,G as a,J as o,M as s,Mt as ee,N as c,Nt as l,Ot as u,P as d,Pt as f,Q as p,Tt as m,U as h,V as g,W as _,c as v,ct as y,d as b,dt as x,et as S,ft as te,gt as C,h as w,i as T,j as E,jt as ne,l as re,lt as D,m as ie,n as ae,nt as O,o as k,ot as oe,pt as se,s as ce,st as le,t as A,tt as ue,ut as de,vt as j,wt as M,yt as N}from"./skill-icons-BuzoGjrz.js";var P=`<!-- คู่มือเกม (แสดงในหน้า Wiki แท็บ "คู่มือ") — ข้อมูลตัวเลขละเอียดอยู่ในหน้า Wiki อื่นที่สร้างจากโค้ดเกม -->
 <article data-lang="th">
 <section id="th-start">
 <h2>1. เริ่มเกม</h2>
@@ -24,7 +24,7 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 <tr><td><kbd>1</kbd> <kbd>2</kbd></td><td>ของด่วน: สมุนไพร / ยามานา</td></tr>
 <tr><td><kbd>F</kbd></td><td>คุยกับ NPC / บอส (หรือคลิกที่ตัว)</td></tr>
 <tr><td><kbd>Z</kbd></td><td>เก็บ Orb และไอเทมรอบตัว (3 ช่อง) · เงินเก็บเอง</td></tr>
-<tr><td><kbd>I</kbd> <kbd>C</kbd> <kbd>P</kbd> <kbd>K</kbd></td><td>กระเป๋า · ตัวละคร (สเตตัส) · ต้นไม้สกิล · จัดสกิล</td></tr>
+<tr><td><kbd>I</kbd> <kbd>C</kbd> <kbd>P</kbd> <kbd>K</kbd></td><td>กระเป๋า · ตัวละคร (สเตตัส) · สายวิชา · จัดสกิล</td></tr>
 <tr><td><kbd>M</kbd> / 🔊</td><td>เปิด/ปิดเสียงทั้งหมด</td></tr>
 <tr><td><kbd>Esc</kbd></td><td>ปิดหน้าต่าง / ยกเลิก Orb ที่เลือก</td></tr>
 <tr><td>ล้อเมาส์</td><td>ซูม 0.5×–2.5×</td></tr>
@@ -35,7 +35,7 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 <li><b>⚔️</b> ล็อกเป้าใกล้สุดแล้วตี</li>
 <li><b>ปุ่มสกิล 4 ปุ่ม / 🤸 กลิ้ง</b>: แตะ = เล็งอัตโนมัติ · ลากนิ้วออกจากปุ่ม = เล็งทิศเอง</li>
 <li><b>ของด่วน 2 ช่อง</b>: แตะ = ใช้ · แตะค้าง = เลือกของ (สมุนไพร / โมจิ / ยามานา)</li>
-<li><b>💬</b> คุย (ขึ้นเมื่ออยู่ใกล้ NPC) · ขวาบน: ⛶ เต็มจอ 📜 สกิล 🌳 ต้นไม้ (บีบสองนิ้วซูม) 👤 ตัวละคร 🔊 เสียง 🧪 ทดสอบ 🎒 กระเป๋า ⚙️ ตั้งค่า</li>
+<li><b>💬</b> คุย (ขึ้นเมื่ออยู่ใกล้ NPC) · ขวาบน: ⛶ เต็มจอ 📜 สกิล 🌳 สายวิชา 👤 ตัวละคร 🔊 เสียง 🧪 ทดสอบ 🎒 กระเป๋า ⚙️ ตั้งค่า</li>
 <li><b>เต็มจอ</b>: Android แตะครั้งแรกเข้าเต็มจอเอง หรือกด ⛶ · ติดตั้งเป็นแอป (Chrome ⋮ → เพิ่มลงในหน้าจอหลัก / iPhone Safari แชร์ → เพิ่มลงในหน้าจอโฮม) แล้วเปิดจากไอคอน = เต็มจอตลอด</li>
 </ul>
 </section>
@@ -136,49 +136,31 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 </section>
 
 <section id="th-tree">
-<h2>7. ต้นไม้สกิล (หน้าต่าง <kbd>P</kbd>)</h2>
+<h2>7. สายวิชา (หน้าต่าง <kbd>P</kbd>)</h2>
 <ul>
-<li><b>Season alpha1a · ธีมบัวดารา</b> — จุดเริ่มแต่ละจุดอยู่มุมของตัวเองรอบขอบ และมี<b>สะพานข้ามสาย</b>เชื่อมโซนข้างเคียงหลายจุด วิ่งข้ามไปสายข้าง ๆ ได้โดยไม่ต้องอ้อมเข้ากลาง</li>
-<li>ต้นไม้ใหญ่ <b>1,280 จุด</b> · <b>เริ่มจากจุดริมขอบ แล้วเดินเข้าด้านใน</b> — เส้นทางแตกกิ่งและรวมกันแบบสายน้ำ ทุกสายไปบรรจบที่จุดเชื่อมกลางต้นไม้ (จุดธรรมดา ไม่มีอะไรพิเศษ) มีสะพานเชื่อมกิ่งข้างเคียงให้เลือกทาง</li>
-<li>เลเวล 100 มีแต้มรวม 256 จุด = <b>ใช้ได้แค่ 20% ของต้นไม้</b> — เลือกทางให้ดี ได้จุดเริ่มใหม่ตอนเลเวลสูงก็ยังมีทางเหลือให้ไป</li>
-<li><b>สุ่มใหม่ทุกซีซั่น</b> ทั้งเส้นทาง รูปร่าง (กลีบดอก / ก้อนเบี้ยว / เกลียวบิด) และชื่อจุดเริ่ม — ซีซั่นใหม่คืนแต้มให้อัตโนมัติ</li>
-<li><b>จุดเริ่ม 8 จุด</b> ตั้งชื่อตามดาวและเทพนิยาย (เช่น สุบารุ โอริฮิเมะ คางุยะ) — <b>ชื่อไม่บอกว่าเป็นสายอะไร</b> ลองดูค่าพลังของแต่ละจุดเพื่อศึกษาเอง</li>
-<li>เลือกจุดเริ่มได้ 1 จุดตอนเลเวล 1 และเพิ่มอีกจุดที่เลเวล 25 / 50 / 75 (สูงสุด 4 จาก 8) · แต้มสกิล: เลเวล 2–24 +1/เลเวล · 25–49 +2 · 50–74 +3 · 75–100 +4</li>
-<li>ชนิดจุด: <b>Passive</b> (จุดเล็ก ค่าพลังทีละนิด) · <b>Notable</b> (จุดใหญ่มีชื่อ เช่น คมดาบโรนิน แมวกวัก ม่านควัน — มักอยู่ตรงทางแยก) · <b>Skill</b> (ได้สกิลใหม่ เลเวลสกิล = เลเวลตัวละคร ÷ 5) · <b>Keystone</b> (เปลี่ยนกติกา อยู่ลึกด้านใน)</li>
-<li><b>รีเซ็ตต้นไม้ฟรี</b> ได้ตลอดเวลา (ปุ่ม Reset tree)</li>
+<li><b>8 สายวิชา</b> — คมดาบ · ปราการ · สายลม · นักล่า · ปราชญ์ · จิตวิญญาณ · โชคลาภ · เงา แต่ละสายให้ค่าพลังคนละแนว</li>
+<li>ได้ <b>+1 แต้มทุกเลเวล</b> (เลเวล 100 = 99 แต้ม) · ใส่ได้สายละ <b>สูงสุด 25 แต้ม</b> — จะลงลึกสายเดียวหรือกระจายหลายสายก็ได้</li>
+<li><b>ทุกแต้มให้ค่าพลังของสายนั้น</b> (ค่าต่อแต้มคงที่ ไม่เปลี่ยนตามซีซั่น)</li>
+<li><b>การ์ด Talent</b> ที่ 5 / 10 / 15 / 20 แต้มของสายนั้น — เลือก 1 จาก 3 ใบ</li>
+<li><b>Keystone</b> ที่ 25 แต้ม — เลือก 1 จาก 2 (มีได้สูงสุด 3 อัน) เปลี่ยนกติกาของตัวละครพร้อมข้อแลกเปลี่ยน</li>
+<li><b>สกิลของสาย</b> ปลดที่ 1 / 4 / 8 / 12 / 16 / 20 แต้ม (บางช่วงไม่มีสกิล) · ใช้ได้กับ<b>อาวุธทุกชนิด</b> · จัดลงช่องสกิลที่หน้าต่าง <kbd>K</kbd></li>
+<li><b>Talent และ Keystone ที่โผล่ให้เลือกเปลี่ยนทุกซีซั่น</b> ส่วนค่าต่อแต้มและสกิลของสายไม่เปลี่ยน</li>
+<li><b>รีเซ็ตทีละสาย</b> ได้ในราคา <b>20 × เลเวล เซนี่</b> (คืนแต้มทั้งสายนั้น รวมการ์ดที่เลือกไว้)</li>
 </ul>
-<h3>วิธีใช้</h3>
-<ul>
-<li><b>มือถือ</b>: หน้าต่างเต็มจอ · <b>แตะจุด = ดูรายละเอียด</b> ในการ์ดด้านล่าง แล้วกดปุ่มเพื่ออัป (ไม่เผลออัปผิด) · ลากเพื่อเลื่อน · สองนิ้วบีบเพื่อซูม</li>
-<li><b>คอม</b>: ชี้จุด = ดูรายละเอียด · คลิกจุด = เลือก แล้วกดปุ่มในการ์ดเพื่อยืนยันการอัป (กันอัปผิด)</li>
-<li><b>ถอดคืนแต้มทีละจุด</b>: เลือกจุดที่อัปแล้ว กด "ถอดคืนแต้ม" — ถอดได้จากปลายทางเข้ามา (จุดที่เหลือต้องยังต่อถึงจุดเริ่ม)</li>
-<li><b>อัปทั้งเส้นทาง</b>: เลือกจุดไกล ๆ เกมจะโชว์เส้นทางสั้นสุด (สีฟ้า) บอกว่าใช้กี่แต้ม แล้วกดอัปทั้งเส้นได้ในครั้งเดียว</li>
-<li><b>Σ</b> = สรุปค่าพลังทั้งหมดที่ได้จากต้นไม้ · ⤢ = ดูทั้งต้นไม้</li>
-</ul>
-<h3>Keystone (Season alpha1a)</h3>
-<ul>
-<li><b>Blood Magic</b> — ใช้สกิลเสียเลือดแทนมานา</li>
-<li><b>Wind Runner</b> — กลิ้งกลายเป็นพุ่งไกล (คูลดาวน์ +50%)</li>
-<li><b>Glass Cannon</b> — ดาเมจ +40% เลือด −30%</li>
-<li><b>Iron Will</b> — เกราะ +30% ความเร็วโจมตี −15%</li>
-<li><b>Giant's Blood</b> — เลือด +25% ความเร็วเดิน −10%</li>
-<li><b>Duelist's Focus</b> — โอกาสคริ +30% หลบหลีก −25%</li>
-</ul>
-<p class="more"><a href="#tree">เปิดต้นไม้แบบเต็ม ค้นหาจุด และวางแผนบิลด์ — Wiki หน้าต้นไม้สกิล →</a></p></section>
+<p class="more"><a href="#tree">ดูทุกสายวิชา การ์ดและ Keystone ในซีซั่นนี้ — Wiki หน้าสายวิชา →</a></p></section>
 
 <section id="th-skills">
 <h2>8. สกิล (หน้าต่าง <kbd>K</kbd>)</h2>
 <h3>ได้สกิลมาจากไหน</h3>
 <ul>
-<li><b>อาวุธ</b>: อาวุธทุกชิ้นมีสกิล 1 อัน (สุ่มตอนดรอปจากกลุ่มของประเภทอาวุธ) · <b>เลเวลสกิล = item level ÷ 5 ปัดขึ้น</b> (1–20) · ช่องที่ 1 ผูกกับสกิลอาวุธที่ถืออยู่</li>
-<li><b>Skill Gem</b>: ให้ช่างตีเหล็กย่อยอาวุธเป็นเจม ติดตัวได้ 1 อัน (ดูหัวข้อเมือง)</li>
-<li><b>ต้นไม้สกิล</b>: จุดชนิด Skill</li>
+<li><b>อาวุธ</b>: อาวุธมี 1–2 สกิล (Normal 1 · Magic/Rare มีโอกาสได้ 2 · Unique ได้ 2 เสมอ · สุ่มตอนดรอปจากกลุ่มของประเภทอาวุธ) · <b>เลเวลสกิล = ขั้นตีบวก</b> (ไม่เกินเลเวลตัวละคร ÷ 5 ปัดขึ้น) · ช่องที่ 1 ผูกกับสกิลอาวุธที่ถืออยู่</li>
+<li><b>สายวิชา</b>: ปลดสกิลตามแต้มที่ใส่ในแต่ละสาย (ใช้ได้กับอาวุธทุกชนิด)</li>
 </ul>
 <ul>
 <li>มี 4 ช่อง <kbd>Q</kbd><kbd>E</kbd><kbd>R</kbd><kbd>T</kbd> · ช่องแรกเป็น <b>⚔️ โจมตีปกติ</b> (ย้ายช่องได้) · สกิลที่ใช้กับอาวุธที่ถือไม่ได้จะเป็นสีเทา</li>
 <li>ความแรงสกิลเพิ่ม 8% ต่อเลเวลสกิล</li>
 </ul>
-<p class="more"><a href="#skills">ตารางสกิลทั้งหมด อาวุธที่สุ่มได้ และค่าย่อยเจม — ดูใน Wiki หน้าสกิล →</a></p></section>
+<p class="more"><a href="#skills">ตารางสกิลทั้งหมด อาวุธที่สุ่มได้ — ดูใน Wiki หน้าสกิล →</a></p></section>
 
 <section id="th-items">
 <h2>9. ไอเทม (กระเป๋า <kbd>I</kbd>)</h2>
@@ -200,7 +182,7 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 <h3>Item level (iLvl)</h3>
 <ul>
 <li>= เลเวลมอนที่ดรอป (<b>บอส +2</b>)</li>
-<li>กำหนดว่าของฐานแบบไหนดรอปได้ · ออปชั่นขั้นสูงปลดที่ iLvl 1 / 10 / 20 / 35 · และกำหนดเลเวลสกิลของอาวุธ</li>
+<li>กำหนดว่าของฐานแบบไหนดรอปได้ · ออปชั่นขั้นสูงปลดที่ iLvl 1 / 10 / 20 / 35</li>
 </ul>
 <h3>ของใช้</h3>
 <ul>
@@ -217,11 +199,20 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 <p><b>วิธีใช้</b>: คลิก Orb ในกระเป๋า แล้วคลิกไอเทม (ในกระเป๋าหรือที่ใส่อยู่) · ยังเลือก Orb ค้างไว้ถ้ายังมีเหลือ · คลิกขวาหรือ <kbd>Esc</kbd> ยกเลิก</p>
 <p class="more"><a href="#orbs">ตาราง Orb ทุกลูก พร้อมผลและโอกาสดรอป — ดูใน Wiki หน้า Orb →</a></p></section>
 
+<section id="th-refine">
+<h2>ตีบวกอาวุธ (ช่างตีเหล็ก)</h2>
+<ul>
+<li>คุยกับช่างตีเหล็กในเมืองเพื่อตีบวกอาวุธ +0 ถึง +20 · ทุก +1 เพิ่มดาเมจอาวุธ 3% และเลเวลสกิลอาวุธ +1</li>
+<li>ตีครั้งละ 1 <b>หินตีบวก</b> (เล็ก/กลาง/ใหญ่ ตามขั้น) + ค่าตีเป็น Zeny · ขั้นสูงมีโอกาสพลาด: ขั้นต้นลดลง 1 ขั้น ขั้นกลางกลับเป็น +0 ขั้นสูงสุดอาวุธแตก</li>
+<li><b>ยันต์</b> กันถอย / กันแตก ใช้ได้เฉพาะช่วงของมัน · ใช้แล้วหมดแม้สำเร็จ · ย่อยอาวุธที่ช่างฟรีเพื่อได้หินคืน</li>
+</ul>
+<p class="more"><a href="#refine">ตารางโอกาส ค่าตี ยันต์ และแหล่งดรอปหิน — Wiki หน้าตีบวก →</a></p></section>
+
 <section id="th-drops">
 <h2>11. ของดรอป</h2>
 <ul>
 <li><b>ของหายากแบบ Ragnarok</b> — ต่อมอน 1 ตัว: <b>เงิน 35%</b> · <b>ไอเทม 2%</b> · <b>Orb 4%</b> (ฟาร์ม 1 ชม. ได้อุปกรณ์ราว 8 ชิ้น Orb ราว 16 ลูก)</li>
-<li>ระดับไอเทมที่ดรอป: Unique 0.4% · Rare 7.6% · Magic 32% · Normal 60% — ค่า <i>Item Rarity</i> (จาก LUK / ต้นไม้) เพิ่มโอกาส</li>
+<li>ระดับไอเทมที่ดรอป: Unique 0.4% · Rare 7.6% · Magic 32% · Normal 60% — ค่า <i>Item Rarity</i> (จาก LUK / สายวิชา) เพิ่มโอกาส</li>
 <li><b>บอส</b>: การันตีไอเทมระดับ Magic ขึ้นไป 1 ชิ้น (iLvl = เลเวลบอส +2) + สุ่มเพิ่ม (เทงงุ 4 รอบ · ราชาคางคก 6 รอบ)</li>
 <li>มอนเกิดใหม่หลังตาย 1.5–2.5 วิ ที่จุดสุ่มห่างจากเรา (ลูกน้องที่บอสเรียกไม่เกิดใหม่)</li>
 </ul>
@@ -234,7 +225,7 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 <tr><th>NPC</th><th>บริการ</th></tr>
 <tr><td>⛩️ Priest Kerozo</td><td>วาร์ป 50 z: ซากศาลเจ้าป่ามอส (Lv1–3) · หนองกบ (Lv3–15) · ที่เหลือยังล็อก</td></tr>
 <tr><td>🧪 Shopkeeper Ume</td><td>สมุนไพร 30 z · โมจิ 12 z · ยามานา 30 z · ม้วนวาร์ป 80 z · <b>💰 ขายของ</b>: คลิกเดียวขายทันที ทั้งกอง ไม่มีถามยืนยัน (Magic ×2, Rare ×4, Unique ×10 ของราคาฐาน, Orb ลูกละ 5 z)</td></tr>
-<tr><td>⚒️ Blacksmith Tetsu</td><td><b>ร้านอาวุธ/ชุดเกราะ</b> (ของ Normal ฐานเลเวลไม่เกิน 12) · <b>ย่อยสกิล</b>: เปลี่ยนอาวุธในกระเป๋า (ไม่ใช่ที่ถืออยู่) เป็น Skill Gem — อาวุธหายไป เลเวลเจม = เลเวลสกิล ±2 แบบสุ่ม (1–20) · เจมใหม่แทนเจมเก่า · ค่าย่อย: Lv1–5 Orb of Change ×(2×เลเวล) · Lv6–10 Alchemy ×(เลเวล−4) · Lv11–15 Chaos ×(เลเวล−9) · Lv16–20 Exaltation + Chaos ×5</td></tr>
+<tr><td>⚒️ Blacksmith Tetsu</td><td><b>ร้านอาวุธ/ชุดเกราะ</b> (ของ Normal ฐานเลเวลไม่เกิน 12)</td></tr>
 <tr><td>📦 Pon the Storekeeper</td><td>โกดัง 40 ช่อง · ฝากครั้งละ 5 z · ถอนฟรี</td></tr>
 <tr><td>👘 Kohaku the Tailor</td><td>ลองชุดแฟชั่นดูได้ (ยังซื้อไม่ได้)</td></tr>
 <tr><td>📜 Elder Matsu</td><td>คุยเฉย ๆ</td></tr>
@@ -284,7 +275,7 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 <li><b>⚙️ ตั้งค่า</b>: ติ๊กเปิด/ปิดเสียง · เสียงเอฟเฟกต์ · เสียงเพลง · เปลี่ยนปุ่มได้ทั้ง 18 ปุ่ม (ตั้งซ้ำกับปุ่มที่ใช้อยู่ = สลับกัน) · ปุ่มคืนค่าเริ่มต้น</li>
 <li><b>เพลงประจำแมป</b>: ซากศาลเจ้า = ขลุ่ยไม้ไผ่ + นกร้อง · เมือง = พิณโคโตะ · หนองกบ = เสียงหนองและกบ · สู้บอส = กลองไทโกะ · เสียงเริ่มหลังแตะ/กดปุ่มครั้งแรก</li>
 <li><b>ภาษา</b>: เข้าเกมครั้งแรกจะให้เลือก ไทย / English · เปลี่ยนทีหลังได้ที่ ⚙️ (เกมโหลดใหม่) หรือหน้าสร้างตัวละคร</li>
-<li><b>🧪 ตัวเลือกทดสอบ</b> (กรอบประสีม่วง): ดาเมจ ×1–50 · เลือด ×1–50 · ความเร็วเดิน ×1–5 · เสกของ (ไอเทม 6 + Orb 4, iLvl 35) · ล้างกระเป๋า · ตัวละครใหม่ (เปลี่ยนทรงผม + เล่นแมปแรกใหม่ — <b>เลเวล ต้นไม้ และของยังอยู่</b>) · +1 เลเวล</li>
+<li><b>🧪 ตัวเลือกทดสอบ</b> (กรอบประสีม่วง): ดาเมจ ×1–50 · เลือด ×1–50 · ความเร็วเดิน ×1–5 · เสกของ (ไอเทม 6 + Orb 4, iLvl 35) · ล้างกระเป๋า · ตัวละครใหม่ (เปลี่ยนทรงผม + เล่นแมปแรกใหม่ — <b>เลเวล สายวิชา และของยังอยู่</b>) · +1 เลเวล</li>
 <li>พารามิเตอร์ลิงก์อื่น: <code>?mute=1</code> ปิดเสียง · <code>?fps=1</code> แสดง FPS · <code>?touch=1</code> บังคับปุ่มมือถือ</li>
 </ul>
 </section>
@@ -294,7 +285,7 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 <ul>
 <li>ร้านช่างตัดเสื้อยังขายไม่ได้ · ปลายทางวาร์ป 3 จุดยังล็อก · ประตูใต้ของเมืองยังปิด</li>
 <li>ค่าต้านธาตุยังไม่มีผล (ดาเมจมอนทั้งหมดเป็นกายภาพ)</li>
-<li>สกิล War Cry และ Healing Light ไม่มีบนอาวุธ ได้เฉพาะจากจุด Skill บนต้นไม้ (ถ้าซีซั่นนั้นสุ่มมี) — ดูได้ใน Wiki หน้าสกิล</li>
+<li>สกิล War Cry และ Healing Light ไม่มีบนอาวุธ ได้เฉพาะจากสายวิชา (War Cry = คมดาบ · Healing Light = จิตวิญญาณ) — ดูได้ใน Wiki หน้าสกิล</li>
 <li>ยังรีเซ็ตสเตตัสไม่ได้ · ทิ้งไอเทมไม่ได้ · ตั้งของด่วนบนคอมไม่ได้ · ยาไม่มีคูลดาวน์</li>
 <li>ยังไม่มีระบบตั้งชื่อตัวละคร · โกดังเขียนว่า "ใช้ร่วมทุกตัวละคร" แต่ตอนนี้มีตัวละครเดียว</li>
 <li>บทพูด NPC บางอันยังเป็นข้อความชั่วคราว</li>
@@ -327,7 +318,7 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 <tr><td><kbd>1</kbd> <kbd>2</kbd></td><td>Quick slots: Healing Herb / Mana Potion</td></tr>
 <tr><td><kbd>F</kbd></td><td>Talk to an NPC or boss (or click them)</td></tr>
 <tr><td><kbd>Z</kbd></td><td>Pick up orbs and items within 3 tiles · zeny is automatic</td></tr>
-<tr><td><kbd>I</kbd> <kbd>C</kbd> <kbd>P</kbd> <kbd>K</kbd></td><td>Bag · Character (attributes) · Skill tree · Skills</td></tr>
+<tr><td><kbd>I</kbd> <kbd>C</kbd> <kbd>P</kbd> <kbd>K</kbd></td><td>Bag · Character (attributes) · Disciplines · Skills</td></tr>
 <tr><td><kbd>M</kbd> / 🔊</td><td>Sound on/off</td></tr>
 <tr><td><kbd>Esc</kbd></td><td>Close panels / cancel a selected orb</td></tr>
 <tr><td>Mouse wheel</td><td>Zoom 0.5×–2.5×</td></tr>
@@ -338,7 +329,7 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 <li><b>⚔️</b> locks the nearest enemy and attacks.</li>
 <li><b>4 skill buttons / 🤸 roll</b>: tap = auto-aim · drag off the button = aim yourself.</li>
 <li><b>2 quick slots</b>: tap = use · hold = choose the item (Herb / Rice Cake / Mana Potion).</li>
-<li><b>💬</b> talk (shows near NPCs) · top right: ⛶ fullscreen 📜 skills 🌳 tree (pinch to zoom) 👤 character 🔊 sound 🧪 test 🎒 bag ⚙️ settings.</li>
+<li><b>💬</b> talk (shows near NPCs) · top right: ⛶ fullscreen 📜 skills 🌳 disciplines 👤 character 🔊 sound 🧪 test 🎒 bag ⚙️ settings.</li>
 <li><b>Fullscreen</b>: on PC press ⛶ (top right) or F11 · on Android your first tap goes fullscreen, or press ⛶ · install it as an app (Chrome ⋮ → Add to Home screen / iPhone Safari Share → Add to Home Screen) and open the icon for permanent fullscreen.</li>
 </ul>
 </section>
@@ -439,49 +430,31 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 </section>
 
 <section id="en-tree">
-<h2>7. Passive skill tree (<kbd>P</kbd> panel)</h2>
+<h2>7. Disciplines (<kbd>P</kbd> panel)</h2>
 <ul>
-<li><b>Season alpha1a · Star Lotus theme</b> — each start sits in its own corner around the rim, and <b>cross-path bridges</b> link neighbouring zones at several depths, so you can cross into the next build path without going through the middle.</li>
-<li><b>1,280 nodes</b> · <b>start on the outer edge and work inward</b> — paths branch and merge like rivers, all meeting at one plain hub in the middle, with bridges between neighbouring branches.</li>
-<li>Level 100 gives 256 points = <b>only 20% of the tree</b> — choose your route; new start nodes at high level still have room to grow.</li>
-<li><b>Re-rolled every season</b>: paths, outline (petals / lopsided blobs / spirals) and start names — a new season refunds your points.</li>
-<li><b>8 start nodes</b> named after stars and myths (Subaru, Orihime, Kaguya…) — <b>the name doesn't tell you the build</b>; inspect the nodes to find out.</li>
-<li>Pick 1 start at level 1 and one more at 25 / 50 / 75 (up to 4 of 8) · skill points: +1 per level at 2–24 · +2 at 25–49 · +3 at 50–74 · +4 at 75–100.</li>
-<li>Node types: <b>Passive</b> (small) · <b>Notable</b> (big, named — Edge of the Ronin, Lucky Cat, Smoke Veil… usually at junctions) · <b>Skill</b> (grants a skill at level ceil(character level ÷ 5)) · <b>Keystone</b> (rule changer, deep inside).</li>
-<li><b>Free reset</b> any time (Reset tree).</li>
+<li><b>8 disciplines</b> — Blade · Bulwark · Wind · Hunter · Sage · Spirit · Fortune · Shadow. Each gives a different kind of stats.</li>
+<li>You earn <b>+1 point per level</b> (level 100 = 99 points) · up to <b>25 points per discipline</b> — go deep in one or spread across several.</li>
+<li><b>Every point gives that discipline's stats</b> (per-point values are fixed and don't change between seasons).</li>
+<li><b>Talent cards</b> at 5 / 10 / 15 / 20 points in a discipline — pick 1 of 3.</li>
+<li><b>Keystone</b> at 25 points — pick 1 of 2 (up to 3 in total); it changes the rules of your character, with a trade-off.</li>
+<li><b>Discipline skills</b> unlock at 1 / 4 / 8 / 12 / 16 / 20 points (some steps have no skill) · they work with <b>any weapon</b> · slot them in the <kbd>K</kbd> panel.</li>
+<li><b>The talents and keystones on offer change every season</b>; the per-point values and the skills don't.</li>
+<li><b>Reset one discipline</b> for <b>20 × level zeny</b> (refunds that discipline's points, including the cards you picked).</li>
 </ul>
-<h3>How to use</h3>
-<ul>
-<li><b>Phone</b>: fullscreen panel · <b>tap a node to inspect it</b> in the card below, then press the button to allocate · drag to move · pinch to zoom.</li>
-<li><b>PC</b>: hover to inspect · click a node to select it, then confirm with the card button (no accidental points).</li>
-<li><b>Refund one point at a time</b>: select an allocated node and press "Refund this point" — refunds work from the outside in (the rest must stay connected to a start).</li>
-<li><b>Allocate a path</b>: pick a far node and the game shows the shortest route (blue) and its cost; allocate it all in one press.</li>
-<li><b>Σ</b> = total bonuses from your tree · ⤢ = whole tree.</li>
-</ul>
-<h3>Keystones (season alpha1a)</h3>
-<ul>
-<li><b>Blood Magic</b> — skills cost Life instead of Mana.</li>
-<li><b>Wind Runner</b> — the roll becomes a long dash (+50% cooldown).</li>
-<li><b>Glass Cannon</b> — +40% damage, −30% Life.</li>
-<li><b>Iron Will</b> — +30% armour, −15% attack speed.</li>
-<li><b>Giant's Blood</b> — +25% Life, −10% movement speed.</li>
-<li><b>Duelist's Focus</b> — +30% critical chance, −25% evasion.</li>
-</ul>
-<p class="more"><a href="#tree">Full tree, search and build planner — Wiki tree page →</a></p></section>
+<p class="more"><a href="#tree">Every discipline, card and keystone this season — Wiki disciplines page →</a></p></section>
 
 <section id="en-skills">
 <h2>8. Skills (<kbd>K</kbd> panel)</h2>
 <h3>Where skills come from</h3>
 <ul>
-<li><b>Weapons</b>: every weapon carries 1 skill (rolled from its weapon type's pool when it drops) · <b>skill level = ceil(item level ÷ 5)</b> (1–20) · slot 1 follows the weapon you hold.</li>
-<li><b>Skill Gem</b>: the blacksmith turns a weapon into a gem; you can hold 1 (see Town).</li>
-<li><b>Skill tree</b>: Skill nodes.</li>
+<li><b>Weapons</b>: every weapon carries 1–2 skills (Normal 1 · Magic/Rare may roll 2 · Unique always 2 · rolled from its weapon type's pool when it drops) · <b>skill level = refine level</b> (capped at ceil(character level ÷ 5)) · slot 1 follows the weapon you hold.</li>
+<li><b>Disciplines</b>: skills unlock with the points you put into each discipline (they work with any weapon).</li>
 </ul>
 <ul>
 <li>4 slots on <kbd>Q</kbd><kbd>E</kbd><kbd>R</kbd><kbd>T</kbd> · the first holds <b>⚔️ Basic Attack</b> (movable) · skills your weapon can't use are greyed out.</li>
 <li>Skill power +8% per skill level.</li>
 </ul>
-<p class="more"><a href="#skills">Full skill table, weapon pools and gem costs — Wiki skills page →</a></p></section>
+<p class="more"><a href="#skills">Full skill table, and weapon pools — Wiki skills page →</a></p></section>
 
 <section id="en-items">
 <h2>9. Items (bag <kbd>I</kbd>)</h2>
@@ -503,7 +476,7 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 <h3>Item level (iLvl)</h3>
 <ul>
 <li>= the level of the monster that dropped it (<b>bosses +2</b>).</li>
-<li>Decides which bases can drop · higher affix tiers unlock at iLvl 1 / 10 / 20 / 35 · sets a weapon's skill level.</li>
+<li>Decides which bases can drop · higher affix tiers unlock at iLvl 1 / 10 / 20 / 35.</li>
 </ul>
 <h3>Consumables</h3>
 <ul>
@@ -520,11 +493,20 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 <p><b>How</b>: click an orb in the bag, then click an item (in the bag or equipped). The orb stays selected while you have more. Right-click or <kbd>Esc</kbd> cancels.</p>
 <p class="more"><a href="#orbs">Every orb with effects and drop odds — Wiki orb page →</a></p></section>
 
+<section id="en-refine">
+<h2>Refine (blacksmith)</h2>
+<ul>
+<li>Talk to the blacksmith in town to refine a weapon from +0 to +20. Each +1 adds 3% weapon damage and +1 weapon skill level.</li>
+<li>Each attempt uses 1 <b>refine stone</b> (small/medium/large by target) plus a zeny fee. Higher tiers can fail: early tiers drop 1 level, middle tiers reset to +0, the top tiers break the weapon.</li>
+<li><b>Wards</b> (hold / keep) only work in their own range and are used up even on success. Salvaging a weapon at the smith is free and returns stones.</li>
+</ul>
+<p class="more"><a href="#refine">Chances, fees, wards and stone drops — Wiki refine page →</a></p></section>
+
 <section id="en-drops">
 <h2>11. Drops</h2>
 <ul>
 <li><b>Ragnarok-style rare drops</b> — per monster: <b>zeny 35%</b> · <b>item 2%</b> · <b>orb 4%</b> (about 8 pieces of gear and 16 orbs per hour of farming).</li>
-<li>Item rarity: Unique 0.4% · Rare 7.6% · Magic 32% · Normal 60% — <i>Item Rarity</i> (from LUK / the tree) improves the odds.</li>
+<li>Item rarity: Unique 0.4% · Rare 7.6% · Magic 32% · Normal 60% — <i>Item Rarity</i> (from LUK / disciplines) improves the odds.</li>
 <li><b>Bosses</b>: one guaranteed Magic-or-better item (iLvl = boss level +2) plus extra rolls (Tengu 4 · Toad King 6).</li>
 <li>Monsters respawn 1.5–2.5 s after dying at a random spot away from you (boss summons don't).</li>
 </ul>
@@ -537,7 +519,7 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 <tr><th>NPC</th><th>Service</th></tr>
 <tr><td>⛩️ Priest Kerozo</td><td>Warp, 50 z: Mossy Shrine Ruins (Lv1–3) · Frog Marsh (Lv3–15) · the rest are locked</td></tr>
 <tr><td>🧪 Shopkeeper Ume</td><td>Healing Herb 30 z · Rice Cake 12 z · Mana Potion 30 z · Town Portal scroll 80 z · <b>💰 Sell</b>: one click sells the whole stack, no confirmation (Magic ×2, Rare ×4, Unique ×10 of base price; orbs 5 z each)</td></tr>
-<tr><td>⚒️ Blacksmith Tetsu</td><td><b>Weapon &amp; armour shop</b> (Normal bases up to level 12) · <b>Extract skill</b>: turns a weapon in your bag (not the one you hold) into a Skill Gem — the weapon is destroyed; gem level = skill level ±2 at random (1–20); a new gem replaces the old one · cost: Lv1–5 Orb of Change ×(2×level) · Lv6–10 Alchemy ×(level−4) · Lv11–15 Chaos ×(level−9) · Lv16–20 Exaltation + Chaos ×5</td></tr>
+<tr><td>⚒️ Blacksmith Tetsu</td><td><b>Weapon &amp; armour shop</b> (Normal bases up to level 12)</td></tr>
 <tr><td>📦 Pon the Storekeeper</td><td>40-slot storehouse · deposit 5 z each · withdraw free</td></tr>
 <tr><td>👘 Kohaku the Tailor</td><td>Try on costumes (buying not open yet)</td></tr>
 <tr><td>📜 Elder Matsu</td><td>Dialogue only</td></tr>
@@ -587,7 +569,7 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 <li><b>⚙️ Settings</b>: sound on/off · effects volume · music volume · rebind all 18 actions (binding a used key swaps them) · default keys button.</li>
 <li><b>Map music</b>: ruins = bamboo flute + birdsong · town = koto · marsh = swamp and frogs · boss fights = taiko drums. Sound starts after your first tap or key.</li>
 <li><b>Language</b>: chosen on first launch (ไทย / English) · change it later in ⚙️ (the game reloads) or on the creation screen.</li>
-<li><b>🧪 Test options</b> (dashed purple frame): damage ×1–50 · Life ×1–50 · walk speed ×1–5 · spawn loot (6 items + 4 orbs, iLvl 35) · reset bag · new character (new hairstyle + replay the first map — <b>level, tree and gear are kept</b>) · +1 level.</li>
+<li><b>🧪 Test options</b> (dashed purple frame): damage ×1–50 · Life ×1–50 · walk speed ×1–5 · spawn loot (6 items + 4 orbs, iLvl 35) · reset bag · new character (new hairstyle + replay the first map — <b>level, disciplines and gear are kept</b>) · +1 level.</li>
 <li>Other link parameters: <code>?mute=1</code> silent · <code>?fps=1</code> show FPS · <code>?touch=1</code> force phone controls.</li>
 </ul>
 </section>
@@ -597,7 +579,7 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 <ul>
 <li>The tailor can't sell yet · 3 warp destinations are locked · the town's south gate is closed.</li>
 <li>Elemental resistances do nothing yet (all monster damage is physical).</li>
-<li>War Cry and Healing Light never roll on weapons; they only come from tree Skill nodes when the season has them — check the Wiki skills page.</li>
+<li>War Cry and Healing Light never roll on weapons; they only come from disciplines (War Cry = Blade · Healing Light = Spirit) — check the Wiki skills page.</li>
 <li>No attribute reset · items can't be dropped · quick slots can't be changed on PC · potions have no cooldown.</li>
 <li>No character names yet · the storehouse says "shared by all characters" but there is only one.</li>
 <li>Some NPC lines are placeholders.</li>
@@ -605,47 +587,58 @@ import{A as e,G as t,H as n,J as r,L as i,M as a,N as o,O as ee,P as s,Q as c,St
 </ul>
 </section>
 </article>
-`,R=(e,t)=>_===`th`?t:e,z=e=>e.replace(/[&<>"]/g,e=>({"&":`&amp;`,"<":`&lt;`,">":`&gt;`,'"':`&quot;`})[e]),B=(e,t={})=>{try{return E(e,t)}catch{return e}},V=e=>e.toLocaleString(_===`th`?`th-TH`:`en-US`),H=(e,t)=>B(`stat.${e}`,Object.fromEntries(t.map((e,t)=>[t,e]))),re=(e,t)=>B(`tree.stat.${e}`,{v:+t.toFixed(2)}),U=e=>e[0]===e[1]?`${e[0]}`:`${e[0]}–${e[1]}`,W=(e,t)=>`<div class="scroll"><table><thead><tr>${e.map(e=>`<th>${e}</th>`).join(``)}</tr></thead><tbody>${t.map(e=>`<tr>${e.map(e=>`<td>${e}</td>`).join(``)}</tr>`).join(``)}</tbody></table></div>`,G=e=>B(`wtype.${e}`),K=C(s.seed,s.shape),q=location.pathname.includes(`/wiki/`)?`../play/`:`./`,J=(e,t=``,n=``)=>`<img src="${q}${e}" class="${t}" alt="${z(n)}" loading="lazy">`,Y={},X={w:0,h:0};try{let e=await(await fetch(`${q}items/icons.json`)).json();Y=Object.fromEntries(Object.entries(e.frames).map(([e,t])=>[e,t.frame])),X=e.meta.size}catch{}function Z(e,t=32){let n=Y[e];if(!n)return``;let r=t/32;return`<i class="ico" style="width:${n.w*r}px;height:${n.h*r}px;background-image:url(${q}items/icons.png);background-position:-${n.x*r}px -${n.y*r}px;background-size:${X.w*r}px ${X.h*r}px"></i>`}document.documentElement.lang=_,document.querySelector(`header .season`).textContent=`Season ${s.name} · ${y(s.theme)}`,document.querySelectorAll(`.langsw button`).forEach(e=>{e.classList.toggle(`on`,e.dataset.lang===_),e.onclick=()=>{let t=e.dataset.lang;try{localStorage.setItem(`wiki-lang`,t)}catch{}let n=new URL(location.href);n.searchParams.set(`lang`,t),location.replace(n.toString())}});var Q=[{id:`guide`,name:R(`📖 Guide`,`📖 คู่มือ`),render:ce},{id:`tree`,name:R(`Skill Tree`,`ต้นไม้สกิล`),render:pe},{id:`skills`,name:R(`Skills`,`สกิล`),render:me},{id:`items`,name:R(`Item bases`,`ไอเทมฐาน`),render:he},{id:`affixes`,name:R(`Affixes`,`ออปชั่น`),render:ge},{id:`uniques`,name:`Unique`,render:_e},{id:`orbs`,name:`Orb`,render:ve},{id:`monsters`,name:R(`Monsters`,`มอนสเตอร์`),render:ye},{id:`levels`,name:R(`Levels & drops`,`เลเวลและดรอป`),render:be}],ie=document.querySelector(`nav`),ae=document.getElementById(`page`);ie.innerHTML=Q.map(e=>`<a href="#${e.id}" data-p="${e.id}">${e.name}</a>`).join(``);function oe(){let e=location.hash.slice(1).split(`:`)[0]||`guide`,t=Q.find(t=>t.id===e)??Q[0];ie.querySelectorAll(`a`).forEach(e=>e.classList.toggle(`on`,e.dataset.p===t.id)),ae.innerHTML=``,t.render(ae)}var se=``;window.addEventListener(`hashchange`,()=>{let e=location.hash.slice(1).split(`:`)[0]||`guide`;e!==se&&(se=e,oe())});function ce(e){let t=new DOMParser().parseFromString(L,`text/html`),n=[...(t.querySelector(`article[data-lang="${_}"]`)??t.querySelector(`article`)).querySelectorAll(`section`)];e.innerHTML=`<h2>${R(`Game guide`,`คู่มือเกม`)}</h2>
-<p class="dim">${R(`How every system works. The other tabs hold the full numbers, generated from the game itself.`,`วิธีเล่นทุกระบบ · แท็บอื่นเป็นตัวเลขละเอียดที่ดึงจากตัวเกมโดยตรง`)}</p>
+`,F=(e,t)=>b===`th`?t:e,I=e=>e.replace(/[&<>"]/g,e=>({"&":`&amp;`,"<":`&lt;`,">":`&gt;`,'"':`&quot;`})[e]),L=(e,t={})=>{try{return ie(e,t)}catch{return e}},R=e=>e.toLocaleString(b===`th`?`th-TH`:`en-US`),z=(e,t)=>L(`stat.${e}`,Object.fromEntries(t.map((e,t)=>[t,e]))),B=(e,t)=>L(`tree.stat.${e}`,{v:+t.toFixed(2)}),V=e=>e[0]===e[1]?`${e[0]}`:`${e[0]}–${e[1]}`,H=(e,t)=>`<div class="scroll"><table><thead><tr>${e.map(e=>`<th>${e}</th>`).join(``)}</tr></thead><tbody>${t.map(e=>`<tr>${e.map(e=>`<td>${e}</td>`).join(``)}</tr>`).join(``)}</tbody></table></div>`,U=e=>L(`wtype.${e}`),W=location.pathname.includes(`/wiki/`)?`../play/`:`./`,G=(e,t=``,n=``)=>`<img src="${W}${e}" class="${t}" alt="${I(n)}" loading="lazy">`,K={},q={w:0,h:0};try{let e=await(await fetch(`${W}items/icons.json`)).json();K=Object.fromEntries(Object.entries(e.frames).map(([e,t])=>[e,t.frame])),q=e.meta.size}catch{}function J(e,t=32){let n=K[e];if(!n)return``;let r=t/32;return`<i class="ico" style="width:${n.w*r}px;height:${n.h*r}px;background-image:url(${W}items/icons.png);background-position:-${n.x*r}px -${n.y*r}px;background-size:${q.w*r}px ${q.h*r}px"></i>`}document.documentElement.lang=b,document.querySelector(`header .season`).textContent=`Season ${a.name} · ${w(a.theme)}`,document.querySelectorAll(`.langsw button`).forEach(e=>{e.classList.toggle(`on`,e.dataset.lang===b),e.onclick=()=>{let t=e.dataset.lang;try{localStorage.setItem(`wiki-lang`,t)}catch{}let n=new URL(location.href);n.searchParams.set(`lang`,t),location.replace(n.toString())}});var Y=[{id:`guide`,name:F(`📖 Guide`,`📖 คู่มือ`),render:fe},{id:`tree`,name:F(`Disciplines`,`สายวิชา`),render:he},{id:`skills`,name:F(`Skills`,`สกิล`),render:ge},{id:`refine`,name:F(`Refine`,`ตีบวก`),render:_e},{id:`items`,name:F(`Item bases`,`ไอเทมฐาน`),render:ve},{id:`affixes`,name:F(`Affixes`,`ออปชั่น`),render:ye},{id:`uniques`,name:`Unique`,render:be},{id:`orbs`,name:`Orb`,render:xe},{id:`monsters`,name:F(`Monsters`,`มอนสเตอร์`),render:Se},{id:`levels`,name:F(`Levels & drops`,`เลเวลและดรอป`),render:Ce}],X=document.querySelector(`nav`),Z=document.getElementById(`page`);X.innerHTML=Y.map(e=>`<a href="#${e.id}" data-p="${e.id}">${e.name}</a>`).join(``);function Q(){let e=location.hash.slice(1).split(`:`)[0]||`guide`,t=Y.find(t=>t.id===e)??Y[0];X.querySelectorAll(`a`).forEach(e=>e.classList.toggle(`on`,e.dataset.p===t.id)),Z.innerHTML=``,t.render(Z)}var $=``;window.addEventListener(`hashchange`,()=>{let e=location.hash.slice(1).split(`:`)[0]||`guide`;e!==$&&($=e,Q())});function fe(e){let t=new DOMParser().parseFromString(P,`text/html`),n=[...(t.querySelector(`article[data-lang="${b}"]`)??t.querySelector(`article`)).querySelectorAll(`section`)];e.innerHTML=`<h2>${F(`Game guide`,`คู่มือเกม`)}</h2>
+<p class="dim">${F(`How every system works. The other tabs hold the full numbers, generated from the game itself.`,`วิธีเล่นทุกระบบ · แท็บอื่นเป็นตัวเลขละเอียดที่ดึงจากตัวเกมโดยตรง`)}</p>
 <div class="toc">${n.map(e=>`<button data-s="${e.id}">${e.querySelector(`h2`)?.textContent??e.id}</button>`).join(``)}</div>
-<div class="guide">${n.map(e=>e.outerHTML).join(``)}</div>`;let r={start:[[`pixellab/swordman_base/rotations/south.png`,`px hero`,R(`Your character`,`ตัวละครของเรา`)]],hud:[[`wiki/hud.jpg`,`shot`,R(`Bottom bar: life orb · roll · 4 skills · 2 quick slots · mana orb`,`แถบล่าง: ลูกแก้วเลือด · กลิ้ง · สกิล 4 ช่อง · ของด่วน 2 ช่อง · ลูกแก้วมานา`)]],tree:[[`wiki/tree.jpg`,`shot`,R(`This season's tree — starts on the rim, paths flow inward, bridges cross between paths`,`ต้นไม้ซีซั่นนี้ — จุดเริ่มอยู่ริมขอบ เส้นทางไหลเข้าด้านใน มีสะพานข้ามสาย`)]],town:[[`wiki/town.jpg`,`shot`,R(`Hasunuma Shrine — the town`,`ศาลเจ้าฮาสึนุมะ — เมือง`)]],maps:[[`wiki/grove.jpg`,`shot`,R(`Mossy Shrine Ruins — the first map`,`ซากศาลเจ้าป่ามอส — แมปแรก`)],[`wiki/marsh.jpg`,`shot`,R(`Frog Marsh`,`หนองกบ`)]],bosses:[[`pixellab/tengu/rotations/south.png`,`px boss`,`Karasu Tengu`],[`pixellab/toad_king/rotations/south.png`,`px boss`,`Toad King`]]};for(let t of e.querySelectorAll(`.guide section`)){let e=r[t.id.replace(/^(th|en)-/,``)];e&&t.querySelector(`h2`).insertAdjacentHTML(`afterend`,`<div class="figs">${e.map(([e,t,n])=>`<figure>${J(e,t,n)}<figcaption>${z(n)}</figcaption></figure>`).join(``)}</div>`)}e.querySelectorAll(`.toc button`).forEach(e=>e.onclick=()=>document.getElementById(e.dataset.s)?.scrollIntoView({behavior:`smooth`,block:`start`}))}function le(e){let t=[];return e.stun&&t.push(R(`💫 stun ${e.stun} s`,`💫 มึน ${e.stun} วิ`)),e.slow&&t.push(R(`❄️ slow ${Math.round(e.slow.amount*100)}% for ${e.slow.sec} s`,`❄️ ช้าลง ${Math.round(e.slow.amount*100)}% นาน ${e.slow.sec} วิ`)),t.join(` · `)||`—`}var ue={start:`#ffd27a`,small:`#9a8a6a`,notable:`#e8a040`,keystone:`#e05040`,skill:`#5ac8ff`};function $(e){return e.kind===`skill`?`${M[e.skill]} ${y(T.find(t=>t.id===e.skill).name)}`:e.kind===`small`?B(`tree.kind.small`):`${B(`tree.kind.${e.kind}`)} · ${y(e.name)}`}function de(e){if(e.kind===`keystone`)return y(o(e.keystone).desc);if(e.kind===`skill`){let t=T.find(t=>t.id===e.skill);return y(t.desc)+(t.ready===!1?` · ${B(`tree.soon`)}`:``)}let t=e.stats.map(e=>re(e.stat,e.value));return e.cluster!==void 0&&t.push(B(`tree.cluster`,{n:y(K.nodes[e.cluster].name)})),t.join(` · `)}var fe=K.nodes.map(e=>`${$(e)} ${de(e)} ${e.name.en} ${e.name.th??``}`.toLowerCase());function pe(t){t.innerHTML=`<h2>${R(`Passive skill tree`,`ต้นไม้สกิล`)} — Season ${s.name} · ${y(s.theme)}</h2>
-<p class="dim">${R(`${V(ee)} nodes · start on the outer edge and work inward · level 100 gives ${p(100)} points + 4 starts (20% of the tree). Plan a build here: click a start, then click nodes — the shortest path is added. Share the link to share the build.`,`${V(ee)} จุด · เริ่มจากขอบแล้วเดินเข้าด้านใน · เลเวล 100 ได้ ${p(100)} แต้ม + จุดเริ่ม 4 (20% ของต้นไม้) · วางแผนบิลด์ได้ที่นี่: คลิกจุดเริ่ม แล้วคลิกจุดที่อยากได้ ระบบจะเพิ่มเส้นทางสั้นสุดให้ · คัดลอกลิงก์เพื่อแชร์บิลด์`)}</p>
-<div class="tools"><input type="search" placeholder="${R(`Search: crit, life, Lucky Cat, Fire Bolt…`,`ค้นหา: คริ, ชีวิต, แมวกวัก, ลูกไฟ…`)}"><button class="b ghost zf">⤢</button><button class="b ghost zi">＋</button><button class="b ghost zo">－</button><button class="b ghost rs">${R(`Clear plan`,`ล้างแผน`)}</button><button class="b cp">${R(`Copy build link`,`คัดลอกลิงก์บิลด์`)}</button></div>
-<div class="legend">${[`start`,`notable`,`keystone`,`skill`,`small`].map(e=>`<span><i style="background:${ue[e]}"></i>${B(`tree.kind.${e}`)}</span>`).join(``)}<span><i style="background:#7ad0ff"></i>${R(`search match`,`ตรงกับที่ค้นหา`)}</span></div>
-<div class="tree"><canvas></canvas><div class="side"><div class="box card"></div><div class="box sum"></div><div class="box hitbox" hidden></div></div></div>`;let n=t.querySelector(`canvas`),i=t.querySelector(`.card`),o=t.querySelector(`.sum`),c=t.querySelector(`.hitbox`),l=t.querySelector(`input`),u=devicePixelRatio||1,d=0,f=0,m=n.getContext(`2d`),h=new Set,g=[],te=()=>{let e=location.hash.match(/^#tree:([0-9a-z.]+)/);if(e){for(let t of e[1].split(`.`).map(e=>parseInt(e,36)).filter(e=>K.nodes[e]))h.add(t),K.starts.includes(t)&&g.push(t);v()}},_=()=>history.replaceState(null,``,`#tree${h.size?`:`+[...h].map(e=>e.toString(36)).join(`.`):``}`);function v(){let e=new Set(g.filter(e=>h.has(e))),t=[...e];for(let n=0;n<t.length;n++)for(let r of K.nodes[t[n]].links)h.has(r)&&!e.has(r)&&(e.add(r),t.push(r));for(let t of[...h])e.has(t)||h.delete(t);for(let e=g.length-1;e>=0;e--)h.has(g[e])||g.splice(e,1)}let b=t=>K.nodes[t].kind===`start`?null:e(K,h,g,t),x=()=>h.size-g.length,S=()=>{for(let e=1;e<=100;e++)if(p(e)>=x()&&r(e)>=g.length)return e;return null},C=.2,w=0,T=0,E=-1,D=-1,O=e=>w+e*C,k=e=>T+e*C,A=Math.max(...K.nodes.map(e=>Math.hypot(e.x,e.y)))+60,j=()=>{C=Math.min(d,f)/(2*A),w=d/2,T=f/2},N=new Set,P=Array.from({length:500},(e,t)=>({x:Math.sin(t*12.9898)*2400,y:Math.cos(t*78.233)*2400,a:.15+t*37%50/100}));function F(){m.setTransform(u,0,0,u,0,0),m.fillStyle=`#07060a`,m.fillRect(0,0,d,f);for(let e of P)m.fillStyle=`rgba(220,225,255,${e.a})`,m.fillRect(O(e.x),k(e.y),1,1);if(s.shape===`milkyway`){let e=900*C,t=m.createRadialGradient(O(0),k(0),0,O(0),k(0),e);t.addColorStop(0,`rgba(255,236,190,0.30)`),t.addColorStop(.25,`rgba(200,170,255,0.12)`),t.addColorStop(1,`rgba(80,60,140,0)`),m.fillStyle=t,m.beginPath(),m.arc(O(0),k(0),e,0,Math.PI*2),m.fill()}let e=D>=0?D:E,t=new Set(e>=0?b(e)??[]:[]);for(let e of K.nodes)for(let n of e.links)if(n>e.id){let r=K.nodes[n],i=h.has(e.id)&&h.has(n),a=!i&&(t.has(e.id)||h.has(e.id))&&(t.has(n)||h.has(n));m.strokeStyle=i?`#e8c060`:a?`#7ad0ff`:`#3a2e1e`,m.lineWidth=i||a?Math.max(1.5,3*C):Math.max(1,2*C),m.beginPath(),m.moveTo(O(e.x),k(e.y)),m.lineTo(O(r.x),k(r.y)),m.stroke()}for(let n of K.nodes){let r=O(n.x),i=k(n.y);if(r<-20||i<-20||r>d+20||i>f+20)continue;let a=(n.kind===`start`?13:n.kind===`keystone`?11:n.kind===`notable`||n.kind===`skill`?8:5)*C+1.5,o=h.has(n.id);m.fillStyle=o?ue[n.kind]:t.has(n.id)?`#1d3a4a`:n.kind===`small`?`#1a140c`:`#2a2014`,m.strokeStyle=o?`#fff3c0`:t.has(n.id)?`#7ad0ff`:ue[n.kind],m.lineWidth=n.id===e?3:1.2,m.beginPath(),m.arc(r,i,a,0,Math.PI*2),m.fill(),m.stroke(),N.has(n.id)&&(m.strokeStyle=`#7ad0ff`,m.lineWidth=2,m.beginPath(),m.arc(r,i,a+4,0,Math.PI*2),m.stroke()),n.id===D&&(m.strokeStyle=`#fff`,m.lineWidth=2,m.beginPath(),m.arc(r,i,a+7,0,Math.PI*2),m.stroke()),n.kind===`skill`&&C>.25&&(m.font=`${Math.round(12*C+6)}px system-ui`,m.textAlign=`center`,m.textBaseline=`middle`,m.fillText(M[n.skill],r,i+1))}m.font=`bold 13px system-ui`,m.textAlign=`center`,m.textBaseline=`middle`,m.fillStyle=`#ffd27a`;for(let e of K.starts){let t=K.nodes[e],n=1+60/Math.max(1,Math.hypot(t.x,t.y));m.fillText(y(t.name),O(t.x*n),k(t.y*n))}}function I(){let e=D>=0?D:E;if(e<0){i.innerHTML=`<span class="dim">${R(`Hover or tap a node to see it. Click a start node to begin a plan.`,`ชี้หรือแตะจุดเพื่อดูรายละเอียด · คลิกจุดเริ่มเพื่อเริ่มวางแผน`)}</span>`;return}let t=K.nodes[e],n=de(t),r=``;if(h.has(e))r=`<span class="ok">✓ ${R(`In plan`,`อยู่ในแผน`)}</span> <button class="b ghost rm">${R(`Remove`,`เอาออก`)}</button>`;else if(t.kind===`start`)r=`<button class="b go">${R(`Add start`,`เพิ่มจุดเริ่ม`)}</button>${g.length>=4?` <span class="dim">${R(`max 4 starts`,`สูงสุด 4 จุดเริ่ม`)}</span>`:``}`;else{let t=b(e);r=g.length?t?`<button class="b go">${R(`Add path (${t.length} points)`,`เพิ่มเส้นทาง (${t.length} แต้ม)`)}</button>`:`<span class="dim">${R(`Not reachable`,`ไปไม่ถึง`)}</span>`:`<span class="dim">${R(`Add a start node first`,`เพิ่มจุดเริ่มก่อน`)}</span>`}i.innerHTML=`<b class="t">${z($(t))}</b>${n?`<div>${z(n)}</div>`:``}<div style="margin-top:6px">${r}</div>`;let a=i.querySelector(`.go`),o=i.querySelector(`.rm`);a&&(a.onclick=()=>H(e)),o&&(o.onclick=()=>U(e))}function ne(){let e=S(),t=a(K,h),n=[...h].map(e=>K.nodes[e]).filter(e=>e.kind===`keystone`||e.kind===`skill`||e.kind===`notable`);o.innerHTML=`<b class="t">${R(`Build plan`,`แผนบิลด์`)}</b>
-<div>${R(`Points`,`แต้ม`)}: <b>${x()}</b> · ${R(`Starts`,`จุดเริ่ม`)}: <b>${g.length}</b> · ${R(`Needs level`,`ต้องเลเวล`)}: <b>${e??`—`}</b></div>
-<div class="dim" style="margin-top:4px">${Object.entries(t).map(([e,t])=>z(re(e,t))).join(` · `)||R(`Nothing planned yet`,`ยังไม่ได้วางแผน`)}</div>
-${n.length?`<div style="margin-top:4px">${n.map(e=>`<span class="pill">${z(e.kind===`skill`?$(e):y(e.name))}</span>`).join(``)}</div>`:``}`}let L=()=>{F(),I(),ne(),_()};function H(e){if(K.nodes[e].kind===`start`)g.length<4&&!h.has(e)&&(g.push(e),h.add(e));else for(let t of b(e)??[])h.add(t);L()}function U(e){h.delete(e),v(),L()}function W(){d=n.clientWidth,f=Math.max(320,Math.min(innerHeight-200,760)),n.style.height=`${f}px`,n.width=d*u,n.height=f*u}W(),j(),te(),L(),new ResizeObserver(()=>{let e=C;W(),e||j(),F()}).observe(n),l.oninput=()=>{let e=l.value.trim().toLowerCase();N=new Set(e.length>=2?K.nodes.filter(t=>fe[t.id].includes(e)).map(e=>e.id):[]);let t=[...N].map(e=>K.nodes[e]).filter(e=>e.kind!==`small`).slice(0,40);c.hidden=!e,c.innerHTML=`<b class="t">${N.size}</b> ${R(`matching nodes`,`จุดที่ตรง`)}${t.length?`<div class="hits">${t.map(e=>`<button data-id="${e.id}">${z(e.kind===`skill`?$(e):y(e.name)||$(e))}</button>`).join(``)}</div>`:``}`,c.querySelectorAll(`button[data-id]`).forEach(e=>e.onclick=()=>{let t=K.nodes[+e.dataset.id];C=Math.max(C,.5),w=d/2-t.x*C,T=f/2-t.y*C,D=t.id,L()}),F()};let G=(e,t,n)=>{let r=-1,i=(n?26:16)**2;for(let n of K.nodes){let a=(O(n.x)-e)**2+(k(n.y)-t)**2;a<i&&(i=a,r=n.id)}return r},q=(e,t,n)=>{let r=Math.min(2.5,Math.max(.05,C*n));w=e-(e-w)*r/C,T=t-(t-T)*r/C,C=r,F()},J=new Map,Y=null,X=null,Z=()=>{let[e,t]=[...J.values()];return{d:Math.hypot(e.x-t.x,e.y-t.y),cx:(e.x+t.x)/2,cy:(e.y+t.y)/2}};n.onpointerdown=e=>{n.setPointerCapture(e.pointerId),J.set(e.pointerId,{x:e.clientX,y:e.clientY}),J.size===2?(X=Z(),Y=null):Y={x:e.clientX,y:e.clientY,moved:!1}},n.onpointercancel=e=>{J.delete(e.pointerId),X=null,Y=null},n.onpointermove=e=>{let t=n.getBoundingClientRect();if(J.has(e.pointerId)&&J.set(e.pointerId,{x:e.clientX,y:e.clientY}),X&&J.size===2){let e=Z();w+=e.cx-X.cx,T+=e.cy-X.cy,q(e.cx-t.left,e.cy-t.top,e.d/Math.max(1,X.d)),X=e;return}if(Y&&(Y.moved||Math.abs(e.clientX-Y.x)+Math.abs(e.clientY-Y.y)>(e.pointerType===`touch`?8:3))){w+=e.clientX-Y.x,T+=e.clientY-Y.y,Y.x=e.clientX,Y.y=e.clientY,Y.moved=!0,F();return}if(e.pointerType===`touch`)return;let r=G(e.clientX-t.left,e.clientY-t.top,!1);r!==E&&(E=r,D<0&&I(),F())},n.onpointerup=e=>{if(J.delete(e.pointerId),X){J.size<2&&(X=null),Y=null;return}let t=Y;if(Y=null,!t||t.moved)return;let r=n.getBoundingClientRect(),i=G(e.clientX-r.left,e.clientY-r.top,e.pointerType===`touch`);if(i>=0&&i===D){h.has(i)?U(i):H(i);return}D=i,I(),F()},n.onwheel=e=>{e.preventDefault();let t=n.getBoundingClientRect();q(e.clientX-t.left,e.clientY-t.top,Math.exp(-e.deltaY*.0015))},t.querySelector(`.zf`).onclick=()=>{j(),F()},t.querySelector(`.zi`).onclick=()=>q(d/2,f/2,1.35),t.querySelector(`.zo`).onclick=()=>q(d/2,f/2,1/1.35),t.querySelector(`.rs`).onclick=()=>{h.clear(),g.length=0,D=-1,L()},t.querySelector(`.cp`).onclick=async e=>{let t=e.currentTarget;try{await navigator.clipboard.writeText(location.href),t.textContent=R(`Copied ✓`,`คัดลอกแล้ว ✓`)}catch{prompt(``,location.href)}setTimeout(()=>t.textContent=R(`Copy build link`,`คัดลอกลิงก์บิลด์`),1500)}}function me(e){let t=new Set(K.nodes.filter(e=>e.kind===`skill`).map(e=>e.skill)),n=T.map(e=>{let n=e.weapons===`any`?R(`Any`,`ทุกอาวุธ`):e.weapons.filter(e=>e!==`fist`).map(G).join(`, `),r=[Object.entries(P).filter(([,t])=>t.includes(e.id)).map(([e])=>G(e)).length?R(`weapon`,`อาวุธ`):``,t.has(e.id)?R(`tree`,`ต้นไม้`):``].filter(Boolean).join(` · `)||`<span class="dim">${R(`not obtainable this season`,`หาไม่ได้ในซีซั่นนี้`)}</span>`,i=e.dmg?`×${b(e,1).toFixed(2)} → ×${b(e,20).toFixed(2)}`:`—`,a=e.variants?`<span class="dim">${R(`by weapon ↓`,`ตามอาวุธ ↓`)}</span>`:z([B(`shape.${e.shape}`),...te(e)].join(` · `));return[`${M[e.id]} <b>${z(y(e.name))}</b><div class="dim">${z(y(e.desc))}</div>`,z(n),r,i,a,`${e.cast}s`,`${e.cooldown}s`,`${e.mana}`,e.range?`${e.range}`:`—`]}),r=T.filter(e=>e.variants).map(e=>[`${M[e.id]} <b>${z(y(e.name))}</b>`,...O.map(t=>z(w(k(e,j[t]),1)))]);e.innerHTML=`<h2>${R(`Active skills`,`สกิล`)}</h2>
-<p class="dim">${R(`Skills come from your weapon (one per weapon, level = ceil(item level ÷ 5), max 20), a Skill Gem made by the blacksmith, or Skill nodes on the tree. You stand still while casting; the cooldown starts after the cast.`,`สกิลมาจากอาวุธ (ชิ้นละ 1 สกิล เลเวล = item level ÷ 5 ปัดขึ้น สูงสุด 20) · Skill Gem จากช่างตีเหล็ก · หรือจุด Skill บนต้นไม้ · ระหว่างร่ายยืนนิ่ง คูลดาวน์เริ่มหลังร่ายจบ`)}</p>
-${W([R(`Skill`,`สกิล`),R(`Weapons`,`อาวุธ`),R(`Source`,`ได้จาก`),R(`Damage Lv1 → Lv20`,`ดาเมจ Lv1 → Lv20`),R(`Shape · effects`,`รูปแบบ · ผล`),R(`Cast`,`ร่าย`),R(`Cooldown`,`คูลดาวน์`),R(`Mana`,`มานา`),R(`Range (tiles)`,`ระยะ (ช่อง)`)],n)}
-<h3>${R(`Adaptive strikes: shape and damage by weapon group`,`สกิลแปรตามอาวุธ: รูปแบบและดาเมจต่อกลุ่มอาวุธ`)}</h3>
-<p class="dim">${R(`Tree skills that change with the weapon in hand (multiplier at skill level 1).`,`สกิลจากต้นไม้ที่เปลี่ยนรูปแบบตามอาวุธที่ถือ (ตัวคูณที่เลเวลสกิล 1)`)}</p>
-${W([R(`Skill`,`สกิล`),...O.map(e=>B(`wgroup.${e}`))],r)}
-<h3>${R(`Which skills a weapon can roll`,`สกิลที่อาวุธแต่ละแบบสุ่มได้`)}</h3>
-${W([R(`Weapon`,`อาวุธ`),R(`Skills`,`สกิล`)],Object.entries(P).map(([e,t])=>[G(e),t.map(e=>{let t=T.find(t=>t.id===e);return`${M[t.id]} ${z(y(t.name))}`}).join(` · `)]))}
-<h3>${R(`Weapon skill level by item level`,`เลเวลสกิลอาวุธตาม item level`)}</h3>
-${W([`iLvl`,R(`Skill level`,`เลเวลสกิล`)],[1,5,6,10,15,20,25,50,75,100].map(e=>[`${e}`,`${h(e)}`]))}
-<h3>${R(`Skill Gem extraction cost (blacksmith)`,`ค่าย่อยเป็น Skill Gem (ช่างตีเหล็ก)`)}</h3>
-<p class="dim">${R(`The weapon is destroyed; gem level = skill level ±2 at random (1–20). You can hold one gem.`,`อาวุธหายไป เลเวลเจม = เลเวลสกิล ±2 แบบสุ่ม (1–20) · ติดตัวได้ 1 เจม`)}</p>
-${W([R(`Skill level`,`เลเวลสกิล`),R(`Cost`,`ค่าใช้จ่าย`)],Array.from({length:20},(e,t)=>t+1).map(e=>[`${e}`,v(e).map(e=>`<span class="nm">${Z(e.id,20)}${z(y(N.find(t=>t.id===e.id).name))} ×${e.count}</span>`).join(` + `)]))}`}function he(e){let t=[...new Set(I.map(e=>e.slot))];e.innerHTML=`<h2>${R(`Item bases`,`ไอเทมฐาน`)}</h2>
-<p class="dim">${R(`A base drops only when item level ≥ its level. Item level = monster level (bosses +2).`,`ฐานจะดรอปได้เมื่อ item level ≥ เลเวลของฐาน · item level = เลเวลมอน (บอส +2)`)}</p>
-<input type="search" placeholder="${R(`Filter…`,`กรอง…`)}"><div class="list"></div>`;let n=e.querySelector(`.list`),r=e.querySelector(`input`),i=()=>{let e=r.value.trim().toLowerCase();n.innerHTML=t.map(t=>{let n=I.filter(n=>n.slot===t&&(!e||`${n.name.en} ${n.name.th}`.toLowerCase().includes(e))).sort((e,t)=>e.level-t.level).map(e=>[`<span class="nm">${Z(e.icon)}<b>${z(y(e.name))}</b></span>`,`${e.level}`,e.weapon?`${G(e.weapon.type)} · ${e.weapon.hands}H · ${e.weapon.min}–${e.weapon.max} · ${e.weapon.aps}/s · ${R(`crit`,`คริ`)} ${e.weapon.crit}%`:[e.armour?`${R(`Armour`,`เกราะ`)} ${e.armour}`:``,e.evasion?`${R(`Evasion`,`หลบ`)} ${e.evasion}`:``].filter(Boolean).join(` · `)||`—`,(e.implicits??[]).map(e=>z(H(e.stat,[U(e.range)]))).join(`<br>`)||`—`,`${e.price} z`]);return n.length?`<h3>${B(`eslot.${t}`)}</h3>${W([R(`Name`,`ชื่อ`),R(`Level`,`เลเวล`),R(`Base stats`,`ค่าพื้นฐาน`),`Implicit`,R(`Shop price`,`ราคาร้าน`)],n)}`:``}).join(``)};r.oninput=i,i()}function ge(e){let t=e=>W([R(`Affix`,`ออปชั่น`),R(`Item types`,`ใส่ได้กับ`),R(`Weight`,`น้ำหนัก`),`T1 (iLvl 1)`,`T2 (iLvl 10)`,`T3 (iLvl 20)`,`T4 (iLvl 35)`],ne.filter(t=>t.kind===e).map(e=>[z(H(e.stat,e.tiers[0].ranges.map(()=>`#`))),e.classes.map(e=>`<span class="pill">${z(e)}</span>`).join(``),`${e.weight}`,...e.tiers.map(e=>`<span class="n">${z(e.ranges.map(U).join(` / `))}</span><div class="dim">${z(y(e.name))}</div>`)]));e.innerHTML=`<h2>${R(`Affixes`,`ออปชั่น (Affix)`)}</h2>
-<p class="dim">${R(`Magic items: 1 prefix + 1 suffix max. Rare: up to 3 + 3. Higher tiers unlock at item level 10 / 20 / 35 and are rarer (weights 100 / 60 / 30 / 12).`,`Magic: prefix 1 + suffix 1 · Rare: สูงสุด 3 + 3 · ขั้นสูงปลดที่ item level 10 / 20 / 35 และหายากกว่า (น้ำหนัก 100 / 60 / 30 / 12)`)}</p>
-<h3>Prefix</h3>${t(`prefix`)}<h3>Suffix</h3>${t(`suffix`)}`}function _e(e){e.innerHTML=`<h2>Unique</h2>
-<p class="dim">${R(`Fixed affixes (values roll within the ranges). Orbs can't change them.`,`ออปชั่นตายตัว (ตัวเลขสุ่มในช่วง) · ใช้ Orb เปลี่ยนไม่ได้`)}</p>
-${W([R(`Name`,`ชื่อ`),R(`Base`,`ฐาน`),R(`Affixes`,`ออปชั่น`),R(`Lore`,`ตำนาน`)],F.map(e=>{let t=l(e.base),n=(()=>{let t=B(`unique.${e.id}`);return t===`unique.${e.id}`?y(e.lore):t})();return[`<span class="nm">${Z(t.icon)}<span class="uniq">${z(y(e.name))}</span></span>`,`${z(y(t.name))}<div class="dim">${B(`eslot.${t.slot}`)} · Lv ${t.level}</div>`,e.mods.map(e=>z(H(g(e.id).stat,e.ranges.map(U)))).join(`<br>`),`<i class="dim">${z(n)}</i>`]}))}`}function ve(e){let t=[1,10,23,40,70],n=(e,t)=>{let n=N.reduce((e,n)=>e+A(n,t),0),r=A(e,t);return r?`${(r/n*100).toFixed(r/n<.01?2:1)}%`:`—`};e.innerHTML=`<h2>Orb</h2>
-<p class="dim">${R(`Click an orb in your bag, then click an item. Orb chance per monster: ${S.orb*100}%. Like PoE, each orb starts dropping at its drop level (monster level) and ramps up over 6 levels — early areas give basic orbs, later acts the rare ones. Act 1 = Lv 1–23.`,`คลิก Orb ในกระเป๋า แล้วคลิกไอเทม · โอกาสได้ Orb ต่อมอน 1 ตัว: ${S.orb*100}% · แบบ PoE: Orb แต่ละชนิดเริ่มดรอปที่เลเวลมอนขั้นต่ำ แล้วค่อย ๆ เจอบ่อยขึ้นใน 6 เลเวล — ช่วงต้นได้ Orb ขั้นต้น Act หลัง ๆ ค่อยได้ Orb หายาก · Act 1 = Lv 1–23`)}</p>
-${W([R(`Orb`,`Orb`),R(`Effect`,`ผล`),R(`Drops from`,`เริ่มดรอป`),...t.map(e=>`Lv ${e}`)],N.map(e=>[`<span class="nm">${Z(e.id)}<b>${z(y(e.name))}</b></span>`,z(y(e.desc)),`Lv ${e.dropLevel}`,...t.map(t=>n(e,t))]))}
-<p class="dim">${R(`Columns = share of each orb when an orb drops, at that monster level.`,`แต่ละคอลัมน์ = สัดส่วนของ Orb แต่ละชนิดเมื่อมี Orb ดรอป ที่เลเวลมอนนั้น`)}</p>`}function ye(e){let r=e=>({melee:R(`Melee`,`ตีใกล้`),ranged:R(`Ranged`,`ตีไกล`),boss:R(`Boss`,`บอส`),summon:R(`Summon`,`ลูกน้องบอส`)})[e.kind],i=Object.values(D);e.innerHTML=`<h2>${R(`Monsters`,`มอนสเตอร์`)}</h2>
-<p class="dim">${R(`Life and damage grow with monster level. XP: full within ±safe zone (3 + your level ÷ 16) of your level.`,`เลือดและดาเมจเพิ่มตามเลเวลมอน · XP ได้เต็มเมื่อเลเวลห่างไม่เกินช่วงปลอดภัย (3 + เลเวลเรา ÷ 16)`)}</p>
-<div class="mons">${i.map(e=>`<div class="mon">${e.img?J(e.img,`px`,B(e.name)):``}<b>${z(B(e.name))}</b><span class="dim">Lv ${e.level} · ${r(e)}</span></div>`).join(``)}</div>
-${W([R(`Monster`,`มอนสเตอร์`),R(`Map`,`แผนที่`),R(`Level`,`เลเวล`),R(`Type`,`ชนิด`),R(`Life`,`เลือด`),R(`Damage`,`ดาเมจ`),R(`Base XP`,`XP ฐาน`),R(`Notes`,`หมายเหตุ`)],i.map(e=>[`<span class="nm">${e.img?J(e.img,`px sm`,``):``}<b>${z(B(e.name))}</b></span>`,z(B(e.map)),`${e.level}`,r(e),V(u(e.hp,e.level,x(e))),U(d(e.dmg,e.level,x(e))),V(t(e.level,e.kind===`boss`)),z(y(e.note))]))}
-${i.filter(e=>e.attacks).map(e=>`<h3 class="nm">${e.img?J(e.img,`px sm`,``):``}${z(B(e.name))} — ${R(`attacks`,`ท่าโจมตี`)}</h3>${W([R(`Attack`,`ท่า`),R(`Damage`,`ดาเมจ`),R(`Effect`,`ผล`)],Object.values(e.attacks).map(t=>[z(y(t.name)),U(d(t.dmg,e.level,x(e))),le(t)]))}`).join(``)}
-<h3>${R(`Scaling by monster level`,`ตัวคูณตามเลเวลมอน`)}</h3>
-${W([R(`Level`,`เลเวล`),R(`Life ×`,`เลือด ×`),R(`Damage ×`,`ดาเมจ ×`)],[1,5,10,20,30,50,70,100].map(e=>[`${e}`,f(e).toFixed(2),n(e).toFixed(2)]))}
-<p class="dim">${R(`On top of this, ordinary monsters have ×1.4 life and ×1 damage; bosses and their summons ×2 life and ×1.25 damage (global difficulty).`,`นอกจากนี้มอนธรรมดามีเลือด ×1.4 ดาเมจ ×1 ส่วนบอสและลูกน้องบอสเลือด ×2 ดาเมจ ×1.25 (ความยากรวม)`)}</p>`}function be(e){let n=0,r=0,a=[];for(let e=1;e<100;e++){let o=c(e);n+=o,r+=o/(t(e)*i),a.push([`${e} → ${e+1}`,V(o),V(n),r<1?`${Math.round(r*60)} ${R(`min`,`นาที`)}`:`${r.toFixed(1)} ${R(`h`,`ชม.`)}`,`±${m(e)}`,`${p(e+1)}`])}e.innerHTML=`<h2>${R(`Levels, XP and drops`,`เลเวล XP และของดรอป`)}</h2>
-<p class="dim">${R(`Time estimates assume ~${i} kills per hour of monsters at your level.`,`เวลาโดยประมาณ คิดจากฆ่ามอนเลเวลใกล้ตัวเองราว ${i} ตัว/ชม.`)}</p>
-<h3>${R(`Drops per monster`,`ของดรอปต่อมอน 1 ตัว`)}</h3>
-${W([R(`Drop`,`ของ`),R(`Chance`,`โอกาส`)],[[`<span class="nm">${Z(`zeny`,24)}${R(`Zeny`,`เงิน`)}</span>`,`${S.zeny*100}%`],[`<span class="nm">${Z(`iron_short_sword`,24)}${R(`Item`,`ไอเทม`)}</span>`,`${S.item*100}% (Unique 0.4% · Rare 7.6% · Magic 32% · Normal 60%)`],[`<span class="nm">${Z(`chaos`,24)}Orb</span>`,`${S.orb*100}%`],[R(`Boss`,`บอส`),R(`1 guaranteed Magic-or-better item (iLvl +2) + extra rolls`,`การันตีไอเทม Magic ขึ้นไป 1 ชิ้น (iLvl +2) + สุ่มเพิ่ม`)]])}
-<h3>${R(`XP table`,`ตาราง XP`)}</h3>
-${W([R(`Level`,`เลเวล`),R(`XP needed`,`XP ที่ต้องใช้`),R(`Total XP`,`XP สะสม`),R(`Total play time`,`เวลาเล่นสะสม`),R(`Full-XP range`,`ช่วงได้ XP เต็ม`),R(`Skill points`,`แต้มสกิลรวม`)],a)}`}se=location.hash.slice(1).split(`:`)[0]||`guide`,oe();
+<div class="guide">${n.map(e=>e.outerHTML).join(``)}</div>`;let r={start:[[`pixellab/swordman_base/rotations/south.png`,`px hero`,F(`Your character`,`ตัวละครของเรา`)]],hud:[[`wiki/hud.jpg`,`shot`,F(`Bottom bar: life orb · roll · 4 skills · 2 quick slots · mana orb`,`แถบล่าง: ลูกแก้วเลือด · กลิ้ง · สกิล 4 ช่อง · ของด่วน 2 ช่อง · ลูกแก้วมานา`)]],town:[[`wiki/town.jpg`,`shot`,F(`Hasunuma Shrine — the town`,`ศาลเจ้าฮาสึนุมะ — เมือง`)]],maps:[[`wiki/grove.jpg`,`shot`,F(`Mossy Shrine Ruins — the first map`,`ซากศาลเจ้าป่ามอส — แมปแรก`)],[`wiki/marsh.jpg`,`shot`,F(`Frog Marsh`,`หนองกบ`)]],bosses:[[`pixellab/tengu/rotations/south.png`,`px boss`,`Karasu Tengu`],[`pixellab/toad_king/rotations/south.png`,`px boss`,`Toad King`]]};for(let t of e.querySelectorAll(`.guide section`)){let e=r[t.id.replace(/^(th|en)-/,``)];e&&t.querySelector(`h2`).insertAdjacentHTML(`afterend`,`<div class="figs">${e.map(([e,t,n])=>`<figure>${G(e,t,n)}<figcaption>${I(n)}</figcaption></figure>`).join(``)}</div>`)}e.querySelectorAll(`.toc button`).forEach(e=>e.onclick=()=>document.getElementById(e.dataset.s)?.scrollIntoView({behavior:`smooth`,block:`start`}))}function pe(e){let t=[];return e.stun&&t.push(F(`💫 stun ${e.stun} s`,`💫 มึน ${e.stun} วิ`)),e.slow&&t.push(F(`❄️ slow ${Math.round(e.slow.amount*100)}% for ${e.slow.sec} s`,`❄️ ช้าลง ${Math.round(e.slow.amount*100)}% นาน ${e.slow.sec} วิ`)),t.join(` · `)||`—`}var me=g(a.seed);function he(e){let n=(e,t)=>I(B(e,t));e.innerHTML=`<h2>${F(`Disciplines`,`สายวิชา`)} — Season ${a.name} · ${w(a.theme)}</h2>
+<p class="dim">${F(`1 point per level (${d(100)} at level 100) · up to 25 in one discipline · talent cards at ${c.join(`/`)} points (pick 1 of 3) · keystone at 25 (pick 1 of 2, at most 3 in total) · skills unlock at ${s.join(`/`)} points. Talents and keystones on offer change every season; per-point values and skills do not.`,`ได้เลเวลละ 1 แต้ม (เลเวล 100 = ${d(100)}) · สายละไม่เกิน 25 · การ์ดที่ ${c.join(`/`)} แต้ม (เลือก 1 ใน 3) · Keystone ที่ 25 (เลือก 1 ใน 2 รวมได้ไม่เกิน 3) · ปลดสกิลที่ ${s.join(`/`)} แต้ม · การ์ดและ Keystone ที่ให้เลือกเปลี่ยนทุก Season ส่วนค่าต่อแต้มและสกิลไม่เปลี่ยน`)}</p>
+${E.map(e=>{let r=t[e],i=me[e],a=new Set(i.talents.flat());return`<h3>${w(r.name)}</h3>
+<p>${F(`Per point`,`ต่อแต้ม`)}: ${r.perPoint.map(([e,t])=>n(e,t)).join(` · `)}</p>
+<p>${F(`Skills`,`สกิล`)}: ${r.skills.map((e,t)=>`${s[t]}: ${e?I(w(M.find(t=>t.id===e).name)):F(`coming soon`,`เร็ว ๆ นี้`)}`).join(` · `)}</p>
+<p>${F(`This season`,`Season นี้`)}: ${i.talents.map((t,n)=>`<b>${c[n]}</b> ${t.map(t=>I(w(h(e).find(e=>e.id===t).name))).join(` / `)}`).join(` · `)} · <b>25</b> ${i.keystones.map(e=>I(w(_(e).name))).join(` / `)}</p>
+<table>${h(e).map(e=>`<tr${a.has(e.id)?``:` class="dim"`}><td>${I(w(e.name))}</td><td>${e.mods.map(([e,t])=>n(e,t)).join(` · `)}</td></tr>`).join(``)}</table>`}).join(``)}`}function ge(e){let n=new Set(E.flatMap(e=>t[e].skills)),i=M.map(e=>{let t=e.weapons===`any`?F(`Any`,`ทุกอาวุธ`):e.weapons.filter(e=>e!==`fist`).map(U).join(`, `),r=[Object.entries(m).filter(([,t])=>t.includes(e.id)).map(([e])=>U(e)).length?F(`weapon`,`อาวุธ`):``,n.has(e.id)?F(`discipline`,`สายวิชา`):``].filter(Boolean).join(` · `)||`<span class="dim">${F(`not obtainable this season`,`หาไม่ได้ในซีซั่นนี้`)}</span>`,i=e.dmg?`×${u(e,1).toFixed(2)} → ×${u(e,20).toFixed(2)}`:`—`,a=e.variants?`<span class="dim">${F(`by weapon ↓`,`ตามอาวุธ ↓`)}</span>`:I([L(`shape.${e.shape}`),...v(e)].join(` · `));return[`${A[e.id]} <b>${I(w(e.name))}</b><div class="dim">${I(w(e.desc))}</div>`,I(t),r,i,a,`${e.cast}s`,`${e.cooldown}s`,`${e.mana}`,e.range?`${e.range}`:`—`]}),a=M.filter(e=>e.variants).map(e=>[`${A[e.id]} <b>${I(w(e.name))}</b>`,...k.map(t=>I(re(r(e,ce[t]),1)))]);e.innerHTML=`<h2>${F(`Active skills`,`สกิล`)}</h2>
+<p class="dim">${F(`Skills come from your weapon (1–2 per weapon, level = its refine level), or unlocking it in a Disciplines line. You stand still while casting; the cooldown starts after the cast.`,`สกิลมาจากอาวุธ (ชิ้นละ 1–2 สกิล เลเวล = ขั้นตีบวก) · หรือปลดสกิลในสายวิชา · ระหว่างร่ายยืนนิ่ง คูลดาวน์เริ่มหลังร่ายจบ`)}</p>
+${H([F(`Skill`,`สกิล`),F(`Weapons`,`อาวุธ`),F(`Source`,`ได้จาก`),F(`Damage Lv1 → Lv20`,`ดาเมจ Lv1 → Lv20`),F(`Shape · effects`,`รูปแบบ · ผล`),F(`Cast`,`ร่าย`),F(`Cooldown`,`คูลดาวน์`),F(`Mana`,`มานา`),F(`Range (tiles)`,`ระยะ (ช่อง)`)],i)}
+<h3>${F(`Adaptive strikes: shape and damage by weapon group`,`สกิลแปรตามอาวุธ: รูปแบบและดาเมจต่อกลุ่มอาวุธ`)}</h3>
+<p class="dim">${F(`Skills that change with the weapon in hand (multiplier at skill level 1).`,`สกิลที่เปลี่ยนรูปแบบตามอาวุธที่ถือ (ตัวคูณที่เลเวลสกิล 1)`)}</p>
+${H([F(`Skill`,`สกิล`),...k.map(e=>L(`wgroup.${e}`))],a)}
+<h3>${F(`Which skills a weapon can roll`,`สกิลที่อาวุธแต่ละแบบสุ่มได้`)}</h3>
+${H([F(`Weapon`,`อาวุธ`),F(`Skills`,`สกิล`)],Object.entries(m).map(([e,t])=>[U(e),t.map(e=>{let t=M.find(t=>t.id===e);return`${A[t.id]} ${I(w(t.name))}`}).join(` · `)]))}
+<h3>${F(`Weapon skills and refine`,`สกิลอาวุธและตีบวก`)}</h3>
+<p class="dim">${F(`Weapons carry 1–2 different skills: Normal 1 · Magic 15% chance of 2 · Rare 35% chance of 2 · Unique always 2. A weapon skill's level equals the weapon's refine level (+0 counts as 1), capped at ceil(character level ÷ 5). Refine at the smith — see the Refine page.`,`อาวุธมี 1–2 สกิลที่ไม่ซ้ำกัน: Normal 1 · Magic มีโอกาส 15% ได้ 2 · Rare 35% ได้ 2 · Unique ได้ 2 เสมอ · เลเวลสกิลอาวุธ = ขั้นตีบวกของอาวุธ (+0 นับเป็น 1) และไม่เกิน เลเวลตัวละคร ÷ 5 ปัดขึ้น · ตีบวกที่ช่าง ดูหน้าตีบวก`)}</p>`}function _e(e){let t=e=>I(L(`cons.${e}`)),r=[];for(let e=1;e<=20;e++){let n=de(e-1,.999,!1),i=n.destroyed?F(`Weapon breaks`,`อาวุธแตก`):n.refine===0&&e-1>0?F(`Back to +0`,`กลับเป็น +0`):n.refine<e-1?F(`Drops to +${n.refine}`,`ลดเป็น +${n.refine}`):F(`No penalty`,`ไม่มีผลเสีย`);r.push([`+${e}`,`${Math.round(y(e)*1e3)/10}%`,t(te(e)),R(D(e)),i])}let i=n.flatMap(e=>e.kind===`ward`?[e]:[]),a=e=>{let t=Array.from({length:20},(e,t)=>t+1).filter(t=>se(t)===e);return`+${t[0]} … +${t[t.length-1]}`},o=e=>e===`ward_hold`?F(`Failure keeps the current level`,`พลาดแล้วอาวุธไม่ลดขั้น`):F(`Failure does not destroy the weapon; the level is kept`,`พลาดแล้วอาวุธไม่แตก ขั้นคงเดิม`),s=[[0,1],[10,1],[10,12],[15,30],[20,30]].map(([e,n])=>[`+${e}`,`${n}`,x({ilvl:n,refine:e}).map(e=>`${e.count} × ${t(e.id)}`).join(` · `)]);e.innerHTML=`<h2>${F(`Refine`,`ตีบวก`)}</h2>
+<p class="dim">${F(`Talk to the blacksmith in town to refine a weapon from +0 up to +20. Each +1 adds 3% weapon base damage and +1 weapon skill level. One stone and a zeny fee per attempt; the roll happens on the server.`,`คุยกับช่างตีเหล็กในเมืองเพื่อตีบวกอาวุธตั้งแต่ +0 ถึง +20 · ทุก +1 เพิ่มดาเมจพื้นฐานอาวุธ 3% และเลเวลสกิลอาวุธ +1 · ตีครั้งละ 1 หิน + ค่าตีเป็น Zeny · สุ่มผลที่ server`)}</p>
+${H([F(`Target`,`ขั้น`),F(`Chance`,`โอกาส`),F(`Stone`,`หิน`),F(`Fee (zeny)`,`ค่าตี (Zeny)`),F(`On failure`,`ผลถ้าพลาด`)],r)}
+<h3>${F(`Wards`,`ยันต์`)}</h3>
+<p class="dim">${F(`A ward is only valid in its own range and is used up on every attempt, even a successful one. Taken from the bag first, then from your 💎 account stock.`,`ยันต์ใช้ได้เฉพาะช่วงของมัน และหมดไปทุกครั้งที่ใช้ แม้ตีสำเร็จ · ดึงจากกระเป๋าก่อน แล้วค่อยใช้ของในบัญชี 💎`)}</p>
+${H([F(`Ward`,`ยันต์`),F(`Valid for`,`ใช้ได้กับ`),F(`Effect`,`ผล`),F(`Price`,`ราคา`)],i.map(e=>[t(e.ward),a(e.ward),o(e.ward),`💎 ${e.price}`]))}
+<h3>${F(`Salvage`,`การย่อย`)}</h3>
+<p class="dim">${F(`Salvaging a weapon at the smith is free and gives: small stones = 1 + floor(item level ÷ 10), plus medium stones = refine − 10 (if above +10), plus large stones = refine − 15 (if above +15).`,`ย่อยอาวุธที่ช่างฟรี ได้: หินเล็ก = 1 + (item level ÷ 10 ปัดลง) บวกหินกลาง = ขั้นตีบวก − 10 (ถ้าเกิน +10) และหินใหญ่ = ขั้นตีบวก − 15 (ถ้าเกิน +15)`)}</p>
+${H([F(`Refine`,`ขั้น`),`iLvl`,F(`You get`,`ได้`)],s)}
+<h3>${F(`Where stones and wards drop`,`หินและยันต์ดรอปจากไหน`)}</h3>
+<ul>
+<li>${F(`Normal monsters: ${t(`refine_s`)} 3%; ${t(`refine_m`)} 0.6% at item level 15+.`,`มอนสเตอร์ทั่วไป: ${t(`refine_s`)} 3% · ${t(`refine_m`)} 0.6% เมื่อ item level 15 ขึ้นไป`)}</li>
+<li>${F(`Bosses and elites: always 2 ${t(`refine_s`)}; ${t(`refine_m`)} 50% at item level 15+; ${t(`refine_l`)} 8% at item level 20+.`,`บอสและเอลีท: ${t(`refine_s`)} 2 ก้อนเสมอ · ${t(`refine_m`)} 50% เมื่อ item level 15 ขึ้นไป · ${t(`refine_l`)} 8% เมื่อ item level 20 ขึ้นไป`)}</li>
+<li>${F(`Chests: ${t(`refine_s`)} 50%.`,`หีบ: ${t(`refine_s`)} 50%`)}</li>
+<li>${F(`Boss wards: ${t(`ward_hold`)} 3%, ${t(`ward_keep`)} 1%.`,`ยันต์จากบอส: ${t(`ward_hold`)} 3% · ${t(`ward_keep`)} 1%`)}</li>
+</ul>`}function ve(e){let t=[...new Set(f.map(e=>e.slot))];e.innerHTML=`<h2>${F(`Item bases`,`ไอเทมฐาน`)}</h2>
+<p class="dim">${F(`A base drops only when item level ≥ its level. Item level = monster level (bosses +2).`,`ฐานจะดรอปได้เมื่อ item level ≥ เลเวลของฐาน · item level = เลเวลมอน (บอส +2)`)}</p>
+<input type="search" placeholder="${F(`Filter…`,`กรอง…`)}"><div class="list"></div>`;let n=e.querySelector(`.list`),r=e.querySelector(`input`),i=()=>{let e=r.value.trim().toLowerCase();n.innerHTML=t.map(t=>{let n=f.filter(n=>n.slot===t&&(!e||`${n.name.en} ${n.name.th}`.toLowerCase().includes(e))).sort((e,t)=>e.level-t.level).map(e=>[`<span class="nm">${J(e.icon)}<b>${I(w(e.name))}</b></span>`,`${e.level}`,e.weapon?`${U(e.weapon.type)} · ${e.weapon.hands}H · ${e.weapon.min}–${e.weapon.max} · ${e.weapon.aps}/s · ${F(`crit`,`คริ`)} ${e.weapon.crit}%`:[e.armour?`${F(`Armour`,`เกราะ`)} ${e.armour}`:``,e.evasion?`${F(`Evasion`,`หลบ`)} ${e.evasion}`:``].filter(Boolean).join(` · `)||`—`,(e.implicits??[]).map(e=>I(z(e.stat,[V(e.range)]))).join(`<br>`)||`—`,`${e.price} z`]);return n.length?`<h3>${L(`eslot.${t}`)}</h3>${H([F(`Name`,`ชื่อ`),F(`Level`,`เลเวล`),F(`Base stats`,`ค่าพื้นฐาน`),`Implicit`,F(`Shop price`,`ราคาร้าน`)],n)}`:``}).join(``)};r.oninput=i,i()}function ye(e){let t=e=>H([F(`Affix`,`ออปชั่น`),F(`Item types`,`ใส่ได้กับ`),F(`Weight`,`น้ำหนัก`),`T1 (iLvl 1)`,`T2 (iLvl 10)`,`T3 (iLvl 20)`,`T4 (iLvl 35)`],ee.filter(t=>t.kind===e).map(e=>[I(z(e.stat,e.tiers[0].ranges.map(()=>`#`))),e.classes.map(e=>`<span class="pill">${I(e)}</span>`).join(``),`${e.weight}`,...e.tiers.map(e=>`<span class="n">${I(e.ranges.map(V).join(` / `))}</span><div class="dim">${I(w(e.name))}</div>`)]));e.innerHTML=`<h2>${F(`Affixes`,`ออปชั่น (Affix)`)}</h2>
+<p class="dim">${F(`Magic items: 1 prefix + 1 suffix max. Rare: up to 3 + 3. Higher tiers unlock at item level 10 / 20 / 35 and are rarer (weights 100 / 60 / 30 / 12).`,`Magic: prefix 1 + suffix 1 · Rare: สูงสุด 3 + 3 · ขั้นสูงปลดที่ item level 10 / 20 / 35 และหายากกว่า (น้ำหนัก 100 / 60 / 30 / 12)`)}</p>
+<h3>Prefix</h3>${t(`prefix`)}<h3>Suffix</h3>${t(`suffix`)}`}function be(e){e.innerHTML=`<h2>Unique</h2>
+<p class="dim">${F(`Fixed affixes (values roll within the ranges). Orbs can't change them.`,`ออปชั่นตายตัว (ตัวเลขสุ่มในช่วง) · ใช้ Orb เปลี่ยนไม่ได้`)}</p>
+${H([F(`Name`,`ชื่อ`),F(`Base`,`ฐาน`),F(`Affixes`,`ออปชั่น`),F(`Lore`,`ตำนาน`)],ne.map(e=>{let t=i(e.base),n=(()=>{let t=L(`unique.${e.id}`);return t===`unique.${e.id}`?w(e.lore):t})();return[`<span class="nm">${J(t.icon)}<span class="uniq">${I(w(e.name))}</span></span>`,`${I(w(t.name))}<div class="dim">${L(`eslot.${t.slot}`)} · Lv ${t.level}</div>`,e.mods.map(e=>I(z(l(e.id).stat,e.ranges.map(V)))).join(`<br>`),`<i class="dim">${I(n)}</i>`]}))}`}function xe(e){let t=[1,10,23,40,70],n=(e,t)=>{let n=C.reduce((e,n)=>e+j(n,t),0),r=j(e,t);return r?`${(r/n*100).toFixed(r/n<.01?2:1)}%`:`—`};e.innerHTML=`<h2>Orb</h2>
+<p class="dim">${F(`Click an orb in your bag, then click an item. Orb chance per monster: ${N.orb*100}%. Like PoE, each orb starts dropping at its drop level (monster level) and ramps up over 6 levels — early areas give basic orbs, later acts the rare ones. Act 1 = Lv 1–23.`,`คลิก Orb ในกระเป๋า แล้วคลิกไอเทม · โอกาสได้ Orb ต่อมอน 1 ตัว: ${N.orb*100}% · แบบ PoE: Orb แต่ละชนิดเริ่มดรอปที่เลเวลมอนขั้นต่ำ แล้วค่อย ๆ เจอบ่อยขึ้นใน 6 เลเวล — ช่วงต้นได้ Orb ขั้นต้น Act หลัง ๆ ค่อยได้ Orb หายาก · Act 1 = Lv 1–23`)}</p>
+${H([F(`Orb`,`Orb`),F(`Effect`,`ผล`),F(`Drops from`,`เริ่มดรอป`),...t.map(e=>`Lv ${e}`)],C.map(e=>[`<span class="nm">${J(e.id)}<b>${I(w(e.name))}</b></span>`,I(w(e.desc)),`Lv ${e.dropLevel}`,...t.map(t=>n(e,t))]))}
+<p class="dim">${F(`Columns = share of each orb when an orb drops, at that monster level.`,`แต่ละคอลัมน์ = สัดส่วนของ Orb แต่ละชนิดเมื่อมี Orb ดรอป ที่เลเวลมอนนั้น`)}</p>`}function Se(t){let n=e=>({melee:F(`Melee`,`ตีใกล้`),ranged:F(`Ranged`,`ตีไกล`),boss:F(`Boss`,`บอส`),summon:F(`Summon`,`ลูกน้องบอส`)})[e.kind],r=Object.values(ae);t.innerHTML=`<h2>${F(`Monsters`,`มอนสเตอร์`)}</h2>
+<p class="dim">${F(`Life and damage grow with monster level. XP: full within ±safe zone (3 + your level ÷ 16) of your level.`,`เลือดและดาเมจเพิ่มตามเลเวลมอน · XP ได้เต็มเมื่อเลเวลห่างไม่เกินช่วงปลอดภัย (3 + เลเวลเรา ÷ 16)`)}</p>
+<div class="mons">${r.map(e=>`<div class="mon">${e.img?G(e.img,`px`,L(e.name)):``}<b>${I(L(e.name))}</b><span class="dim">Lv ${e.level} · ${n(e)}</span></div>`).join(``)}</div>
+${H([F(`Monster`,`มอนสเตอร์`),F(`Map`,`แผนที่`),F(`Level`,`เลเวล`),F(`Type`,`ชนิด`),F(`Life`,`เลือด`),F(`Damage`,`ดาเมจ`),F(`Base XP`,`XP ฐาน`),F(`Notes`,`หมายเหตุ`)],r.map(e=>[`<span class="nm">${e.img?G(e.img,`px sm`,``):``}<b>${I(L(e.name))}</b></span>`,I(L(e.map)),`${e.level}`,n(e),R(S(e.hp,e.level,T(e))),V(p(e.dmg,e.level,T(e))),R(O(e.level,e.kind===`boss`)),I(w(e.note))]))}
+${r.filter(e=>e.attacks).map(e=>`<h3 class="nm">${e.img?G(e.img,`px sm`,``):``}${I(L(e.name))} — ${F(`attacks`,`ท่าโจมตี`)}</h3>${H([F(`Attack`,`ท่า`),F(`Damage`,`ดาเมจ`),F(`Effect`,`ผล`)],Object.values(e.attacks).map(t=>[I(w(t.name)),V(p(t.dmg,e.level,T(e))),pe(t)]))}`).join(``)}
+<h3>${F(`Scaling by monster level`,`ตัวคูณตามเลเวลมอน`)}</h3>
+${H([F(`Level`,`เลเวล`),F(`Life ×`,`เลือด ×`),F(`Damage ×`,`ดาเมจ ×`)],[1,5,10,20,30,50,70,100].map(t=>[`${t}`,ue(t).toFixed(2),e(t).toFixed(2)]))}
+<p class="dim">${F(`On top of this, ordinary monsters have ×1.4 life and ×1 damage; bosses and their summons ×2 life and ×1.25 damage (global difficulty).`,`นอกจากนี้มอนธรรมดามีเลือด ×1.4 ดาเมจ ×1 ส่วนบอสและลูกน้องบอสเลือด ×2 ดาเมจ ×1.25 (ความยากรวม)`)}</p>`}function Ce(e){let t=0,n=0,r=[];for(let e=1;e<100;e++){let i=le(e);t+=i,n+=i/(O(e)*o),r.push([`${e} → ${e+1}`,R(i),R(t),n<1?`${Math.round(n*60)} ${F(`min`,`นาที`)}`:`${n.toFixed(1)} ${F(`h`,`ชม.`)}`,`±${oe(e)}`,`${d(e+1)}`])}e.innerHTML=`<h2>${F(`Levels, XP and drops`,`เลเวล XP และของดรอป`)}</h2>
+<p class="dim">${F(`Time estimates assume ~${o} kills per hour of monsters at your level.`,`เวลาโดยประมาณ คิดจากฆ่ามอนเลเวลใกล้ตัวเองราว ${o} ตัว/ชม.`)}</p>
+<h3>${F(`Drops per monster`,`ของดรอปต่อมอน 1 ตัว`)}</h3>
+${H([F(`Drop`,`ของ`),F(`Chance`,`โอกาส`)],[[`<span class="nm">${J(`zeny`,24)}${F(`Zeny`,`เงิน`)}</span>`,`${N.zeny*100}%`],[`<span class="nm">${J(`iron_short_sword`,24)}${F(`Item`,`ไอเทม`)}</span>`,`${N.item*100}% (Unique 0.4% · Rare 7.6% · Magic 32% · Normal 60%)`],[`<span class="nm">${J(`chaos`,24)}Orb</span>`,`${N.orb*100}%`],[F(`Boss`,`บอส`),F(`1 guaranteed Magic-or-better item (iLvl +2) + extra rolls`,`การันตีไอเทม Magic ขึ้นไป 1 ชิ้น (iLvl +2) + สุ่มเพิ่ม`)]])}
+<h3>${F(`XP table`,`ตาราง XP`)}</h3>
+${H([F(`Level`,`เลเวล`),F(`XP needed`,`XP ที่ต้องใช้`),F(`Total XP`,`XP สะสม`),F(`Total play time`,`เวลาเล่นสะสม`),F(`Full-XP range`,`ช่วงได้ XP เต็ม`),F(`Discipline points`,`แต้มสายวิชารวม`)],r)}`}$=location.hash.slice(1).split(`:`)[0]||`guide`,Q();
