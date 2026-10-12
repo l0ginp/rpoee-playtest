@@ -1067,6 +1067,226 @@
    },
    "weaponType": "smash2h",
    "scale": 0.55
+  },
+  "u_tengu_tokin": {
+   "name": {
+    "en": "Tokin of the Grove Tengu",
+    "th": "หมวกโทกินเท็งงุแห่งป่า"
+   },
+   "sprites": {
+    "south": "/items/u_tengu_tokin/south.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.72
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "u_toad_crown": {
+   "name": {
+    "en": "Crown of the Toad King",
+    "th": "มงกุฎราชาคางคก"
+   },
+   "sprites": {
+    "south": "/items/u_toad_crown/south.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.78
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "u_matron_crown": {
+   "name": {
+    "en": "Matron's Kanzashi Crown",
+    "th": "มงกุฎปิ่นปักผมของแม่นาง"
+   },
+   "sprites": {
+    "south": "/items/u_matron_crown/south.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.74
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "u_kinoko_cap": {
+   "name": {
+    "en": "Elder Kinoko's Great Cap",
+    "th": "หมวกเห็ดใหญ่ของท่านเห็ดเฒ่า"
+   },
+   "sprites": {
+    "south": "/items/u_kinoko_cap/south.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.76
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "u_bath_towel": {
+   "name": {
+    "en": "Bathhouse Towel Wrap",
+    "th": "ผ้าโพกหัวเรือนอาบน้ำ"
+   },
+   "sprites": {
+    "south": "/items/u_bath_towel/south.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.78
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "u_rokuro_zukin": {
+   "name": {
+    "en": "Indigo Zukin of the Long-Necked",
+    "th": "ฮู้ดสีครามของหญิงคอยาว"
+   },
+   "sprites": {
+    "south": "/items/u_rokuro_zukin/south.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.76
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "u_crow_crest": {
+   "name": {
+    "en": "Great Crow's Feather Crest",
+    "th": "เครื่องสวมหัวขนกาใหญ่"
+   },
+   "sprites": {
+    "south": "/items/u_crow_crest/south.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.78
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "u_kama_hood": {
+   "name": {
+    "en": "Hood of the Sickle Weasels",
+    "th": "ฮู้ดขนอีเห็นเคียว"
+   },
+   "sprites": {
+    "south": "/items/u_kama_hood/south.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.8
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "u_web_crown": {
+   "name": {
+    "en": "Jorōgumo's Web Crown",
+    "th": "มงกุฎใยของโจโรงุโมะ"
+   },
+   "sprites": {
+    "south": "/items/u_web_crown/south.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.82
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "u_oni_helm": {
+   "name": {
+    "en": "Horned Helm of the Oni Chief",
+    "th": "หมวกเขายักษ์ของหัวหน้าโอนิ"
+   },
+   "sprites": {
+    "south": "/items/u_oni_helm/south.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.8
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "u_shuten_crown": {
+   "name": {
+    "en": "Crimson Crown of Shuten-dōji",
+    "th": "มงกุฎชาดของชูเท็นโดจิ"
+   },
+   "sprites": {
+    "south": "/items/u_shuten_crown/south.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.8
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
   }
  },
  "hairstyles": [
