@@ -339,7 +339,7 @@ import{$ as e,A as t,C as n,F as r,G as i,H as a,I as o,M as s,N as c,P as l,Q a
 <li><b>4 skill buttons / 🤸 roll</b>: tap = auto-aim · drag off the button = aim yourself.</li>
 <li><b>2 quick slots</b>: tap = use · hold = choose the item (Herb / Rice Cake / Mana Potion).</li>
 <li><b>💬</b> talk (shows near NPCs) · top right: ⛶ fullscreen 📜 skills 🌳 tree (pinch to zoom) 👤 character 🔊 sound 🧪 test 🎒 bag ⚙️ settings.</li>
-<li><b>Fullscreen</b>: on Android your first tap goes fullscreen, or press ⛶ · install it as an app (Chrome ⋮ → Add to Home screen / iPhone Safari Share → Add to Home Screen) and open the icon for permanent fullscreen.</li>
+<li><b>Fullscreen</b>: on PC press ⛶ (top right) or F11 · on Android your first tap goes fullscreen, or press ⛶ · install it as an app (Chrome ⋮ → Add to Home screen / iPhone Safari Share → Add to Home Screen) and open the icon for permanent fullscreen.</li>
 </ul>
 </section>
 
