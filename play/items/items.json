@@ -771,6 +771,302 @@
     "south-east": "/items/cloak_crimson/south-east_fore.png",
     "east": "/items/cloak_crimson/east_fore.png"
    }
+  },
+  "u_tengu_mask": {
+   "name": {
+    "en": "Longnose of the Grove Tengu",
+    "th": "หน้ากากจมูกยาวเท็งงุแห่งป่า"
+   },
+   "sprites": {
+    "south": "/items/u_tengu_mask/south.png"
+   },
+   "slot": "headMid",
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "hide": [
+    "north",
+    "north-west"
+   ]
+  },
+  "u_matron_mask": {
+   "name": {
+    "en": "Mask of the Nine-Tailed Matron",
+    "th": "หน้ากากแม่นางจิ้งจอกเก้าหาง"
+   },
+   "sprites": {
+    "south": "/items/u_matron_mask/south.png"
+   },
+   "slot": "headMid",
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "hide": [
+    "north",
+    "north-west"
+   ]
+  },
+  "u_rokuro_mask": {
+   "name": {
+    "en": "Pale Mask of the Long-Necked",
+    "th": "หน้ากากซีดของหญิงคอยาว"
+   },
+   "sprites": {
+    "south": "/items/u_rokuro_mask/south.png"
+   },
+   "slot": "headMid",
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "hide": [
+    "north",
+    "north-west"
+   ]
+  },
+  "u_crow_mask": {
+   "name": {
+    "en": "Beak of the Great Crow",
+    "th": "หน้ากากจะงอยปากกาใหญ่"
+   },
+   "sprites": {
+    "south": "/items/u_crow_mask/south.png"
+   },
+   "slot": "headMid",
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "hide": [
+    "north",
+    "north-west"
+   ]
+  },
+  "u_kappa_dish": {
+   "name": {
+    "en": "Dish of the Maple Kappa",
+    "th": "จานบนหัวคัปปะแห่งป่าเมเปิล"
+   },
+   "sprites": {
+    "south": "/items/u_kappa_dish/south.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.72
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "u_tanuki_leaf": {
+   "name": {
+    "en": "Lotus-Leaf Hat of Danzaburō",
+    "th": "หมวกใบบัวของดันซาบุโร"
+   },
+   "sprites": {
+    "south": "/items/u_tanuki_leaf/south.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.7
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "u_gasha_skull": {
+   "name": {
+    "en": "Skull of Gashadokuro",
+    "th": "กะโหลกกาฉะโดกุโระ"
+   },
+   "sprites": {
+    "south": "/items/u_gasha_skull/south.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.66
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.85
+  },
+  "u_kinoko_shield": {
+   "name": {
+    "en": "Elder Kinoko's Capshield",
+    "th": "โล่หมวกเห็ดของท่านเห็ดเฒ่า"
+   },
+   "sprites": {
+    "south": "/items/u_kinoko_shield/south.png"
+   },
+   "slot": "shield",
+   "anchor": "handL",
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "scale": 0.75
+  },
+  "u_toad_tongue": {
+   "name": {
+    "en": "Tongue of the Toad King",
+    "th": "ลิ้นราชาคางคก"
+   },
+   "sprites": {
+    "north": "/items/u_toad_tongue/north.png"
+   },
+   "slot": "weapon",
+   "anchor": "handR",
+   "origin": [
+    0.5,
+    0.86
+   ],
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "stab",
+   "scale": 0.55
+  },
+  "u_kama_fang": {
+   "name": {
+    "en": "Fang of the Sickle Weasels",
+    "th": "เขี้ยวอีเห็นเคียว"
+   },
+   "sprites": {
+    "north": "/items/u_kama_fang/north.png"
+   },
+   "slot": "weapon",
+   "anchor": "handR",
+   "origin": [
+    0.5,
+    0.86
+   ],
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "stab",
+   "scale": 0.55
+  },
+  "u_ladle_staff": {
+   "name": {
+    "en": "Hot Spring Ladle-Staff",
+    "th": "ไม้เท้าทัพพีบ่อน้ำพุร้อน"
+   },
+   "sprites": {
+    "north": "/items/u_ladle_staff/north.png"
+   },
+   "slot": "weapon",
+   "anchor": "handR",
+   "origin": [
+    0.5,
+    0.66
+   ],
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "staff",
+   "scale": 0.59
+  },
+  "u_silk_spear": {
+   "name": {
+    "en": "Jorōgumo's Silkspear",
+    "th": "หอกไหมของโจโรงุโมะ"
+   },
+   "sprites": {
+    "north": "/items/u_silk_spear/north.png"
+   },
+   "slot": "weapon",
+   "anchor": "handR",
+   "origin": [
+    0.5,
+    0.62
+   ],
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "thrust",
+   "scale": 0.9
+  },
+  "u_oni_kanabo": {
+   "name": {
+    "en": "Oni's Bonebreaker",
+    "th": "กระบองหักกระดูกของยักษ์"
+   },
+   "sprites": {
+    "north": "/items/u_oni_kanabo/north.png"
+   },
+   "slot": "weapon",
+   "anchor": "handR",
+   "origin": [
+    0.5,
+    0.86
+   ],
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "smash2h",
+   "scale": 0.55
+  },
+  "u_shuten_tetsubo": {
+   "name": {
+    "en": "Shuten-dōji's Crimson Tetsubo",
+    "th": "เท็ตสึโบสีชาดของชูเท็นโดจิ"
+   },
+   "sprites": {
+    "north": "/items/u_shuten_tetsubo/north.png"
+   },
+   "slot": "weapon",
+   "anchor": "handR",
+   "origin": [
+    0.5,
+    0.86
+   ],
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "smash2h",
+   "scale": 0.55
   }
  },
  "hairstyles": [
