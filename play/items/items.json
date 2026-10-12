@@ -523,6 +523,235 @@
     "north": "/items/hair_wild_long/north.png"
    },
    "icon": "/items/hair_wild_long/icon.png"
+  },
+  "float_lantern": {
+   "name": {
+    "en": "Paper Lantern",
+    "th": "โคมกระดาษลอยฟ้า"
+   },
+   "slot": "float",
+   "costume": true,
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "scale": 0.7,
+   "hover": {
+    "height": 60,
+    "bob": 3,
+    "hz": 0.6,
+    "follow": 4
+   },
+   "sprites": {
+    "south": "/items/float_lantern/south.png"
+   },
+   "icon": "/items/float_lantern/icon.png"
+  },
+  "wings_butterfly": {
+   "name": {
+    "en": "Butterfly Wings",
+    "th": "ปีกผีเสื้อ"
+   },
+   "slot": "back",
+   "costume": true,
+   "anchor": "back",
+   "origin": [
+    0.5,
+    0.42
+   ],
+   "offset": [
+    0,
+    4
+   ],
+   "sideScale": 0.45,
+   "flap": {
+    "hz": 1.4,
+    "amp": 0.14
+   },
+   "scale": 1.1,
+   "sprites": {
+    "north": "/items/wings_butterfly/north.png"
+   },
+   "icon": "/items/wings_butterfly/icon.png"
+  },
+  "ears_cat": {
+   "name": {
+    "en": "Cat Ears",
+    "th": "ที่คาดผมหูแมว"
+   },
+   "slot": "headTop",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.75
+   ],
+   "offset": [
+    0,
+    7
+   ],
+   "scale": 0.8,
+   "sprites": {
+    "south": "/items/ears_cat/south.png"
+   },
+   "icon": "/items/ears_cat/icon.png"
+  },
+  "ears_fox": {
+   "name": {
+    "en": "Fox Ears",
+    "th": "หูจิ้งจอกขาว"
+   },
+   "slot": "headTop",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.75
+   ],
+   "offset": [
+    0,
+    4
+   ],
+   "scale": 0.7,
+   "sprites": {
+    "south": "/items/ears_fox/south.png"
+   },
+   "icon": "/items/ears_fox/icon.png"
+  },
+  "cloak_sakura": {
+   "name": {
+    "en": "Sakura Haori Cape",
+    "th": "ผ้าคลุมฮาโอริซากุระ"
+   },
+   "slot": "garment",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.09090909090909091
+   ],
+   "sprites": {
+    "south": "/items/cloak_sakura/south.png",
+    "south-east": "/items/cloak_sakura/south-east.png",
+    "east": "/items/cloak_sakura/east.png",
+    "north-east": "/items/cloak_sakura/north-east.png",
+    "north": "/items/cloak_sakura/north.png"
+   },
+   "icon": "/items/cloak_sakura/icon.png"
+  },
+  "cloak_snowfur": {
+   "name": {
+    "en": "Snowfur Mantle",
+    "th": "เสื้อคลุมขนหิมะ"
+   },
+   "slot": "garment",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.09090909090909091
+   ],
+   "sprites": {
+    "south": "/items/cloak_snowfur/south.png",
+    "south-east": "/items/cloak_snowfur/south-east.png",
+    "east": "/items/cloak_snowfur/east.png",
+    "north-east": "/items/cloak_snowfur/north-east.png",
+    "north": "/items/cloak_snowfur/north.png"
+   },
+   "icon": "/items/cloak_snowfur/icon.png"
+  },
+  "mask_tengu": {
+   "name": {
+    "en": "Tengu Mask",
+    "th": "หน้ากากเทงงุ"
+   },
+   "slot": "headMid",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.3
+   ],
+   "offset": [
+    0,
+    13
+   ],
+   "scale": 0.6,
+   "hide": [
+    "north",
+    "north-west",
+    "north-east"
+   ],
+   "sprites": {
+    "south": "/items/mask_tengu/south.png",
+    "south-east": "/items/mask_tengu/south-east.png",
+    "east": "/items/mask_tengu/east.png"
+   },
+   "icon": "/items/mask_tengu/icon.png"
+  },
+  "cloak_shinobi": {
+   "name": {
+    "en": "Shinobi Cloak",
+    "th": "ผ้าคลุมชิโนบิ"
+   },
+   "slot": "garment",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.09090909090909091
+   ],
+   "sprites": {
+    "south": "/items/cloak_shinobi/south.png",
+    "south-east": "/items/cloak_shinobi/south-east.png",
+    "east": "/items/cloak_shinobi/east.png",
+    "north-east": "/items/cloak_shinobi/north-east.png",
+    "north": "/items/cloak_shinobi/north.png"
+   },
+   "icon": "/items/cloak_shinobi/icon.png"
+  },
+  "pin_sakura": {
+   "name": {
+    "en": "Sakura Hairpin",
+    "th": "กิ๊บดอกซากุระ"
+   },
+   "slot": "headTop",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "offset": [
+    8,
+    9
+   ],
+   "scale": 0.45,
+   "sprites": {
+    "south": "/items/pin_sakura/south.png"
+   },
+   "icon": "/items/pin_sakura/icon.png"
+  },
+  "cloak_crimson": {
+   "name": {
+    "en": "Crimson War Cape",
+    "th": "ผ้าคลุมศึกสีชาด"
+   },
+   "slot": "garment",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.09090909090909091
+   ],
+   "sprites": {
+    "south": "/items/cloak_crimson/south.png",
+    "south-east": "/items/cloak_crimson/south-east.png",
+    "east": "/items/cloak_crimson/east.png",
+    "north-east": "/items/cloak_crimson/north-east.png",
+    "north": "/items/cloak_crimson/north.png"
+   },
+   "icon": "/items/cloak_crimson/icon.png"
   }
  },
  "hairstyles": [
