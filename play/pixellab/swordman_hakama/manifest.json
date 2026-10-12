@@ -680,9 +680,57 @@
     "/pixellab/swordman_hakama/animations/walking/north/4.png",
     "/pixellab/swordman_hakama/animations/walking/north/5.png"
    ]
+  },
+  "death": {
+   "east": [
+    "/pixellab/swordman_hakama/animations/death/east/0.png",
+    "/pixellab/swordman_hakama/animations/death/east/1.png",
+    "/pixellab/swordman_hakama/animations/death/east/2.png",
+    "/pixellab/swordman_hakama/animations/death/east/3.png",
+    "/pixellab/swordman_hakama/animations/death/east/4.png",
+    "/pixellab/swordman_hakama/animations/death/east/5.png",
+    "/pixellab/swordman_hakama/animations/death/east/6.png"
+   ],
+   "south": [
+    "/pixellab/swordman_hakama/animations/death/south/0.png",
+    "/pixellab/swordman_hakama/animations/death/south/1.png",
+    "/pixellab/swordman_hakama/animations/death/south/2.png",
+    "/pixellab/swordman_hakama/animations/death/south/3.png",
+    "/pixellab/swordman_hakama/animations/death/south/4.png",
+    "/pixellab/swordman_hakama/animations/death/south/5.png",
+    "/pixellab/swordman_hakama/animations/death/south/6.png"
+   ],
+   "north-east": [
+    "/pixellab/swordman_hakama/animations/death/north-east/0.png",
+    "/pixellab/swordman_hakama/animations/death/north-east/1.png",
+    "/pixellab/swordman_hakama/animations/death/north-east/2.png",
+    "/pixellab/swordman_hakama/animations/death/north-east/3.png",
+    "/pixellab/swordman_hakama/animations/death/north-east/4.png",
+    "/pixellab/swordman_hakama/animations/death/north-east/5.png",
+    "/pixellab/swordman_hakama/animations/death/north-east/6.png"
+   ],
+   "south-east": [
+    "/pixellab/swordman_hakama/animations/death/south-east/0.png",
+    "/pixellab/swordman_hakama/animations/death/south-east/1.png",
+    "/pixellab/swordman_hakama/animations/death/south-east/2.png",
+    "/pixellab/swordman_hakama/animations/death/south-east/3.png",
+    "/pixellab/swordman_hakama/animations/death/south-east/4.png",
+    "/pixellab/swordman_hakama/animations/death/south-east/5.png",
+    "/pixellab/swordman_hakama/animations/death/south-east/6.png"
+   ],
+   "north": [
+    "/pixellab/swordman_hakama/animations/death/north/0.png",
+    "/pixellab/swordman_hakama/animations/death/north/1.png",
+    "/pixellab/swordman_hakama/animations/death/north/2.png",
+    "/pixellab/swordman_hakama/animations/death/north/3.png",
+    "/pixellab/swordman_hakama/animations/death/north/4.png",
+    "/pixellab/swordman_hakama/animations/death/north/5.png",
+    "/pixellab/swordman_hakama/animations/death/north/6.png"
+   ]
   }
  },
  "atlas": [
-  "/pixellab/swordman_hakama/frames_0"
+  "/pixellab/swordman_hakama/frames_0",
+  "/pixellab/swordman_hakama/frames_1"
  ]
 }
