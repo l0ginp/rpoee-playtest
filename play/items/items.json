@@ -637,7 +637,12 @@
     "north-east": "/items/cloak_sakura/north-east.png",
     "north": "/items/cloak_sakura/north.png"
    },
-   "icon": "/items/cloak_sakura/icon.png"
+   "icon": "/items/cloak_sakura/icon.png",
+   "fore": {
+    "south": "/items/cloak_sakura/south_fore.png",
+    "south-east": "/items/cloak_sakura/south-east_fore.png",
+    "east": "/items/cloak_sakura/east_fore.png"
+   }
   },
   "cloak_snowfur": {
    "name": {
@@ -658,7 +663,12 @@
     "north-east": "/items/cloak_snowfur/north-east.png",
     "north": "/items/cloak_snowfur/north.png"
    },
-   "icon": "/items/cloak_snowfur/icon.png"
+   "icon": "/items/cloak_snowfur/icon.png",
+   "fore": {
+    "south": "/items/cloak_snowfur/south_fore.png",
+    "south-east": "/items/cloak_snowfur/south-east_fore.png",
+    "east": "/items/cloak_snowfur/east_fore.png"
+   }
   },
   "mask_tengu": {
    "name": {
@@ -670,13 +680,8 @@
    "anchor": "head",
    "origin": [
     0.5,
-    0.3
+    0.09090909090909091
    ],
-   "offset": [
-    0,
-    13
-   ],
-   "scale": 0.6,
    "hide": [
     "north",
     "north-west",
@@ -708,7 +713,12 @@
     "north-east": "/items/cloak_shinobi/north-east.png",
     "north": "/items/cloak_shinobi/north.png"
    },
-   "icon": "/items/cloak_shinobi/icon.png"
+   "icon": "/items/cloak_shinobi/icon.png",
+   "fore": {
+    "south": "/items/cloak_shinobi/south_fore.png",
+    "south-east": "/items/cloak_shinobi/south-east_fore.png",
+    "east": "/items/cloak_shinobi/east_fore.png"
+   }
   },
   "pin_sakura": {
    "name": {
@@ -751,7 +761,12 @@
     "north-east": "/items/cloak_crimson/north-east.png",
     "north": "/items/cloak_crimson/north.png"
    },
-   "icon": "/items/cloak_crimson/icon.png"
+   "icon": "/items/cloak_crimson/icon.png",
+   "fore": {
+    "south": "/items/cloak_crimson/south_fore.png",
+    "south-east": "/items/cloak_crimson/south-east_fore.png",
+    "east": "/items/cloak_crimson/east_fore.png"
+   }
   }
  },
  "hairstyles": [
