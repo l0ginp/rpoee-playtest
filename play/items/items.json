@@ -348,7 +348,11 @@
     "east": "/items/hair_ponytail/east.png",
     "north-east": "/items/hair_ponytail/north-east.png",
     "north": "/items/hair_ponytail/north.png"
-   }
+   },
+   "hairRamp": [
+    "16161c",
+    "5c5f72"
+   ]
   },
   "face_kitsune": {
    "name": {
