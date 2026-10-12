@@ -718,7 +718,8 @@
     "south": "/items/cloak_shinobi/south_fore.png",
     "south-east": "/items/cloak_shinobi/south-east_fore.png",
     "east": "/items/cloak_shinobi/east_fore.png"
-   }
+   },
+   "foreZ": 1.5
   },
   "pin_sakura": {
    "name": {
