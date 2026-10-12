@@ -393,6 +393,132 @@
     "north",
     "north-west"
    ]
+  },
+  "hair_long_straight": {
+   "name": {
+    "en": "Long Straight Hair",
+    "th": "ผมยาวตรงสลวย"
+   },
+   "slot": "hair",
+   "costume": true,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/hair_long_straight/south.png",
+    "south-east": "/items/hair_long_straight/south-east.png",
+    "east": "/items/hair_long_straight/east.png",
+    "north-east": "/items/hair_long_straight/north-east.png",
+    "north": "/items/hair_long_straight/north.png"
+   },
+   "icon": "/items/hair_long_straight/icon.png"
+  },
+  "hair_high_ponytail": {
+   "name": {
+    "en": "High Ponytail",
+    "th": "หางม้าสูง"
+   },
+   "slot": "hair",
+   "costume": true,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/hair_high_ponytail/south.png",
+    "south-east": "/items/hair_high_ponytail/south-east.png",
+    "east": "/items/hair_high_ponytail/east.png",
+    "north-east": "/items/hair_high_ponytail/north-east.png",
+    "north": "/items/hair_high_ponytail/north.png"
+   },
+   "icon": "/items/hair_high_ponytail/icon.png"
+  },
+  "hair_samurai_topknot": {
+   "name": {
+    "en": "Samurai Topknot",
+    "th": "มวยซามูไร"
+   },
+   "slot": "hair",
+   "costume": true,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/hair_samurai_topknot/south.png",
+    "south-east": "/items/hair_samurai_topknot/south-east.png",
+    "east": "/items/hair_samurai_topknot/east.png",
+    "north-east": "/items/hair_samurai_topknot/north-east.png",
+    "north": "/items/hair_samurai_topknot/north.png"
+   },
+   "icon": "/items/hair_samurai_topknot/icon.png"
+  },
+  "hair_short_crop": {
+   "name": {
+    "en": "Short Crop",
+    "th": "ผมสั้นเรียบ"
+   },
+   "slot": "hair",
+   "costume": true,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/hair_short_crop/south.png",
+    "south-east": "/items/hair_short_crop/south-east.png",
+    "east": "/items/hair_short_crop/east.png",
+    "north-east": "/items/hair_short_crop/north-east.png",
+    "north": "/items/hair_short_crop/north.png"
+   },
+   "icon": "/items/hair_short_crop/icon.png"
+  },
+  "hair_twin_braids": {
+   "name": {
+    "en": "Twin Braids",
+    "th": "ถักเปียคู่"
+   },
+   "slot": "hair",
+   "costume": true,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/hair_twin_braids/south.png",
+    "south-east": "/items/hair_twin_braids/south-east.png",
+    "east": "/items/hair_twin_braids/east.png",
+    "north-east": "/items/hair_twin_braids/north-east.png",
+    "north": "/items/hair_twin_braids/north.png"
+   },
+   "icon": "/items/hair_twin_braids/icon.png"
+  },
+  "hair_wild_long": {
+   "name": {
+    "en": "Wild Mane",
+    "th": "ผมยาวฟูพลิ้ว"
+   },
+   "slot": "hair",
+   "costume": true,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/hair_wild_long/south.png",
+    "south-east": "/items/hair_wild_long/south-east.png",
+    "east": "/items/hair_wild_long/east.png",
+    "north-east": "/items/hair_wild_long/north-east.png",
+    "north": "/items/hair_wild_long/north.png"
+   },
+   "icon": "/items/hair_wild_long/icon.png"
   }
  },
  "hairstyles": [
