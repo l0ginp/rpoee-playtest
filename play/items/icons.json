@@ -1040,9 +1040,29 @@
     "h": 32
    }
   },
-  "u_gasha_skull": {
+  "u_frog_sandals": {
    "frame": {
     "x": 74,
+    "y": 182,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_gasha_skull": {
+   "frame": {
+    "x": 110,
     "y": 182,
     "w": 32,
     "h": 32
@@ -1062,7 +1082,7 @@
   },
   "u_kama_fang": {
    "frame": {
-    "x": 110,
+    "x": 146,
     "y": 182,
     "w": 32,
     "h": 32
@@ -1082,7 +1102,7 @@
   },
   "u_kama_hood": {
    "frame": {
-    "x": 146,
+    "x": 182,
     "y": 182,
     "w": 32,
     "h": 32
@@ -1102,7 +1122,7 @@
   },
   "u_kappa_dish": {
    "frame": {
-    "x": 182,
+    "x": 218,
     "y": 182,
     "w": 32,
     "h": 32
@@ -1122,7 +1142,7 @@
   },
   "u_kinoko_cap": {
    "frame": {
-    "x": 218,
+    "x": 254,
     "y": 182,
     "w": 32,
     "h": 32
@@ -1142,7 +1162,7 @@
   },
   "u_kinoko_shield": {
    "frame": {
-    "x": 254,
+    "x": 290,
     "y": 182,
     "w": 32,
     "h": 32
@@ -1162,26 +1182,6 @@
   },
   "u_ladle_staff": {
    "frame": {
-    "x": 290,
-    "y": 182,
-    "w": 32,
-    "h": 32
-   },
-   "rotated": false,
-   "trimmed": false,
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 32,
-    "h": 32
-   },
-   "sourceSize": {
-    "w": 32,
-    "h": 32
-   }
-  },
-  "u_matron_crown": {
-   "frame": {
     "x": 326,
     "y": 182,
     "w": 32,
@@ -1200,9 +1200,69 @@
     "h": 32
    }
   },
-  "u_matron_mask": {
+  "u_lotus_robe": {
    "frame": {
     "x": 2,
+    "y": 218,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_matron_crown": {
+   "frame": {
+    "x": 38,
+    "y": 218,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_matron_mask": {
+   "frame": {
+    "x": 74,
+    "y": 218,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_moonbow": {
+   "frame": {
+    "x": 110,
     "y": 218,
     "w": 32,
     "h": 32
@@ -1222,7 +1282,7 @@
   },
   "u_oni_helm": {
    "frame": {
-    "x": 38,
+    "x": 146,
     "y": 218,
     "w": 32,
     "h": 32
@@ -1242,7 +1302,27 @@
   },
   "u_oni_kanabo": {
    "frame": {
-    "x": 74,
+    "x": 182,
+    "y": 218,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_rainbell": {
+   "frame": {
+    "x": 218,
     "y": 218,
     "w": 32,
     "h": 32
@@ -1262,7 +1342,7 @@
   },
   "u_rokuro_mask": {
    "frame": {
-    "x": 110,
+    "x": 254,
     "y": 218,
     "w": 32,
     "h": 32
@@ -1282,7 +1362,7 @@
   },
   "u_rokuro_zukin": {
    "frame": {
-    "x": 146,
+    "x": 290,
     "y": 218,
     "w": 32,
     "h": 32
@@ -1302,7 +1382,7 @@
   },
   "u_shuten_crown": {
    "frame": {
-    "x": 182,
+    "x": 326,
     "y": 218,
     "w": 32,
     "h": 32
@@ -1322,86 +1402,6 @@
   },
   "u_shuten_tetsubo": {
    "frame": {
-    "x": 218,
-    "y": 218,
-    "w": 32,
-    "h": 32
-   },
-   "rotated": false,
-   "trimmed": false,
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 32,
-    "h": 32
-   },
-   "sourceSize": {
-    "w": 32,
-    "h": 32
-   }
-  },
-  "u_silk_spear": {
-   "frame": {
-    "x": 254,
-    "y": 218,
-    "w": 32,
-    "h": 32
-   },
-   "rotated": false,
-   "trimmed": false,
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 32,
-    "h": 32
-   },
-   "sourceSize": {
-    "w": 32,
-    "h": 32
-   }
-  },
-  "u_tanuki_leaf": {
-   "frame": {
-    "x": 290,
-    "y": 218,
-    "w": 32,
-    "h": 32
-   },
-   "rotated": false,
-   "trimmed": false,
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 32,
-    "h": 32
-   },
-   "sourceSize": {
-    "w": 32,
-    "h": 32
-   }
-  },
-  "u_tengu_mask": {
-   "frame": {
-    "x": 326,
-    "y": 218,
-    "w": 32,
-    "h": 32
-   },
-   "rotated": false,
-   "trimmed": false,
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 32,
-    "h": 32
-   },
-   "sourceSize": {
-    "w": 32,
-    "h": 32
-   }
-  },
-  "u_tengu_tokin": {
-   "frame": {
     "x": 2,
     "y": 254,
     "w": 32,
@@ -1420,7 +1420,7 @@
     "h": 32
    }
   },
-  "u_toad_crown": {
+  "u_silk_spear": {
    "frame": {
     "x": 38,
     "y": 254,
@@ -1440,7 +1440,7 @@
     "h": 32
    }
   },
-  "u_toad_tongue": {
+  "u_tanuki_leaf": {
    "frame": {
     "x": 74,
     "y": 254,
@@ -1460,7 +1460,7 @@
     "h": 32
    }
   },
-  "u_web_crown": {
+  "u_tengu_mask": {
    "frame": {
     "x": 110,
     "y": 254,
@@ -1480,7 +1480,7 @@
     "h": 32
    }
   },
-  "wakizashi": {
+  "u_tengu_tokin": {
    "frame": {
     "x": 146,
     "y": 254,
@@ -1500,7 +1500,7 @@
     "h": 32
    }
   },
-  "wooden_buckler": {
+  "u_toad_crown": {
    "frame": {
     "x": 182,
     "y": 254,
@@ -1520,7 +1520,7 @@
     "h": 32
    }
   },
-  "wooden_club": {
+  "u_toad_tongue": {
    "frame": {
     "x": 218,
     "y": 254,
@@ -1540,7 +1540,7 @@
     "h": 32
    }
   },
-  "yumi": {
+  "u_web_crown": {
    "frame": {
     "x": 254,
     "y": 254,
@@ -1560,10 +1560,90 @@
     "h": 32
    }
   },
-  "zeny": {
+  "wakizashi": {
    "frame": {
     "x": 290,
     "y": 254,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "wooden_buckler": {
+   "frame": {
+    "x": 326,
+    "y": 254,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "wooden_club": {
+   "frame": {
+    "x": 2,
+    "y": 290,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "yumi": {
+   "frame": {
+    "x": 38,
+    "y": 290,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "zeny": {
+   "frame": {
+    "x": 74,
+    "y": 290,
     "w": 32,
     "h": 32
    },
@@ -1584,8 +1664,8 @@
  "meta": {
   "image": "icons.png",
   "size": {
-   "w": 367,
-   "h": 288
+   "w": 377,
+   "h": 324
   },
   "scale": "1"
  }
