@@ -1,0 +1,118 @@
+{
+ "id": "794247b1-0774-448f-974c-98574cef80a7",
+ "name": "mokumokuren",
+ "size": {
+  "width": 64,
+  "height": 64
+ },
+ "view": "low top-down",
+ "rotations": {
+  "south": "/pixellab/mokumokuren/rotations/south.png",
+  "west": "/pixellab/mokumokuren/rotations/west.png",
+  "east": "/pixellab/mokumokuren/rotations/east.png",
+  "north": "/pixellab/mokumokuren/rotations/north.png",
+  "south-east": "/pixellab/mokumokuren/rotations/south-east.png",
+  "north-east": "/pixellab/mokumokuren/rotations/north-east.png",
+  "north-west": "/pixellab/mokumokuren/rotations/north-west.png",
+  "south-west": "/pixellab/mokumokuren/rotations/south-west.png"
+ },
+ "animations": {
+  "attack": {
+   "north-east": [
+    "/pixellab/mokumokuren/animations/attack/north-east/0.png",
+    "/pixellab/mokumokuren/animations/attack/north-east/1.png",
+    "/pixellab/mokumokuren/animations/attack/north-east/2.png",
+    "/pixellab/mokumokuren/animations/attack/north-east/3.png",
+    "/pixellab/mokumokuren/animations/attack/north-east/4.png",
+    "/pixellab/mokumokuren/animations/attack/north-east/5.png",
+    "/pixellab/mokumokuren/animations/attack/north-east/6.png"
+   ],
+   "east": [
+    "/pixellab/mokumokuren/animations/attack/east/0.png",
+    "/pixellab/mokumokuren/animations/attack/east/1.png",
+    "/pixellab/mokumokuren/animations/attack/east/2.png",
+    "/pixellab/mokumokuren/animations/attack/east/3.png",
+    "/pixellab/mokumokuren/animations/attack/east/4.png",
+    "/pixellab/mokumokuren/animations/attack/east/5.png",
+    "/pixellab/mokumokuren/animations/attack/east/6.png"
+   ],
+   "south-east": [
+    "/pixellab/mokumokuren/animations/attack/south-east/0.png",
+    "/pixellab/mokumokuren/animations/attack/south-east/1.png",
+    "/pixellab/mokumokuren/animations/attack/south-east/2.png",
+    "/pixellab/mokumokuren/animations/attack/south-east/3.png",
+    "/pixellab/mokumokuren/animations/attack/south-east/4.png",
+    "/pixellab/mokumokuren/animations/attack/south-east/5.png",
+    "/pixellab/mokumokuren/animations/attack/south-east/6.png"
+   ],
+   "north": [
+    "/pixellab/mokumokuren/animations/attack/north/0.png",
+    "/pixellab/mokumokuren/animations/attack/north/1.png",
+    "/pixellab/mokumokuren/animations/attack/north/2.png",
+    "/pixellab/mokumokuren/animations/attack/north/3.png",
+    "/pixellab/mokumokuren/animations/attack/north/4.png",
+    "/pixellab/mokumokuren/animations/attack/north/5.png",
+    "/pixellab/mokumokuren/animations/attack/north/6.png"
+   ],
+   "south": [
+    "/pixellab/mokumokuren/animations/attack/south/0.png",
+    "/pixellab/mokumokuren/animations/attack/south/1.png",
+    "/pixellab/mokumokuren/animations/attack/south/2.png",
+    "/pixellab/mokumokuren/animations/attack/south/3.png",
+    "/pixellab/mokumokuren/animations/attack/south/4.png",
+    "/pixellab/mokumokuren/animations/attack/south/5.png",
+    "/pixellab/mokumokuren/animations/attack/south/6.png"
+   ]
+  },
+  "walking": {
+   "north": [
+    "/pixellab/mokumokuren/animations/walking/north/0.png",
+    "/pixellab/mokumokuren/animations/walking/north/1.png",
+    "/pixellab/mokumokuren/animations/walking/north/2.png",
+    "/pixellab/mokumokuren/animations/walking/north/3.png",
+    "/pixellab/mokumokuren/animations/walking/north/4.png",
+    "/pixellab/mokumokuren/animations/walking/north/5.png",
+    "/pixellab/mokumokuren/animations/walking/north/6.png"
+   ],
+   "south-east": [
+    "/pixellab/mokumokuren/animations/walking/south-east/0.png",
+    "/pixellab/mokumokuren/animations/walking/south-east/1.png",
+    "/pixellab/mokumokuren/animations/walking/south-east/2.png",
+    "/pixellab/mokumokuren/animations/walking/south-east/3.png",
+    "/pixellab/mokumokuren/animations/walking/south-east/4.png",
+    "/pixellab/mokumokuren/animations/walking/south-east/5.png",
+    "/pixellab/mokumokuren/animations/walking/south-east/6.png"
+   ],
+   "north-east": [
+    "/pixellab/mokumokuren/animations/walking/north-east/0.png",
+    "/pixellab/mokumokuren/animations/walking/north-east/1.png",
+    "/pixellab/mokumokuren/animations/walking/north-east/2.png",
+    "/pixellab/mokumokuren/animations/walking/north-east/3.png",
+    "/pixellab/mokumokuren/animations/walking/north-east/4.png",
+    "/pixellab/mokumokuren/animations/walking/north-east/5.png",
+    "/pixellab/mokumokuren/animations/walking/north-east/6.png"
+   ],
+   "south": [
+    "/pixellab/mokumokuren/animations/walking/south/0.png",
+    "/pixellab/mokumokuren/animations/walking/south/1.png",
+    "/pixellab/mokumokuren/animations/walking/south/2.png",
+    "/pixellab/mokumokuren/animations/walking/south/3.png",
+    "/pixellab/mokumokuren/animations/walking/south/4.png",
+    "/pixellab/mokumokuren/animations/walking/south/5.png",
+    "/pixellab/mokumokuren/animations/walking/south/6.png"
+   ],
+   "east": [
+    "/pixellab/mokumokuren/animations/walking/east/0.png",
+    "/pixellab/mokumokuren/animations/walking/east/1.png",
+    "/pixellab/mokumokuren/animations/walking/east/2.png",
+    "/pixellab/mokumokuren/animations/walking/east/3.png",
+    "/pixellab/mokumokuren/animations/walking/east/4.png",
+    "/pixellab/mokumokuren/animations/walking/east/5.png",
+    "/pixellab/mokumokuren/animations/walking/east/6.png"
+   ]
+  }
+ },
+ "atlas": [
+  "/pixellab/mokumokuren/frames_0"
+ ]
+}

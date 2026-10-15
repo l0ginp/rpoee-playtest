@@ -1,0 +1,118 @@
+{
+ "id": "fa2d352d-a0a0-4ae4-b928-6d3ce6a4ed20",
+ "name": "hinezumi",
+ "size": {
+  "width": 56,
+  "height": 56
+ },
+ "view": "low top-down",
+ "rotations": {
+  "south": "/pixellab/hinezumi/rotations/south.png",
+  "west": "/pixellab/hinezumi/rotations/west.png",
+  "east": "/pixellab/hinezumi/rotations/east.png",
+  "north": "/pixellab/hinezumi/rotations/north.png",
+  "south-east": "/pixellab/hinezumi/rotations/south-east.png",
+  "north-east": "/pixellab/hinezumi/rotations/north-east.png",
+  "north-west": "/pixellab/hinezumi/rotations/north-west.png",
+  "south-west": "/pixellab/hinezumi/rotations/south-west.png"
+ },
+ "animations": {
+  "attack": {
+   "east": [
+    "/pixellab/hinezumi/animations/attack/east/0.png",
+    "/pixellab/hinezumi/animations/attack/east/1.png",
+    "/pixellab/hinezumi/animations/attack/east/2.png",
+    "/pixellab/hinezumi/animations/attack/east/3.png",
+    "/pixellab/hinezumi/animations/attack/east/4.png",
+    "/pixellab/hinezumi/animations/attack/east/5.png",
+    "/pixellab/hinezumi/animations/attack/east/6.png"
+   ],
+   "south": [
+    "/pixellab/hinezumi/animations/attack/south/0.png",
+    "/pixellab/hinezumi/animations/attack/south/1.png",
+    "/pixellab/hinezumi/animations/attack/south/2.png",
+    "/pixellab/hinezumi/animations/attack/south/3.png",
+    "/pixellab/hinezumi/animations/attack/south/4.png",
+    "/pixellab/hinezumi/animations/attack/south/5.png",
+    "/pixellab/hinezumi/animations/attack/south/6.png"
+   ],
+   "north": [
+    "/pixellab/hinezumi/animations/attack/north/0.png",
+    "/pixellab/hinezumi/animations/attack/north/1.png",
+    "/pixellab/hinezumi/animations/attack/north/2.png",
+    "/pixellab/hinezumi/animations/attack/north/3.png",
+    "/pixellab/hinezumi/animations/attack/north/4.png",
+    "/pixellab/hinezumi/animations/attack/north/5.png",
+    "/pixellab/hinezumi/animations/attack/north/6.png"
+   ],
+   "north-east": [
+    "/pixellab/hinezumi/animations/attack/north-east/0.png",
+    "/pixellab/hinezumi/animations/attack/north-east/1.png",
+    "/pixellab/hinezumi/animations/attack/north-east/2.png",
+    "/pixellab/hinezumi/animations/attack/north-east/3.png",
+    "/pixellab/hinezumi/animations/attack/north-east/4.png",
+    "/pixellab/hinezumi/animations/attack/north-east/5.png",
+    "/pixellab/hinezumi/animations/attack/north-east/6.png"
+   ],
+   "south-east": [
+    "/pixellab/hinezumi/animations/attack/south-east/0.png",
+    "/pixellab/hinezumi/animations/attack/south-east/1.png",
+    "/pixellab/hinezumi/animations/attack/south-east/2.png",
+    "/pixellab/hinezumi/animations/attack/south-east/3.png",
+    "/pixellab/hinezumi/animations/attack/south-east/4.png",
+    "/pixellab/hinezumi/animations/attack/south-east/5.png",
+    "/pixellab/hinezumi/animations/attack/south-east/6.png"
+   ]
+  },
+  "walking": {
+   "east": [
+    "/pixellab/hinezumi/animations/walking/east/0.png",
+    "/pixellab/hinezumi/animations/walking/east/1.png",
+    "/pixellab/hinezumi/animations/walking/east/2.png",
+    "/pixellab/hinezumi/animations/walking/east/3.png",
+    "/pixellab/hinezumi/animations/walking/east/4.png",
+    "/pixellab/hinezumi/animations/walking/east/5.png",
+    "/pixellab/hinezumi/animations/walking/east/6.png"
+   ],
+   "south": [
+    "/pixellab/hinezumi/animations/walking/south/0.png",
+    "/pixellab/hinezumi/animations/walking/south/1.png",
+    "/pixellab/hinezumi/animations/walking/south/2.png",
+    "/pixellab/hinezumi/animations/walking/south/3.png",
+    "/pixellab/hinezumi/animations/walking/south/4.png",
+    "/pixellab/hinezumi/animations/walking/south/5.png",
+    "/pixellab/hinezumi/animations/walking/south/6.png"
+   ],
+   "south-east": [
+    "/pixellab/hinezumi/animations/walking/south-east/0.png",
+    "/pixellab/hinezumi/animations/walking/south-east/1.png",
+    "/pixellab/hinezumi/animations/walking/south-east/2.png",
+    "/pixellab/hinezumi/animations/walking/south-east/3.png",
+    "/pixellab/hinezumi/animations/walking/south-east/4.png",
+    "/pixellab/hinezumi/animations/walking/south-east/5.png",
+    "/pixellab/hinezumi/animations/walking/south-east/6.png"
+   ],
+   "north": [
+    "/pixellab/hinezumi/animations/walking/north/0.png",
+    "/pixellab/hinezumi/animations/walking/north/1.png",
+    "/pixellab/hinezumi/animations/walking/north/2.png",
+    "/pixellab/hinezumi/animations/walking/north/3.png",
+    "/pixellab/hinezumi/animations/walking/north/4.png",
+    "/pixellab/hinezumi/animations/walking/north/5.png",
+    "/pixellab/hinezumi/animations/walking/north/6.png"
+   ],
+   "north-east": [
+    "/pixellab/hinezumi/animations/walking/north-east/0.png",
+    "/pixellab/hinezumi/animations/walking/north-east/1.png",
+    "/pixellab/hinezumi/animations/walking/north-east/2.png",
+    "/pixellab/hinezumi/animations/walking/north-east/3.png",
+    "/pixellab/hinezumi/animations/walking/north-east/4.png",
+    "/pixellab/hinezumi/animations/walking/north-east/5.png",
+    "/pixellab/hinezumi/animations/walking/north-east/6.png"
+   ]
+  }
+ },
+ "atlas": [
+  "/pixellab/hinezumi/frames_0"
+ ]
+}

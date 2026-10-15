@@ -1,0 +1,118 @@
+{
+ "id": "9c39d72f-58fe-4228-a6a6-a5066336add9",
+ "name": "yuki_onna",
+ "size": {
+  "width": 64,
+  "height": 64
+ },
+ "view": "low top-down",
+ "rotations": {
+  "south": "/pixellab/yuki_onna/rotations/south.png",
+  "west": "/pixellab/yuki_onna/rotations/west.png",
+  "east": "/pixellab/yuki_onna/rotations/east.png",
+  "north": "/pixellab/yuki_onna/rotations/north.png",
+  "south-east": "/pixellab/yuki_onna/rotations/south-east.png",
+  "north-east": "/pixellab/yuki_onna/rotations/north-east.png",
+  "north-west": "/pixellab/yuki_onna/rotations/north-west.png",
+  "south-west": "/pixellab/yuki_onna/rotations/south-west.png"
+ },
+ "animations": {
+  "attack": {
+   "south-east": [
+    "/pixellab/yuki_onna/animations/attack/south-east/0.png",
+    "/pixellab/yuki_onna/animations/attack/south-east/1.png",
+    "/pixellab/yuki_onna/animations/attack/south-east/2.png",
+    "/pixellab/yuki_onna/animations/attack/south-east/3.png",
+    "/pixellab/yuki_onna/animations/attack/south-east/4.png",
+    "/pixellab/yuki_onna/animations/attack/south-east/5.png",
+    "/pixellab/yuki_onna/animations/attack/south-east/6.png"
+   ],
+   "south": [
+    "/pixellab/yuki_onna/animations/attack/south/0.png",
+    "/pixellab/yuki_onna/animations/attack/south/1.png",
+    "/pixellab/yuki_onna/animations/attack/south/2.png",
+    "/pixellab/yuki_onna/animations/attack/south/3.png",
+    "/pixellab/yuki_onna/animations/attack/south/4.png",
+    "/pixellab/yuki_onna/animations/attack/south/5.png",
+    "/pixellab/yuki_onna/animations/attack/south/6.png"
+   ],
+   "north-east": [
+    "/pixellab/yuki_onna/animations/attack/north-east/0.png",
+    "/pixellab/yuki_onna/animations/attack/north-east/1.png",
+    "/pixellab/yuki_onna/animations/attack/north-east/2.png",
+    "/pixellab/yuki_onna/animations/attack/north-east/3.png",
+    "/pixellab/yuki_onna/animations/attack/north-east/4.png",
+    "/pixellab/yuki_onna/animations/attack/north-east/5.png",
+    "/pixellab/yuki_onna/animations/attack/north-east/6.png"
+   ],
+   "east": [
+    "/pixellab/yuki_onna/animations/attack/east/0.png",
+    "/pixellab/yuki_onna/animations/attack/east/1.png",
+    "/pixellab/yuki_onna/animations/attack/east/2.png",
+    "/pixellab/yuki_onna/animations/attack/east/3.png",
+    "/pixellab/yuki_onna/animations/attack/east/4.png",
+    "/pixellab/yuki_onna/animations/attack/east/5.png",
+    "/pixellab/yuki_onna/animations/attack/east/6.png"
+   ],
+   "north": [
+    "/pixellab/yuki_onna/animations/attack/north/0.png",
+    "/pixellab/yuki_onna/animations/attack/north/1.png",
+    "/pixellab/yuki_onna/animations/attack/north/2.png",
+    "/pixellab/yuki_onna/animations/attack/north/3.png",
+    "/pixellab/yuki_onna/animations/attack/north/4.png",
+    "/pixellab/yuki_onna/animations/attack/north/5.png",
+    "/pixellab/yuki_onna/animations/attack/north/6.png"
+   ]
+  },
+  "walking": {
+   "south-east": [
+    "/pixellab/yuki_onna/animations/walking/south-east/0.png",
+    "/pixellab/yuki_onna/animations/walking/south-east/1.png",
+    "/pixellab/yuki_onna/animations/walking/south-east/2.png",
+    "/pixellab/yuki_onna/animations/walking/south-east/3.png",
+    "/pixellab/yuki_onna/animations/walking/south-east/4.png",
+    "/pixellab/yuki_onna/animations/walking/south-east/5.png",
+    "/pixellab/yuki_onna/animations/walking/south-east/6.png"
+   ],
+   "south": [
+    "/pixellab/yuki_onna/animations/walking/south/0.png",
+    "/pixellab/yuki_onna/animations/walking/south/1.png",
+    "/pixellab/yuki_onna/animations/walking/south/2.png",
+    "/pixellab/yuki_onna/animations/walking/south/3.png",
+    "/pixellab/yuki_onna/animations/walking/south/4.png",
+    "/pixellab/yuki_onna/animations/walking/south/5.png",
+    "/pixellab/yuki_onna/animations/walking/south/6.png"
+   ],
+   "north": [
+    "/pixellab/yuki_onna/animations/walking/north/0.png",
+    "/pixellab/yuki_onna/animations/walking/north/1.png",
+    "/pixellab/yuki_onna/animations/walking/north/2.png",
+    "/pixellab/yuki_onna/animations/walking/north/3.png",
+    "/pixellab/yuki_onna/animations/walking/north/4.png",
+    "/pixellab/yuki_onna/animations/walking/north/5.png",
+    "/pixellab/yuki_onna/animations/walking/north/6.png"
+   ],
+   "north-east": [
+    "/pixellab/yuki_onna/animations/walking/north-east/0.png",
+    "/pixellab/yuki_onna/animations/walking/north-east/1.png",
+    "/pixellab/yuki_onna/animations/walking/north-east/2.png",
+    "/pixellab/yuki_onna/animations/walking/north-east/3.png",
+    "/pixellab/yuki_onna/animations/walking/north-east/4.png",
+    "/pixellab/yuki_onna/animations/walking/north-east/5.png",
+    "/pixellab/yuki_onna/animations/walking/north-east/6.png"
+   ],
+   "east": [
+    "/pixellab/yuki_onna/animations/walking/east/0.png",
+    "/pixellab/yuki_onna/animations/walking/east/1.png",
+    "/pixellab/yuki_onna/animations/walking/east/2.png",
+    "/pixellab/yuki_onna/animations/walking/east/3.png",
+    "/pixellab/yuki_onna/animations/walking/east/4.png",
+    "/pixellab/yuki_onna/animations/walking/east/5.png",
+    "/pixellab/yuki_onna/animations/walking/east/6.png"
+   ]
+  }
+ },
+ "atlas": [
+  "/pixellab/yuki_onna/frames_0"
+ ]
+}

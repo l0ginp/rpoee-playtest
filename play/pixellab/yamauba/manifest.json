@@ -1,0 +1,118 @@
+{
+ "id": "7ef29c54-7305-472e-8377-fb1a3f5898af",
+ "name": "yamauba",
+ "size": {
+  "width": 64,
+  "height": 64
+ },
+ "view": "low top-down",
+ "rotations": {
+  "south": "/pixellab/yamauba/rotations/south.png",
+  "west": "/pixellab/yamauba/rotations/west.png",
+  "east": "/pixellab/yamauba/rotations/east.png",
+  "north": "/pixellab/yamauba/rotations/north.png",
+  "south-east": "/pixellab/yamauba/rotations/south-east.png",
+  "north-east": "/pixellab/yamauba/rotations/north-east.png",
+  "north-west": "/pixellab/yamauba/rotations/north-west.png",
+  "south-west": "/pixellab/yamauba/rotations/south-west.png"
+ },
+ "animations": {
+  "attack": {
+   "north-east": [
+    "/pixellab/yamauba/animations/attack/north-east/0.png",
+    "/pixellab/yamauba/animations/attack/north-east/1.png",
+    "/pixellab/yamauba/animations/attack/north-east/2.png",
+    "/pixellab/yamauba/animations/attack/north-east/3.png",
+    "/pixellab/yamauba/animations/attack/north-east/4.png",
+    "/pixellab/yamauba/animations/attack/north-east/5.png",
+    "/pixellab/yamauba/animations/attack/north-east/6.png"
+   ],
+   "south-east": [
+    "/pixellab/yamauba/animations/attack/south-east/0.png",
+    "/pixellab/yamauba/animations/attack/south-east/1.png",
+    "/pixellab/yamauba/animations/attack/south-east/2.png",
+    "/pixellab/yamauba/animations/attack/south-east/3.png",
+    "/pixellab/yamauba/animations/attack/south-east/4.png",
+    "/pixellab/yamauba/animations/attack/south-east/5.png",
+    "/pixellab/yamauba/animations/attack/south-east/6.png"
+   ],
+   "east": [
+    "/pixellab/yamauba/animations/attack/east/0.png",
+    "/pixellab/yamauba/animations/attack/east/1.png",
+    "/pixellab/yamauba/animations/attack/east/2.png",
+    "/pixellab/yamauba/animations/attack/east/3.png",
+    "/pixellab/yamauba/animations/attack/east/4.png",
+    "/pixellab/yamauba/animations/attack/east/5.png",
+    "/pixellab/yamauba/animations/attack/east/6.png"
+   ],
+   "north": [
+    "/pixellab/yamauba/animations/attack/north/0.png",
+    "/pixellab/yamauba/animations/attack/north/1.png",
+    "/pixellab/yamauba/animations/attack/north/2.png",
+    "/pixellab/yamauba/animations/attack/north/3.png",
+    "/pixellab/yamauba/animations/attack/north/4.png",
+    "/pixellab/yamauba/animations/attack/north/5.png",
+    "/pixellab/yamauba/animations/attack/north/6.png"
+   ],
+   "south": [
+    "/pixellab/yamauba/animations/attack/south/0.png",
+    "/pixellab/yamauba/animations/attack/south/1.png",
+    "/pixellab/yamauba/animations/attack/south/2.png",
+    "/pixellab/yamauba/animations/attack/south/3.png",
+    "/pixellab/yamauba/animations/attack/south/4.png",
+    "/pixellab/yamauba/animations/attack/south/5.png",
+    "/pixellab/yamauba/animations/attack/south/6.png"
+   ]
+  },
+  "walking": {
+   "east": [
+    "/pixellab/yamauba/animations/walking/east/0.png",
+    "/pixellab/yamauba/animations/walking/east/1.png",
+    "/pixellab/yamauba/animations/walking/east/2.png",
+    "/pixellab/yamauba/animations/walking/east/3.png",
+    "/pixellab/yamauba/animations/walking/east/4.png",
+    "/pixellab/yamauba/animations/walking/east/5.png",
+    "/pixellab/yamauba/animations/walking/east/6.png"
+   ],
+   "south-east": [
+    "/pixellab/yamauba/animations/walking/south-east/0.png",
+    "/pixellab/yamauba/animations/walking/south-east/1.png",
+    "/pixellab/yamauba/animations/walking/south-east/2.png",
+    "/pixellab/yamauba/animations/walking/south-east/3.png",
+    "/pixellab/yamauba/animations/walking/south-east/4.png",
+    "/pixellab/yamauba/animations/walking/south-east/5.png",
+    "/pixellab/yamauba/animations/walking/south-east/6.png"
+   ],
+   "south": [
+    "/pixellab/yamauba/animations/walking/south/0.png",
+    "/pixellab/yamauba/animations/walking/south/1.png",
+    "/pixellab/yamauba/animations/walking/south/2.png",
+    "/pixellab/yamauba/animations/walking/south/3.png",
+    "/pixellab/yamauba/animations/walking/south/4.png",
+    "/pixellab/yamauba/animations/walking/south/5.png",
+    "/pixellab/yamauba/animations/walking/south/6.png"
+   ],
+   "north-east": [
+    "/pixellab/yamauba/animations/walking/north-east/0.png",
+    "/pixellab/yamauba/animations/walking/north-east/1.png",
+    "/pixellab/yamauba/animations/walking/north-east/2.png",
+    "/pixellab/yamauba/animations/walking/north-east/3.png",
+    "/pixellab/yamauba/animations/walking/north-east/4.png",
+    "/pixellab/yamauba/animations/walking/north-east/5.png",
+    "/pixellab/yamauba/animations/walking/north-east/6.png"
+   ],
+   "north": [
+    "/pixellab/yamauba/animations/walking/north/0.png",
+    "/pixellab/yamauba/animations/walking/north/1.png",
+    "/pixellab/yamauba/animations/walking/north/2.png",
+    "/pixellab/yamauba/animations/walking/north/3.png",
+    "/pixellab/yamauba/animations/walking/north/4.png",
+    "/pixellab/yamauba/animations/walking/north/5.png",
+    "/pixellab/yamauba/animations/walking/north/6.png"
+   ]
+  }
+ },
+ "atlas": [
+  "/pixellab/yamauba/frames_0"
+ ]
+}

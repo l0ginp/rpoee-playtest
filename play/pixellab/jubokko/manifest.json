@@ -1,0 +1,118 @@
+{
+ "id": "1bb0fbc4-cbcd-4902-ba0c-dbb04698bbe0",
+ "name": "jubokko",
+ "size": {
+  "width": 72,
+  "height": 72
+ },
+ "view": "low top-down",
+ "rotations": {
+  "south": "/pixellab/jubokko/rotations/south.png",
+  "west": "/pixellab/jubokko/rotations/west.png",
+  "east": "/pixellab/jubokko/rotations/east.png",
+  "north": "/pixellab/jubokko/rotations/north.png",
+  "south-east": "/pixellab/jubokko/rotations/south-east.png",
+  "north-east": "/pixellab/jubokko/rotations/north-east.png",
+  "north-west": "/pixellab/jubokko/rotations/north-west.png",
+  "south-west": "/pixellab/jubokko/rotations/south-west.png"
+ },
+ "animations": {
+  "attack": {
+   "north-east": [
+    "/pixellab/jubokko/animations/attack/north-east/0.png",
+    "/pixellab/jubokko/animations/attack/north-east/1.png",
+    "/pixellab/jubokko/animations/attack/north-east/2.png",
+    "/pixellab/jubokko/animations/attack/north-east/3.png",
+    "/pixellab/jubokko/animations/attack/north-east/4.png",
+    "/pixellab/jubokko/animations/attack/north-east/5.png",
+    "/pixellab/jubokko/animations/attack/north-east/6.png"
+   ],
+   "east": [
+    "/pixellab/jubokko/animations/attack/east/0.png",
+    "/pixellab/jubokko/animations/attack/east/1.png",
+    "/pixellab/jubokko/animations/attack/east/2.png",
+    "/pixellab/jubokko/animations/attack/east/3.png",
+    "/pixellab/jubokko/animations/attack/east/4.png",
+    "/pixellab/jubokko/animations/attack/east/5.png",
+    "/pixellab/jubokko/animations/attack/east/6.png"
+   ],
+   "south": [
+    "/pixellab/jubokko/animations/attack/south/0.png",
+    "/pixellab/jubokko/animations/attack/south/1.png",
+    "/pixellab/jubokko/animations/attack/south/2.png",
+    "/pixellab/jubokko/animations/attack/south/3.png",
+    "/pixellab/jubokko/animations/attack/south/4.png",
+    "/pixellab/jubokko/animations/attack/south/5.png",
+    "/pixellab/jubokko/animations/attack/south/6.png"
+   ],
+   "south-east": [
+    "/pixellab/jubokko/animations/attack/south-east/0.png",
+    "/pixellab/jubokko/animations/attack/south-east/1.png",
+    "/pixellab/jubokko/animations/attack/south-east/2.png",
+    "/pixellab/jubokko/animations/attack/south-east/3.png",
+    "/pixellab/jubokko/animations/attack/south-east/4.png",
+    "/pixellab/jubokko/animations/attack/south-east/5.png",
+    "/pixellab/jubokko/animations/attack/south-east/6.png"
+   ],
+   "north": [
+    "/pixellab/jubokko/animations/attack/north/0.png",
+    "/pixellab/jubokko/animations/attack/north/1.png",
+    "/pixellab/jubokko/animations/attack/north/2.png",
+    "/pixellab/jubokko/animations/attack/north/3.png",
+    "/pixellab/jubokko/animations/attack/north/4.png",
+    "/pixellab/jubokko/animations/attack/north/5.png",
+    "/pixellab/jubokko/animations/attack/north/6.png"
+   ]
+  },
+  "walking": {
+   "north-east": [
+    "/pixellab/jubokko/animations/walking/north-east/0.png",
+    "/pixellab/jubokko/animations/walking/north-east/1.png",
+    "/pixellab/jubokko/animations/walking/north-east/2.png",
+    "/pixellab/jubokko/animations/walking/north-east/3.png",
+    "/pixellab/jubokko/animations/walking/north-east/4.png",
+    "/pixellab/jubokko/animations/walking/north-east/5.png",
+    "/pixellab/jubokko/animations/walking/north-east/6.png"
+   ],
+   "east": [
+    "/pixellab/jubokko/animations/walking/east/0.png",
+    "/pixellab/jubokko/animations/walking/east/1.png",
+    "/pixellab/jubokko/animations/walking/east/2.png",
+    "/pixellab/jubokko/animations/walking/east/3.png",
+    "/pixellab/jubokko/animations/walking/east/4.png",
+    "/pixellab/jubokko/animations/walking/east/5.png",
+    "/pixellab/jubokko/animations/walking/east/6.png"
+   ],
+   "south-east": [
+    "/pixellab/jubokko/animations/walking/south-east/0.png",
+    "/pixellab/jubokko/animations/walking/south-east/1.png",
+    "/pixellab/jubokko/animations/walking/south-east/2.png",
+    "/pixellab/jubokko/animations/walking/south-east/3.png",
+    "/pixellab/jubokko/animations/walking/south-east/4.png",
+    "/pixellab/jubokko/animations/walking/south-east/5.png",
+    "/pixellab/jubokko/animations/walking/south-east/6.png"
+   ],
+   "south": [
+    "/pixellab/jubokko/animations/walking/south/0.png",
+    "/pixellab/jubokko/animations/walking/south/1.png",
+    "/pixellab/jubokko/animations/walking/south/2.png",
+    "/pixellab/jubokko/animations/walking/south/3.png",
+    "/pixellab/jubokko/animations/walking/south/4.png",
+    "/pixellab/jubokko/animations/walking/south/5.png",
+    "/pixellab/jubokko/animations/walking/south/6.png"
+   ],
+   "north": [
+    "/pixellab/jubokko/animations/walking/north/0.png",
+    "/pixellab/jubokko/animations/walking/north/1.png",
+    "/pixellab/jubokko/animations/walking/north/2.png",
+    "/pixellab/jubokko/animations/walking/north/3.png",
+    "/pixellab/jubokko/animations/walking/north/4.png",
+    "/pixellab/jubokko/animations/walking/north/5.png",
+    "/pixellab/jubokko/animations/walking/north/6.png"
+   ]
+  }
+ },
+ "atlas": [
+  "/pixellab/jubokko/frames_0"
+ ]
+}

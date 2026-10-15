@@ -1,0 +1,118 @@
+{
+ "id": "38371c7e-2ff4-40bf-b45f-128970861cd8",
+ "name": "tesso",
+ "size": {
+  "width": 64,
+  "height": 64
+ },
+ "view": "low top-down",
+ "rotations": {
+  "south": "/pixellab/tesso/rotations/south.png",
+  "west": "/pixellab/tesso/rotations/west.png",
+  "east": "/pixellab/tesso/rotations/east.png",
+  "north": "/pixellab/tesso/rotations/north.png",
+  "south-east": "/pixellab/tesso/rotations/south-east.png",
+  "north-east": "/pixellab/tesso/rotations/north-east.png",
+  "north-west": "/pixellab/tesso/rotations/north-west.png",
+  "south-west": "/pixellab/tesso/rotations/south-west.png"
+ },
+ "animations": {
+  "attack": {
+   "south": [
+    "/pixellab/tesso/animations/attack/south/0.png",
+    "/pixellab/tesso/animations/attack/south/1.png",
+    "/pixellab/tesso/animations/attack/south/2.png",
+    "/pixellab/tesso/animations/attack/south/3.png",
+    "/pixellab/tesso/animations/attack/south/4.png",
+    "/pixellab/tesso/animations/attack/south/5.png",
+    "/pixellab/tesso/animations/attack/south/6.png"
+   ],
+   "north-east": [
+    "/pixellab/tesso/animations/attack/north-east/0.png",
+    "/pixellab/tesso/animations/attack/north-east/1.png",
+    "/pixellab/tesso/animations/attack/north-east/2.png",
+    "/pixellab/tesso/animations/attack/north-east/3.png",
+    "/pixellab/tesso/animations/attack/north-east/4.png",
+    "/pixellab/tesso/animations/attack/north-east/5.png",
+    "/pixellab/tesso/animations/attack/north-east/6.png"
+   ],
+   "north": [
+    "/pixellab/tesso/animations/attack/north/0.png",
+    "/pixellab/tesso/animations/attack/north/1.png",
+    "/pixellab/tesso/animations/attack/north/2.png",
+    "/pixellab/tesso/animations/attack/north/3.png",
+    "/pixellab/tesso/animations/attack/north/4.png",
+    "/pixellab/tesso/animations/attack/north/5.png",
+    "/pixellab/tesso/animations/attack/north/6.png"
+   ],
+   "east": [
+    "/pixellab/tesso/animations/attack/east/0.png",
+    "/pixellab/tesso/animations/attack/east/1.png",
+    "/pixellab/tesso/animations/attack/east/2.png",
+    "/pixellab/tesso/animations/attack/east/3.png",
+    "/pixellab/tesso/animations/attack/east/4.png",
+    "/pixellab/tesso/animations/attack/east/5.png",
+    "/pixellab/tesso/animations/attack/east/6.png"
+   ],
+   "south-east": [
+    "/pixellab/tesso/animations/attack/south-east/0.png",
+    "/pixellab/tesso/animations/attack/south-east/1.png",
+    "/pixellab/tesso/animations/attack/south-east/2.png",
+    "/pixellab/tesso/animations/attack/south-east/3.png",
+    "/pixellab/tesso/animations/attack/south-east/4.png",
+    "/pixellab/tesso/animations/attack/south-east/5.png",
+    "/pixellab/tesso/animations/attack/south-east/6.png"
+   ]
+  },
+  "walking": {
+   "north": [
+    "/pixellab/tesso/animations/walking/north/0.png",
+    "/pixellab/tesso/animations/walking/north/1.png",
+    "/pixellab/tesso/animations/walking/north/2.png",
+    "/pixellab/tesso/animations/walking/north/3.png",
+    "/pixellab/tesso/animations/walking/north/4.png",
+    "/pixellab/tesso/animations/walking/north/5.png",
+    "/pixellab/tesso/animations/walking/north/6.png"
+   ],
+   "south": [
+    "/pixellab/tesso/animations/walking/south/0.png",
+    "/pixellab/tesso/animations/walking/south/1.png",
+    "/pixellab/tesso/animations/walking/south/2.png",
+    "/pixellab/tesso/animations/walking/south/3.png",
+    "/pixellab/tesso/animations/walking/south/4.png",
+    "/pixellab/tesso/animations/walking/south/5.png",
+    "/pixellab/tesso/animations/walking/south/6.png"
+   ],
+   "south-east": [
+    "/pixellab/tesso/animations/walking/south-east/0.png",
+    "/pixellab/tesso/animations/walking/south-east/1.png",
+    "/pixellab/tesso/animations/walking/south-east/2.png",
+    "/pixellab/tesso/animations/walking/south-east/3.png",
+    "/pixellab/tesso/animations/walking/south-east/4.png",
+    "/pixellab/tesso/animations/walking/south-east/5.png",
+    "/pixellab/tesso/animations/walking/south-east/6.png"
+   ],
+   "north-east": [
+    "/pixellab/tesso/animations/walking/north-east/0.png",
+    "/pixellab/tesso/animations/walking/north-east/1.png",
+    "/pixellab/tesso/animations/walking/north-east/2.png",
+    "/pixellab/tesso/animations/walking/north-east/3.png",
+    "/pixellab/tesso/animations/walking/north-east/4.png",
+    "/pixellab/tesso/animations/walking/north-east/5.png",
+    "/pixellab/tesso/animations/walking/north-east/6.png"
+   ],
+   "east": [
+    "/pixellab/tesso/animations/walking/east/0.png",
+    "/pixellab/tesso/animations/walking/east/1.png",
+    "/pixellab/tesso/animations/walking/east/2.png",
+    "/pixellab/tesso/animations/walking/east/3.png",
+    "/pixellab/tesso/animations/walking/east/4.png",
+    "/pixellab/tesso/animations/walking/east/5.png",
+    "/pixellab/tesso/animations/walking/east/6.png"
+   ]
+  }
+ },
+ "atlas": [
+  "/pixellab/tesso/frames_0"
+ ]
+}
