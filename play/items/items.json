@@ -1287,6 +1287,198 @@
     5
    ],
    "scale": 0.85
+  },
+  "u_ninetail_mask": {
+   "name": {
+    "en": "Mask of the Nine Tails",
+    "th": "หน้ากากเก้าหาง"
+   },
+   "sprites": {
+    "south": "/items/u_ninetail_mask/south.png"
+   },
+   "slot": "headMid",
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "hide": [
+    "north",
+    "north-west"
+   ]
+  },
+  "u_kusanagi": {
+   "name": {
+    "en": "Kusanagi-no-Tsurugi",
+    "th": "คุซานางิโนะสึรุงิ"
+   },
+   "sprites": {
+    "north": "/items/u_kusanagi/north.png"
+   },
+   "slot": "weapon",
+   "anchor": "handR",
+   "origin": [
+    0.5,
+    0.86
+   ],
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "slash2h",
+   "scale": 0.55
+  },
+  "u_yorimasa_bow": {
+   "name": {
+    "en": "Yorimasa's Thunderbow",
+    "th": "ธนูอัสนีโยริมาสะ"
+   },
+   "sprites": {
+    "north": "/items/u_yorimasa_bow/north.png"
+   },
+   "slot": "weapon",
+   "anchor": "handR",
+   "origin": [
+    0.2,
+    0.5
+   ],
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "bow",
+   "scale": 1.25,
+   "string": {
+    "top": [
+     12.5,
+     2
+    ],
+    "bottom": [
+     12.5,
+     46
+    ],
+    "color": "#cfe8ff"
+   },
+   "hide": [
+    "north"
+   ]
+  },
+  "u_icicle_staff": {
+   "name": {
+    "en": "Icicle Staff",
+    "th": "ไม้เท้าน้ำแข็งย้อย"
+   },
+   "sprites": {
+    "north": "/items/u_icicle_staff/north.png"
+   },
+   "slot": "weapon",
+   "anchor": "handR",
+   "origin": [
+    0.5,
+    0.66
+   ],
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "staff",
+   "scale": 0.59
+  },
+  "u_mountain_bearer": {
+   "name": {
+    "en": "Mountain-Bearer",
+    "th": "ผู้แบกภูเขา"
+   },
+   "sprites": {
+    "north": "/items/u_mountain_bearer/north.png"
+   },
+   "slot": "weapon",
+   "anchor": "handR",
+   "origin": [
+    0.5,
+    0.86
+   ],
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "smash2h",
+   "scale": 0.55
+  },
+  "u_hundred_leg": {
+   "name": {
+    "en": "Hundred-Leg Spear",
+    "th": "หอกร้อยขา"
+   },
+   "sprites": {
+    "north": "/items/u_hundred_leg/north.png"
+   },
+   "slot": "weapon",
+   "anchor": "handR",
+   "origin": [
+    0.5,
+    0.62
+   ],
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "thrust",
+   "scale": 0.9
+  },
+  "u_hundred_banner": {
+   "name": {
+    "en": "Banner of the Hundred Demons",
+    "th": "ธงร้อยอสูร"
+   },
+   "sprites": {
+    "south": "/items/u_hundred_banner/south.png"
+   },
+   "slot": "shield",
+   "anchor": "handL",
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "scale": 0.75
+  },
+  "u_uninvited_guest": {
+   "name": {
+    "en": "The Uninvited Guest",
+    "th": "แขกไม่ได้รับเชิญ"
+   },
+   "sprites": {
+    "north": "/items/u_uninvited_guest/north.png"
+   },
+   "slot": "weapon",
+   "anchor": "handR",
+   "origin": [
+    0.5,
+    0.9
+   ],
+   "angle": {
+    "south": 200,
+    "south-east": 150,
+    "east": 140,
+    "north-east": 135,
+    "north": 150
+   },
+   "weaponType": "slash1h"
   }
  },
  "hairstyles": [

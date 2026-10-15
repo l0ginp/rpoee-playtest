@@ -202,8 +202,8 @@
   },
   "great_kanabo": {
    "frame": {
-    "x": 2,
-    "y": 38,
+    "x": 362,
+    "y": 2,
     "w": 32,
     "h": 32
    },
@@ -222,7 +222,7 @@
   },
   "growth": {
    "frame": {
-    "x": 38,
+    "x": 2,
     "y": 38,
     "w": 32,
     "h": 32
@@ -242,7 +242,7 @@
   },
   "hankyu": {
    "frame": {
-    "x": 74,
+    "x": 38,
     "y": 38,
     "w": 32,
     "h": 32
@@ -262,7 +262,7 @@
   },
   "herb": {
    "frame": {
-    "x": 110,
+    "x": 74,
     "y": 38,
     "w": 32,
     "h": 32
@@ -282,7 +282,7 @@
   },
   "ink": {
    "frame": {
-    "x": 146,
+    "x": 110,
     "y": 38,
     "w": 32,
     "h": 32
@@ -302,7 +302,7 @@
   },
   "iron_kabuto": {
    "frame": {
-    "x": 182,
+    "x": 146,
     "y": 38,
     "w": 32,
     "h": 32
@@ -322,7 +322,7 @@
   },
   "iron_kanabo": {
    "frame": {
-    "x": 218,
+    "x": 182,
     "y": 38,
     "w": 32,
     "h": 32
@@ -342,7 +342,7 @@
   },
   "iron_kote": {
    "frame": {
-    "x": 254,
+    "x": 218,
     "y": 38,
     "w": 32,
     "h": 32
@@ -362,7 +362,7 @@
   },
   "iron_short_sword": {
    "frame": {
-    "x": 290,
+    "x": 254,
     "y": 38,
     "w": 32,
     "h": 32
@@ -382,7 +382,7 @@
   },
   "jade_magatama": {
    "frame": {
-    "x": 326,
+    "x": 290,
     "y": 38,
     "w": 32,
     "h": 32
@@ -402,8 +402,8 @@
   },
   "jumonji_yari": {
    "frame": {
-    "x": 2,
-    "y": 74,
+    "x": 326,
+    "y": 38,
     "w": 32,
     "h": 32
    },
@@ -422,8 +422,8 @@
   },
   "kitsune_mask": {
    "frame": {
-    "x": 38,
-    "y": 74,
+    "x": 362,
+    "y": 38,
     "w": 32,
     "h": 32
    },
@@ -442,7 +442,7 @@
   },
   "kunai": {
    "frame": {
-    "x": 74,
+    "x": 2,
     "y": 74,
     "w": 32,
     "h": 32
@@ -462,7 +462,7 @@
   },
   "lacquered_do": {
    "frame": {
-    "x": 110,
+    "x": 38,
     "y": 74,
     "w": 32,
     "h": 32
@@ -482,7 +482,7 @@
   },
   "leather_belt": {
    "frame": {
-    "x": 146,
+    "x": 74,
     "y": 74,
     "w": 32,
     "h": 32
@@ -502,7 +502,7 @@
   },
   "leather_do": {
    "frame": {
-    "x": 182,
+    "x": 110,
     "y": 74,
     "w": 32,
     "h": 32
@@ -522,7 +522,7 @@
   },
   "manapot": {
    "frame": {
-    "x": 218,
+    "x": 146,
     "y": 74,
     "w": 32,
     "h": 32
@@ -542,7 +542,7 @@
   },
   "mino_cape": {
    "frame": {
-    "x": 254,
+    "x": 182,
     "y": 74,
     "w": 32,
     "h": 32
@@ -562,7 +562,7 @@
   },
   "mochi": {
    "frame": {
-    "x": 290,
+    "x": 218,
     "y": 74,
     "w": 32,
     "h": 32
@@ -582,7 +582,7 @@
   },
   "moonstone_ring": {
    "frame": {
-    "x": 326,
+    "x": 254,
     "y": 74,
     "w": 32,
     "h": 32
@@ -602,8 +602,8 @@
   },
   "nodachi": {
    "frame": {
-    "x": 2,
-    "y": 110,
+    "x": 290,
+    "y": 74,
     "w": 32,
     "h": 32
    },
@@ -622,8 +622,8 @@
   },
   "oak_staff": {
    "frame": {
-    "x": 38,
-    "y": 110,
+    "x": 326,
+    "y": 74,
     "w": 32,
     "h": 32
    },
@@ -642,8 +642,8 @@
   },
   "obi_sash": {
    "frame": {
-    "x": 74,
-    "y": 110,
+    "x": 362,
+    "y": 74,
     "w": 32,
     "h": 32
    },
@@ -662,7 +662,7 @@
   },
   "odachi": {
    "frame": {
-    "x": 110,
+    "x": 2,
     "y": 110,
     "w": 32,
     "h": 32
@@ -682,7 +682,7 @@
   },
   "oni_mask": {
    "frame": {
-    "x": 146,
+    "x": 38,
     "y": 110,
     "w": 32,
     "h": 32
@@ -702,7 +702,7 @@
   },
   "rusty_knife": {
    "frame": {
-    "x": 182,
+    "x": 74,
     "y": 110,
     "w": 32,
     "h": 32
@@ -722,7 +722,7 @@
   },
   "salt": {
    "frame": {
-    "x": 218,
+    "x": 110,
     "y": 110,
     "w": 32,
     "h": 32
@@ -742,7 +742,7 @@
   },
   "samue_robe": {
    "frame": {
-    "x": 254,
+    "x": 146,
     "y": 110,
     "w": 32,
     "h": 32
@@ -762,7 +762,7 @@
   },
   "seal": {
    "frame": {
-    "x": 290,
+    "x": 182,
     "y": 110,
     "w": 32,
     "h": 32
@@ -782,7 +782,7 @@
   },
   "sever": {
    "frame": {
-    "x": 326,
+    "x": 218,
     "y": 110,
     "w": 32,
     "h": 32
@@ -802,8 +802,8 @@
   },
   "shakujo": {
    "frame": {
-    "x": 2,
-    "y": 146,
+    "x": 254,
+    "y": 110,
     "w": 32,
     "h": 32
    },
@@ -822,8 +822,8 @@
   },
   "shifting": {
    "frame": {
-    "x": 38,
-    "y": 146,
+    "x": 290,
+    "y": 110,
     "w": 32,
     "h": 32
    },
@@ -842,8 +842,8 @@
   },
   "silk_haori": {
    "frame": {
-    "x": 74,
-    "y": 146,
+    "x": 326,
+    "y": 110,
     "w": 32,
     "h": 32
    },
@@ -862,8 +862,8 @@
   },
   "skillgem": {
    "frame": {
-    "x": 110,
-    "y": 146,
+    "x": 362,
+    "y": 110,
     "w": 32,
     "h": 32
    },
@@ -882,7 +882,7 @@
   },
   "straw_kasa": {
    "frame": {
-    "x": 146,
+    "x": 2,
     "y": 146,
     "w": 32,
     "h": 32
@@ -902,7 +902,7 @@
   },
   "straw_sandals": {
    "frame": {
-    "x": 182,
+    "x": 38,
     "y": 146,
     "w": 32,
     "h": 32
@@ -922,7 +922,7 @@
   },
   "tabi_boots": {
    "frame": {
-    "x": 218,
+    "x": 74,
     "y": 146,
     "w": 32,
     "h": 32
@@ -942,7 +942,7 @@
   },
   "tate_shield": {
    "frame": {
-    "x": 254,
+    "x": 110,
     "y": 146,
     "w": 32,
     "h": 32
@@ -962,7 +962,7 @@
   },
   "tetsubo": {
    "frame": {
-    "x": 290,
+    "x": 146,
     "y": 146,
     "w": 32,
     "h": 32
@@ -982,7 +982,47 @@
   },
   "u_bath_towel": {
    "frame": {
-    "x": 326,
+    "x": 182,
+    "y": 146,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_blackcloud_haori": {
+   "frame": {
+    "x": 218,
+    "y": 146,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_carapace_kote": {
+   "frame": {
+    "x": 254,
     "y": 146,
     "w": 32,
     "h": 32
@@ -1002,8 +1042,8 @@
   },
   "u_crow_crest": {
    "frame": {
-    "x": 2,
-    "y": 182,
+    "x": 290,
+    "y": 146,
     "w": 32,
     "h": 32
    },
@@ -1022,7 +1062,47 @@
   },
   "u_crow_mask": {
    "frame": {
-    "x": 38,
+    "x": 326,
+    "y": 146,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_eightfold_scale": {
+   "frame": {
+    "x": 362,
+    "y": 146,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_footprint_lakes": {
+   "frame": {
+    "x": 2,
     "y": 182,
     "w": 32,
     "h": 32
@@ -1042,7 +1122,7 @@
   },
   "u_frog_sandals": {
    "frame": {
-    "x": 74,
+    "x": 38,
     "y": 182,
     "w": 32,
     "h": 32
@@ -1062,7 +1142,87 @@
   },
   "u_gasha_skull": {
    "frame": {
+    "x": 74,
+    "y": 182,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_hidaka_obi": {
+   "frame": {
     "x": 110,
+    "y": 182,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_hundred_banner": {
+   "frame": {
+    "x": 146,
+    "y": 182,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_hundred_leg": {
+   "frame": {
+    "x": 182,
+    "y": 182,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_icicle_staff": {
+   "frame": {
+    "x": 218,
     "y": 182,
     "w": 32,
     "h": 32
@@ -1082,7 +1242,7 @@
   },
   "u_kama_fang": {
    "frame": {
-    "x": 146,
+    "x": 254,
     "y": 182,
     "w": 32,
     "h": 32
@@ -1102,7 +1262,7 @@
   },
   "u_kama_hood": {
    "frame": {
-    "x": 182,
+    "x": 290,
     "y": 182,
     "w": 32,
     "h": 32
@@ -1122,7 +1282,27 @@
   },
   "u_kappa_dish": {
    "frame": {
-    "x": 218,
+    "x": 326,
+    "y": 182,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_killing_stone": {
+   "frame": {
+    "x": 362,
     "y": 182,
     "w": 32,
     "h": 32
@@ -1142,8 +1322,8 @@
   },
   "u_kinoko_cap": {
    "frame": {
-    "x": 254,
-    "y": 182,
+    "x": 2,
+    "y": 218,
     "w": 32,
     "h": 32
    },
@@ -1162,8 +1342,48 @@
   },
   "u_kinoko_shield": {
    "frame": {
-    "x": 290,
-    "y": 182,
+    "x": 38,
+    "y": 218,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_kiyohime_jealousy": {
+   "frame": {
+    "x": 74,
+    "y": 218,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_kusanagi": {
+   "frame": {
+    "x": 110,
+    "y": 218,
     "w": 32,
     "h": 32
    },
@@ -1182,8 +1402,8 @@
   },
   "u_ladle_staff": {
    "frame": {
-    "x": 326,
-    "y": 182,
+    "x": 146,
+    "y": 218,
     "w": 32,
     "h": 32
    },
@@ -1202,7 +1422,7 @@
   },
   "u_lotus_robe": {
    "frame": {
-    "x": 2,
+    "x": 182,
     "y": 218,
     "w": 32,
     "h": 32
@@ -1222,7 +1442,7 @@
   },
   "u_matron_crown": {
    "frame": {
-    "x": 38,
+    "x": 218,
     "y": 218,
     "w": 32,
     "h": 32
@@ -1242,7 +1462,7 @@
   },
   "u_matron_mask": {
    "frame": {
-    "x": 74,
+    "x": 254,
     "y": 218,
     "w": 32,
     "h": 32
@@ -1262,7 +1482,47 @@
   },
   "u_moonbow": {
    "frame": {
-    "x": 110,
+    "x": 290,
+    "y": 218,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_mountain_bearer": {
+   "frame": {
+    "x": 326,
+    "y": 218,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_ninetail_mask": {
+   "frame": {
+    "x": 362,
     "y": 218,
     "w": 32,
     "h": 32
@@ -1282,126 +1542,6 @@
   },
   "u_oni_helm": {
    "frame": {
-    "x": 146,
-    "y": 218,
-    "w": 32,
-    "h": 32
-   },
-   "rotated": false,
-   "trimmed": false,
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 32,
-    "h": 32
-   },
-   "sourceSize": {
-    "w": 32,
-    "h": 32
-   }
-  },
-  "u_oni_kanabo": {
-   "frame": {
-    "x": 182,
-    "y": 218,
-    "w": 32,
-    "h": 32
-   },
-   "rotated": false,
-   "trimmed": false,
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 32,
-    "h": 32
-   },
-   "sourceSize": {
-    "w": 32,
-    "h": 32
-   }
-  },
-  "u_rainbell": {
-   "frame": {
-    "x": 218,
-    "y": 218,
-    "w": 32,
-    "h": 32
-   },
-   "rotated": false,
-   "trimmed": false,
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 32,
-    "h": 32
-   },
-   "sourceSize": {
-    "w": 32,
-    "h": 32
-   }
-  },
-  "u_rokuro_mask": {
-   "frame": {
-    "x": 254,
-    "y": 218,
-    "w": 32,
-    "h": 32
-   },
-   "rotated": false,
-   "trimmed": false,
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 32,
-    "h": 32
-   },
-   "sourceSize": {
-    "w": 32,
-    "h": 32
-   }
-  },
-  "u_rokuro_zukin": {
-   "frame": {
-    "x": 290,
-    "y": 218,
-    "w": 32,
-    "h": 32
-   },
-   "rotated": false,
-   "trimmed": false,
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 32,
-    "h": 32
-   },
-   "sourceSize": {
-    "w": 32,
-    "h": 32
-   }
-  },
-  "u_shuten_crown": {
-   "frame": {
-    "x": 326,
-    "y": 218,
-    "w": 32,
-    "h": 32
-   },
-   "rotated": false,
-   "trimmed": false,
-   "spriteSourceSize": {
-    "x": 0,
-    "y": 0,
-    "w": 32,
-    "h": 32
-   },
-   "sourceSize": {
-    "w": 32,
-    "h": 32
-   }
-  },
-  "u_shuten_tetsubo": {
-   "frame": {
     "x": 2,
     "y": 254,
     "w": 32,
@@ -1420,7 +1560,7 @@
     "h": 32
    }
   },
-  "u_silk_spear": {
+  "u_oni_kanabo": {
    "frame": {
     "x": 38,
     "y": 254,
@@ -1440,7 +1580,7 @@
     "h": 32
    }
   },
-  "u_tanuki_leaf": {
+  "u_rainbell": {
    "frame": {
     "x": 74,
     "y": 254,
@@ -1460,7 +1600,7 @@
     "h": 32
    }
   },
-  "u_tengu_mask": {
+  "u_rokuro_mask": {
    "frame": {
     "x": 110,
     "y": 254,
@@ -1480,7 +1620,7 @@
     "h": 32
    }
   },
-  "u_tengu_tokin": {
+  "u_rokuro_zukin": {
    "frame": {
     "x": 146,
     "y": 254,
@@ -1500,7 +1640,7 @@
     "h": 32
    }
   },
-  "u_toad_crown": {
+  "u_shuten_crown": {
    "frame": {
     "x": 182,
     "y": 254,
@@ -1520,7 +1660,7 @@
     "h": 32
    }
   },
-  "u_toad_tongue": {
+  "u_shuten_tetsubo": {
    "frame": {
     "x": 218,
     "y": 254,
@@ -1540,7 +1680,7 @@
     "h": 32
    }
   },
-  "u_web_crown": {
+  "u_silk_spear": {
    "frame": {
     "x": 254,
     "y": 254,
@@ -1560,7 +1700,7 @@
     "h": 32
    }
   },
-  "wakizashi": {
+  "u_snow_shroud": {
    "frame": {
     "x": 290,
     "y": 254,
@@ -1580,7 +1720,7 @@
     "h": 32
    }
   },
-  "wooden_buckler": {
+  "u_tanuki_leaf": {
    "frame": {
     "x": 326,
     "y": 254,
@@ -1600,7 +1740,27 @@
     "h": 32
    }
   },
-  "wooden_club": {
+  "u_tengu_mask": {
+   "frame": {
+    "x": 362,
+    "y": 254,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_tengu_tokin": {
    "frame": {
     "x": 2,
     "y": 290,
@@ -1620,7 +1780,7 @@
     "h": 32
    }
   },
-  "yumi": {
+  "u_toad_crown": {
    "frame": {
     "x": 38,
     "y": 290,
@@ -1640,9 +1800,169 @@
     "h": 32
    }
   },
-  "zeny": {
+  "u_toad_tongue": {
    "frame": {
     "x": 74,
+    "y": 290,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_uninvited_guest": {
+   "frame": {
+    "x": 110,
+    "y": 290,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_web_crown": {
+   "frame": {
+    "x": 146,
+    "y": 290,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "u_yorimasa_bow": {
+   "frame": {
+    "x": 182,
+    "y": 290,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "wakizashi": {
+   "frame": {
+    "x": 218,
+    "y": 290,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "wooden_buckler": {
+   "frame": {
+    "x": 254,
+    "y": 290,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "wooden_club": {
+   "frame": {
+    "x": 290,
+    "y": 290,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "yumi": {
+   "frame": {
+    "x": 326,
+    "y": 290,
+    "w": 32,
+    "h": 32
+   },
+   "rotated": false,
+   "trimmed": false,
+   "spriteSourceSize": {
+    "x": 0,
+    "y": 0,
+    "w": 32,
+    "h": 32
+   },
+   "sourceSize": {
+    "w": 32,
+    "h": 32
+   }
+  },
+  "zeny": {
+   "frame": {
+    "x": 362,
     "y": 290,
     "w": 32,
     "h": 32
@@ -1664,7 +1984,7 @@
  "meta": {
   "image": "icons.png",
   "size": {
-   "w": 377,
+   "w": 411,
    "h": 324
   },
   "scale": "1"
