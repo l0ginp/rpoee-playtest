@@ -1,0 +1,3972 @@
+{
+ "slash1h": {
+  "north": [
+   {
+    "grip": [
+     56.8,
+     59.9
+    ],
+    "angle": 105.1,
+    "len": 40.8,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     56.8,
+     59.9
+    ],
+    "angle": 105.1,
+    "len": 40.8,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     56.8,
+     59.9
+    ],
+    "angle": 105.1,
+    "len": 40.8,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     56.8,
+     59.9
+    ],
+    "angle": 105.1,
+    "len": 40.8,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     53.0,
+     61.5
+    ],
+    "angle": 85.0,
+    "len": 35.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     69.8,
+     80.3
+    ],
+    "angle": -82.8,
+    "len": 52.6,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     20.8,
+     75.5
+    ],
+    "angle": -14.1,
+    "len": 30.1,
+    "front": false,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     53.0,
+     61.5
+    ],
+    "angle": 85.0,
+    "len": 35.2,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     53.0,
+     61.5
+    ],
+    "angle": 85.0,
+    "len": 35.2,
+    "front": false,
+    "visible": true,
+    "sure": false
+   }
+  ],
+  "south-east": [
+   {
+    "grip": [
+     28.9,
+     47.1
+    ],
+    "angle": -55.2,
+    "len": 19.4,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     68.9,
+     41.7
+    ],
+    "angle": 14.3,
+    "len": 13.3,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     28.9,
+     47.1
+    ],
+    "angle": -55.2,
+    "len": 19.4,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     39.9,
+     36.0
+    ],
+    "angle": -120.2,
+    "len": 12.0,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     28.9,
+     47.1
+    ],
+    "angle": -55.2,
+    "len": 19.4,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     39.1,
+     61.8
+    ],
+    "angle": 117.2,
+    "len": 45.2,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     85.5,
+     43.9
+    ],
+    "angle": 151.4,
+    "len": 18.7,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     82.5,
+     66.5
+    ],
+    "angle": 109.2,
+    "len": 21.2,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     68.4,
+     75.5
+    ],
+    "angle": 139.6,
+    "len": 16.4,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "south": [
+   {
+    "grip": [
+     65.9,
+     62.4
+    ],
+    "angle": -87.2,
+    "len": 38.2,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     65.9,
+     62.4
+    ],
+    "angle": -87.2,
+    "len": 38.2,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     65.9,
+     62.4
+    ],
+    "angle": -87.2,
+    "len": 38.2,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     39.3,
+     41.3
+    ],
+    "angle": 11.7,
+    "len": 26.1,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     28.9,
+     50.3
+    ],
+    "angle": -5.3,
+    "len": 30.9,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     65.9,
+     62.4
+    ],
+    "angle": -87.2,
+    "len": 38.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     64.0,
+     63.5
+    ],
+    "angle": 94.8,
+    "len": 22.1,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     49.0,
+     71.9
+    ],
+    "angle": 68.1,
+    "len": 42.2,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     64.0,
+     63.5
+    ],
+    "angle": 94.8,
+    "len": 22.1,
+    "front": false,
+    "visible": true,
+    "sure": false
+   }
+  ],
+  "east": [
+   {
+    "grip": [
+     69.5,
+     62.5
+    ],
+    "angle": -160.5,
+    "len": 25.6,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     69.5,
+     62.5
+    ],
+    "angle": -160.5,
+    "len": 25.6,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     69.5,
+     62.5
+    ],
+    "angle": -160.5,
+    "len": 25.6,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     58.9,
+     47.8
+    ],
+    "angle": 96.2,
+    "len": 33.5,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     69.5,
+     62.5
+    ],
+    "angle": -160.5,
+    "len": 25.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     58.3,
+     66.6
+    ],
+    "angle": -64.8,
+    "len": 39.4,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     48.1,
+     55.0
+    ],
+    "angle": -96.3,
+    "len": 29.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     67.5,
+     53.3
+    ],
+    "angle": -104.6,
+    "len": 26.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     61.1,
+     64.9
+    ],
+    "angle": 50.8,
+    "len": 28.1,
+    "front": true,
+    "sure": false,
+    "visible": true
+   }
+  ],
+  "north-east": [
+   {
+    "grip": [
+     75.9,
+     48.2
+    ],
+    "angle": -11.2,
+    "len": 24.5,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     75.9,
+     48.2
+    ],
+    "angle": -11.2,
+    "len": 24.5,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     75.9,
+     48.2
+    ],
+    "angle": -11.2,
+    "len": 24.5,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     75.9,
+     48.2
+    ],
+    "angle": -11.2,
+    "len": 24.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     74.9,
+     60.5
+    ],
+    "angle": 95.6,
+    "len": 19.1,
+    "front": false,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     59.6,
+     68.7
+    ],
+    "angle": 96.2,
+    "len": 33.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     46.1,
+     68.0
+    ],
+    "angle": -86.1,
+    "len": 27.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     49.0,
+     62.3
+    ],
+    "angle": -90.8,
+    "len": 25.0,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     70.1,
+     57.3
+    ],
+    "angle": 73.3,
+    "len": 20.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ]
+ },
+ "slash2h": {
+  "east": [
+   {
+    "grip": [
+     70.7,
+     57.8
+    ],
+    "angle": 47.1,
+    "len": 27.6,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     70.7,
+     57.8
+    ],
+    "angle": 47.1,
+    "len": 27.6,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     70.7,
+     57.8
+    ],
+    "angle": 47.1,
+    "len": 27.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     48.4,
+     35.0
+    ],
+    "angle": -68.8,
+    "len": 37.1,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     45.9,
+     36.2
+    ],
+    "angle": -76.7,
+    "len": 35.1,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     45.8,
+     36.7
+    ],
+    "angle": -76.6,
+    "len": 34.9,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     45.6,
+     36.5
+    ],
+    "angle": -76.9,
+    "len": 34.6,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     45.6,
+     36.5
+    ],
+    "angle": -76.9,
+    "len": 34.6,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     46.3,
+     35.1
+    ],
+    "angle": -74.0,
+    "len": 32.8,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     67.2,
+     63.6
+    ],
+    "angle": 116.8,
+    "len": 32.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     69.0,
+     64.9
+    ],
+    "angle": 110.4,
+    "len": 28.8,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "south-east": [
+   {
+    "grip": [
+     55.7,
+     48.3
+    ],
+    "angle": -85.7,
+    "len": 42.8,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     55.7,
+     48.3
+    ],
+    "angle": -85.7,
+    "len": 42.8,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     55.7,
+     48.3
+    ],
+    "angle": -85.7,
+    "len": 42.8,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     92.8,
+     73.2
+    ],
+    "angle": -46.4,
+    "len": 84.3,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     53.7,
+     56.2
+    ],
+    "angle": -66.4,
+    "len": 43.5,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     55.7,
+     48.3
+    ],
+    "angle": -85.7,
+    "len": 42.8,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     59.2,
+     48.0
+    ],
+    "angle": -78.1,
+    "len": 40.2,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     56.5,
+     42.2
+    ],
+    "angle": -103.6,
+    "len": 39.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     52.3,
+     51.0
+    ],
+    "angle": -104.3,
+    "len": 36.7,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     17.8,
+     59.1
+    ],
+    "angle": 78.5,
+    "len": 77.7,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     56.5,
+     67.8
+    ],
+    "angle": 83.5,
+    "len": 38.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "north-east": [
+   null,
+   {
+    "grip": [
+     37.7,
+     41.8
+    ],
+    "angle": 31.2,
+    "len": 3.6,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     66.8,
+     67.3
+    ],
+    "angle": -50.8,
+    "len": 42.6,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     74.4,
+     48.9
+    ],
+    "angle": 110.6,
+    "len": 30.7,
+    "front": false,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     48.1,
+     29.5
+    ],
+    "angle": -110.1,
+    "len": 39.5,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     49.0,
+     34.0
+    ],
+    "angle": -45.0,
+    "len": 4.2,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     73.6,
+     24.6
+    ],
+    "angle": -104.0,
+    "len": 62.6,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     45.0,
+     24.2
+    ],
+    "angle": -89.1,
+    "len": 22.0,
+    "front": false,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     48.6,
+     27.1
+    ],
+    "angle": -50.9,
+    "len": 21.7,
+    "front": false,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     63.8,
+     73.6
+    ],
+    "angle": 34.6,
+    "len": 53.8,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     84.8,
+     29.2
+    ],
+    "angle": 135.0,
+    "len": 2.8,
+    "front": false,
+    "sure": false,
+    "visible": true
+   }
+  ],
+  "south": [
+   {
+    "grip": [
+     52.0,
+     55.4
+    ],
+    "angle": -90.6,
+    "len": 7.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     52.0,
+     55.4
+    ],
+    "angle": -90.6,
+    "len": 7.0,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     52.0,
+     55.4
+    ],
+    "angle": -90.6,
+    "len": 7.0,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     52.0,
+     55.4
+    ],
+    "angle": -90.6,
+    "len": 7.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     78.5,
+     95.4
+    ],
+    "angle": -41.7,
+    "len": 85.6,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     67.5,
+     64.8
+    ],
+    "angle": -108.8,
+    "len": 50.3,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     50.4,
+     65.1
+    ],
+    "angle": -119.9,
+    "len": 13.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     20.1,
+     57.6
+    ],
+    "angle": 107.6,
+    "len": 74.6,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     45.7,
+     77.9
+    ],
+    "angle": -195.3,
+    "len": 13.5,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     43.4,
+     84.3
+    ],
+    "angle": -233.1,
+    "len": 13.5,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     41.0,
+     90.7
+    ],
+    "angle": 89.2,
+    "len": 28.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "north": [
+   {
+    "grip": [
+     46.5,
+     38.2
+    ],
+    "angle": 128.1,
+    "len": 43.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     46.5,
+     38.2
+    ],
+    "angle": 128.1,
+    "len": 43.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     46.5,
+     38.2
+    ],
+    "angle": 128.1,
+    "len": 43.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     48.9,
+     68.2
+    ],
+    "angle": 21.6,
+    "len": 40.9,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     46.5,
+     38.2
+    ],
+    "angle": 128.1,
+    "len": 43.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     54.8,
+     58.0
+    ],
+    "angle": 84.8,
+    "len": 38.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     55.0,
+     59.9
+    ],
+    "angle": 81.9,
+    "len": 38.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     55.0,
+     59.8
+    ],
+    "angle": 82.5,
+    "len": 39.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     54.8,
+     55.7
+    ],
+    "angle": 79.4,
+    "len": 26.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     48.5,
+     56.6
+    ],
+    "angle": 48.3,
+    "len": 40.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     67.9,
+     63.1
+    ],
+    "angle": -43.0,
+    "len": 35.3,
+    "front": true,
+    "sure": false,
+    "visible": true
+   }
+  ]
+ },
+ "stab": {
+  "north": [
+   {
+    "grip": [
+     73.6,
+     64.6
+    ],
+    "angle": 175.6,
+    "len": 25.1,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     73.6,
+     64.6
+    ],
+    "angle": 175.6,
+    "len": 25.1,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     73.6,
+     64.6
+    ],
+    "angle": 175.6,
+    "len": 25.1,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     68.4,
+     66.7
+    ],
+    "angle": 209.4,
+    "len": 25.1,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     63.3,
+     68.7
+    ],
+    "angle": -116.8,
+    "len": 17.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     61.5,
+     68.5
+    ],
+    "angle": 115.1,
+    "len": 17.4,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     44.5,
+     89.8
+    ],
+    "angle": -44.8,
+    "len": 14.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     36.2,
+     63.0
+    ],
+    "angle": 93.9,
+    "len": 14.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     34.0,
+     62.0
+    ],
+    "angle": 72.4,
+    "len": 12.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "south": [
+   {
+    "grip": [
+     78.1,
+     63.2
+    ],
+    "angle": -110.1,
+    "len": 9.9,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     78.1,
+     63.2
+    ],
+    "angle": -110.1,
+    "len": 9.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     72.5,
+     65.5
+    ],
+    "angle": -29.1,
+    "len": 11.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     53.7,
+     58.2
+    ],
+    "angle": -26.5,
+    "len": 8.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     39.9,
+     56.3
+    ],
+    "angle": 88.2,
+    "len": 59.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     50.6,
+     61.1
+    ],
+    "angle": -66.0,
+    "len": 37.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     67.5,
+     93.8
+    ],
+    "angle": -59.8,
+    "len": 48.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     71.3,
+     79.2
+    ],
+    "angle": -109.0,
+    "len": 48.3,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     75.2,
+     64.5
+    ],
+    "angle": -158.3,
+    "len": 10.4,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "east": [
+   {
+    "grip": [
+     63.3,
+     65.3
+    ],
+    "angle": -157.2,
+    "len": 13.2,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     63.3,
+     65.3
+    ],
+    "angle": -157.2,
+    "len": 13.2,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     63.3,
+     65.3
+    ],
+    "angle": -157.2,
+    "len": 13.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     70.9,
+     59.1
+    ],
+    "angle": 117.7,
+    "len": 11.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     73.5,
+     61.8
+    ],
+    "angle": 124.2,
+    "len": 14.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     73.5,
+     61.8
+    ],
+    "angle": 124.9,
+    "len": 14.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     73.5,
+     61.7
+    ],
+    "angle": 125.0,
+    "len": 14.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     66.0,
+     60.7
+    ],
+    "angle": 67.1,
+    "len": 14.2,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     58.6,
+     59.6
+    ],
+    "angle": 9.2,
+    "len": 18.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "south-east": [
+   {
+    "grip": [
+     79.3,
+     60.6
+    ],
+    "angle": 174.5,
+    "len": 31.1,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     79.3,
+     60.6
+    ],
+    "angle": 174.5,
+    "len": 31.1,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     79.3,
+     60.6
+    ],
+    "angle": 174.5,
+    "len": 31.1,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     79.3,
+     60.6
+    ],
+    "angle": 174.5,
+    "len": 31.1,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     79.9,
+     63.7
+    ],
+    "angle": 179.2,
+    "len": 31.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     80.1,
+     62.4
+    ],
+    "angle": 176.0,
+    "len": 31.1,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     53.6,
+     76.0
+    ],
+    "angle": -115.0,
+    "len": 23.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     41.0,
+     57.2
+    ],
+    "angle": -162.6,
+    "len": 31.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     31.0,
+     55.6
+    ],
+    "angle": -168.1,
+    "len": 31.8,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "north-east": [
+   {
+    "grip": [
+     62.0,
+     34.0
+    ],
+    "angle": 106.7,
+    "len": 10.7,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     62.0,
+     34.0
+    ],
+    "angle": 106.7,
+    "len": 10.7,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     71.1,
+     45.1
+    ],
+    "angle": -22.1,
+    "len": 18.4,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     76.6,
+     51.9
+    ],
+    "angle": 0.6,
+    "len": 19.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     76.1,
+     56.4
+    ],
+    "angle": -171.6,
+    "len": 15.4,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     76.5,
+     58.5
+    ],
+    "angle": 20.3,
+    "len": 18.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     71.1,
+     59.1
+    ],
+    "angle": 20.8,
+    "len": 9.8,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     53.5,
+     61.5
+    ],
+    "angle": -2.2,
+    "len": 9.8,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     36.0,
+     64.0
+    ],
+    "angle": -25.2,
+    "len": 17.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ]
+ },
+ "smash1h": {
+  "north-east": [
+   {
+    "grip": [
+     45.6,
+     62.3
+    ],
+    "angle": 60.2,
+    "len": 47.5,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     45.6,
+     62.3
+    ],
+    "angle": 60.2,
+    "len": 47.5,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     45.6,
+     62.3
+    ],
+    "angle": 60.2,
+    "len": 47.5,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     45.6,
+     62.3
+    ],
+    "angle": 60.2,
+    "len": 47.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     48.0,
+     61.2
+    ],
+    "angle": 91.3,
+    "len": 44.0,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     66.7,
+     63.8
+    ],
+    "angle": 110.6,
+    "len": 26.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     66.9,
+     63.4
+    ],
+    "angle": 104.4,
+    "len": 27.9,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     66.7,
+     63.8
+    ],
+    "angle": 110.6,
+    "len": 26.0,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     88.2,
+     41.3
+    ],
+    "angle": -126.2,
+    "len": 66.6,
+    "front": true,
+    "sure": false,
+    "visible": true
+   }
+  ],
+  "east": [
+   null,
+   {
+    "grip": [
+     25.0,
+     53.1
+    ],
+    "angle": -16.6,
+    "len": 32.2,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     19.2,
+     46.3
+    ],
+    "angle": 19.1,
+    "len": 31.0,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     69.9,
+     83.4
+    ],
+    "angle": 79.0,
+    "len": 25.3,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     73.1,
+     85.0
+    ],
+    "angle": 43.7,
+    "len": 31.8,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     70.8,
+     85.9
+    ],
+    "angle": 47.4,
+    "len": 31.1,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     70.1,
+     86.3
+    ],
+    "angle": 48.3,
+    "len": 31.9,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     81.3,
+     80.5
+    ],
+    "angle": 24.7,
+    "len": 27.2,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     85.1,
+     75.0
+    ],
+    "angle": 14.0,
+    "len": 26.9,
+    "front": true,
+    "sure": false,
+    "visible": true
+   }
+  ],
+  "south-east": [
+   {
+    "grip": [
+     81.0,
+     90.4
+    ],
+    "angle": -90.0,
+    "len": 6.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     81.0,
+     90.4
+    ],
+    "angle": -90.0,
+    "len": 6.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     81.0,
+     90.4
+    ],
+    "angle": -90.0,
+    "len": 6.0,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     71.9,
+     82.0
+    ],
+    "angle": 165.2,
+    "len": 7.5,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     81.0,
+     90.4
+    ],
+    "angle": -90.0,
+    "len": 6.0,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     78.7,
+     88.0
+    ],
+    "angle": 177.7,
+    "len": 5.1,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     81.0,
+     90.4
+    ],
+    "angle": -90.0,
+    "len": 6.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     81.0,
+     90.4
+    ],
+    "angle": -90.0,
+    "len": 6.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     81.0,
+     90.4
+    ],
+    "angle": -90.0,
+    "len": 6.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   }
+  ],
+  "south": [
+   {
+    "grip": [
+     51.7,
+     56.1
+    ],
+    "angle": -24.2,
+    "len": 5.8,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     51.7,
+     56.1
+    ],
+    "angle": -24.2,
+    "len": 5.8,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     55.4,
+     55.2
+    ],
+    "angle": -60.4,
+    "len": 9.4,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     51.7,
+     56.1
+    ],
+    "angle": -24.2,
+    "len": 5.8,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     36.6,
+     30.6
+    ],
+    "angle": -165.7,
+    "len": 60.2,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     49.4,
+     79.0
+    ],
+    "angle": -95.9,
+    "len": 26.8,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     41.6,
+     86.1
+    ],
+    "angle": -72.1,
+    "len": 17.4,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     46.7,
+     84.1
+    ],
+    "angle": 47.2,
+    "len": 5.8,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     45.5,
+     91.1
+    ],
+    "angle": 65.1,
+    "len": 4.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "north": [
+   {
+    "grip": [
+     33.0,
+     67.6
+    ],
+    "angle": 90.0,
+    "len": 58.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     33.0,
+     67.6
+    ],
+    "angle": 90.0,
+    "len": 58.0,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     33.0,
+     67.6
+    ],
+    "angle": 90.0,
+    "len": 58.0,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     33.0,
+     67.6
+    ],
+    "angle": 90.0,
+    "len": 58.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     77.0,
+     69.5
+    ],
+    "angle": -90.0,
+    "len": 60.0,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     46.5,
+     68.4
+    ],
+    "angle": -100.6,
+    "len": 33.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     49.3,
+     67.7
+    ],
+    "angle": -101.2,
+    "len": 35.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     49.3,
+     67.7
+    ],
+    "angle": -101.2,
+    "len": 35.5,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     49.3,
+     67.7
+    ],
+    "angle": -101.2,
+    "len": 35.5,
+    "front": false,
+    "visible": true,
+    "sure": false
+   }
+  ]
+ },
+ "smash2h": {
+  "south": [
+   {
+    "grip": [
+     47.7,
+     92.1
+    ],
+    "angle": 9.9,
+    "len": 3.3,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     47.7,
+     92.1
+    ],
+    "angle": 9.9,
+    "len": 3.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     48.1,
+     92.0
+    ],
+    "angle": -10.9,
+    "len": 3.1,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     74.4,
+     30.0
+    ],
+    "angle": -0.6,
+    "len": 14.0,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     47.1,
+     92.3
+    ],
+    "angle": 63.2,
+    "len": 57.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     94.3,
+     56.8
+    ],
+    "angle": -8.7,
+    "len": 22.2,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     90.1,
+     45.5
+    ],
+    "angle": -25.5,
+    "len": 32.7,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     78.9,
+     27.5
+    ],
+    "angle": -62.0,
+    "len": 30.9,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     46.6,
+     65.8
+    ],
+    "angle": 158.6,
+    "len": 3.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     55.7,
+     64.9
+    ],
+    "angle": -70.7,
+    "len": 6.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     34.1,
+     98.2
+    ],
+    "angle": -55.4,
+    "len": 26.3,
+    "front": true,
+    "sure": false,
+    "visible": true
+   }
+  ],
+  "north-east": [
+   {
+    "grip": [
+     78.6,
+     25.7
+    ],
+    "angle": -76.0,
+    "len": 15.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     78.6,
+     25.7
+    ],
+    "angle": -76.0,
+    "len": 15.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     40.0,
+     22.6
+    ],
+    "angle": 77.4,
+    "len": 20.8,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     17.8,
+     46.2
+    ],
+    "angle": 33.9,
+    "len": 26.9,
+    "front": false,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     21.6,
+     64.1
+    ],
+    "angle": -13.0,
+    "len": 22.3,
+    "front": false,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     21.7,
+     57.6
+    ],
+    "angle": 5.4,
+    "len": 25.4,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     21.8,
+     39.1
+    ],
+    "angle": 48.7,
+    "len": 17.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     21.8,
+     39.1
+    ],
+    "angle": 48.7,
+    "len": 17.3,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     76.9,
+     21.0
+    ],
+    "angle": 159.0,
+    "len": 54.6,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     92.6,
+     57.2
+    ],
+    "angle": -169.3,
+    "len": 25.5,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     91.9,
+     52.5
+    ],
+    "angle": -174.7,
+    "len": 27.3,
+    "front": true,
+    "sure": false,
+    "visible": true
+   }
+  ],
+  "east": [
+   {
+    "grip": [
+     67.1,
+     55.8
+    ],
+    "angle": 49.4,
+    "len": 35.5,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     67.1,
+     55.8
+    ],
+    "angle": 49.4,
+    "len": 35.5,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     67.1,
+     55.8
+    ],
+    "angle": 49.4,
+    "len": 35.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     21.4,
+     44.4
+    ],
+    "angle": 18.8,
+    "len": 29.4,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     19.5,
+     56.1
+    ],
+    "angle": -0.7,
+    "len": 29.0,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     20.3,
+     57.0
+    ],
+    "angle": -0.6,
+    "len": 30.0,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     20.7,
+     52.9
+    ],
+    "angle": 1.0,
+    "len": 29.0,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     22.2,
+     42.4
+    ],
+    "angle": 22.9,
+    "len": 29.5,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     68.7,
+     73.0
+    ],
+    "angle": 79.5,
+    "len": 31.2,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     65.3,
+     76.0
+    ],
+    "angle": 98.4,
+    "len": 32.1,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     65.2,
+     75.0
+    ],
+    "angle": 98.7,
+    "len": 32.2,
+    "front": true,
+    "sure": false,
+    "visible": true
+   }
+  ],
+  "north": [
+   null,
+   null,
+   {
+    "grip": [
+     44.3,
+     20.8
+    ],
+    "angle": 79.8,
+    "len": 16.8,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     81.6,
+     58.0
+    ],
+    "angle": 0.4,
+    "len": 21.0,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     90.5,
+     60.6
+    ],
+    "angle": -157.0,
+    "len": 21.9,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     69.4,
+     22.4
+    ],
+    "angle": 125.6,
+    "len": 22.1,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     45.0,
+     14.8
+    ],
+    "angle": 107.0,
+    "len": 45.5,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     9.8,
+     42.1
+    ],
+    "angle": 70.5,
+    "len": 77.7,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     25.1,
+     80.9
+    ],
+    "angle": -24.1,
+    "len": 21.9,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     17.5,
+     67.5
+    ],
+    "angle": 99.9,
+    "len": 73.9,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     80.7,
+     83.0
+    ],
+    "angle": 28.7,
+    "len": 21.6,
+    "front": true,
+    "sure": false,
+    "visible": true
+   }
+  ],
+  "south-east": [
+   {
+    "grip": [
+     71.9,
+     91.2
+    ],
+    "angle": -69.3,
+    "len": 5.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     71.9,
+     91.2
+    ],
+    "angle": -69.3,
+    "len": 5.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     71.9,
+     91.2
+    ],
+    "angle": -69.3,
+    "len": 5.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     43.3,
+     22.3
+    ],
+    "angle": 85.0,
+    "len": 42.5,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     20.4,
+     47.0
+    ],
+    "angle": 34.3,
+    "len": 34.2,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     19.6,
+     55.9
+    ],
+    "angle": 16.1,
+    "len": 33.2,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     19.7,
+     61.4
+    ],
+    "angle": 7.9,
+    "len": 32.9,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     32.0,
+     30.7
+    ],
+    "angle": 68.0,
+    "len": 42.5,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     80.0,
+     102.1
+    ],
+    "angle": 29.6,
+    "len": 48.4,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     100.8,
+     68.8
+    ],
+    "angle": -147.2,
+    "len": 39.9,
+    "front": true,
+    "sure": false,
+    "visible": true
+   },
+   {
+    "grip": [
+     101.1,
+     69.7
+    ],
+    "angle": -143.7,
+    "len": 44.0,
+    "front": true,
+    "sure": false,
+    "visible": true
+   }
+  ]
+ },
+ "thrust": {
+  "east": [
+   {
+    "grip": [
+     56.9,
+     68.6
+    ],
+    "angle": 62.0,
+    "len": 17.1,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     56.9,
+     68.6
+    ],
+    "angle": 62.0,
+    "len": 17.1,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     56.9,
+     68.6
+    ],
+    "angle": 62.0,
+    "len": 17.1,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     56.9,
+     68.6
+    ],
+    "angle": 62.0,
+    "len": 17.1,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     63.8,
+     67.8
+    ],
+    "angle": 94.0,
+    "len": 17.1,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     70.8,
+     66.9
+    ],
+    "angle": 126.0,
+    "len": 15.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     66.7,
+     64.7
+    ],
+    "angle": 130.1,
+    "len": 16.8,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     70.0,
+     64.4
+    ],
+    "angle": 120.0,
+    "len": 17.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     52.3,
+     88.3
+    ],
+    "angle": 90.3,
+    "len": 14.7,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "north": [
+   {
+    "grip": [
+     60.3,
+     49.1
+    ],
+    "angle": -51.0,
+    "len": 42.3,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     60.3,
+     49.1
+    ],
+    "angle": -51.0,
+    "len": 42.3,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     60.3,
+     49.1
+    ],
+    "angle": -51.0,
+    "len": 42.3,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     60.3,
+     49.1
+    ],
+    "angle": -51.0,
+    "len": 42.3,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     60.3,
+     49.1
+    ],
+    "angle": -51.0,
+    "len": 42.3,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     60.3,
+     49.1
+    ],
+    "angle": -51.0,
+    "len": 42.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     55.5,
+     49.2
+    ],
+    "angle": -64.8,
+    "len": 44.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     54.1,
+     48.2
+    ],
+    "angle": -65.1,
+    "len": 28.8,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     44.3,
+     43.0
+    ],
+    "angle": -64.3,
+    "len": 18.1,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "north-east": [
+   {
+    "grip": [
+     66.0,
+     34.3
+    ],
+    "angle": 33.8,
+    "len": 10.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     66.0,
+     34.3
+    ],
+    "angle": 33.8,
+    "len": 10.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     74.6,
+     41.1
+    ],
+    "angle": 90.8,
+    "len": 14.4,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     88.1,
+     60.7
+    ],
+    "angle": 44.8,
+    "len": 12.4,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     57.3,
+     54.2
+    ],
+    "angle": 113.2,
+    "len": 40.7,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     60.0,
+     55.2
+    ],
+    "angle": 114.7,
+    "len": 38.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     85.9,
+     58.1
+    ],
+    "angle": 132.2,
+    "len": 14.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     84.9,
+     36.9
+    ],
+    "angle": 138.6,
+    "len": 15.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     75.9,
+     25.6
+    ],
+    "angle": 120.3,
+    "len": 12.7,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "south-east": [
+   {
+    "grip": [
+     43.0,
+     95.0
+    ],
+    "angle": 152.0,
+    "len": 4.9,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     43.0,
+     95.0
+    ],
+    "angle": 152.0,
+    "len": 4.9,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     43.0,
+     95.0
+    ],
+    "angle": 152.0,
+    "len": 4.9,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     43.0,
+     95.0
+    ],
+    "angle": 152.0,
+    "len": 4.9,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     43.0,
+     95.0
+    ],
+    "angle": 152.0,
+    "len": 4.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     59.3,
+     60.7
+    ],
+    "angle": 33.6,
+    "len": 14.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     49.0,
+     65.1
+    ],
+    "angle": 59.3,
+    "len": 9.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     49.3,
+     67.4
+    ],
+    "angle": 61.7,
+    "len": 9.8,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     55.9,
+     65.9
+    ],
+    "angle": 38.9,
+    "len": 29.1,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "south": [
+   {
+    "grip": [
+     57.9,
+     56.9
+    ],
+    "angle": 130.2,
+    "len": 9.9,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     57.9,
+     56.9
+    ],
+    "angle": 130.2,
+    "len": 9.9,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     57.9,
+     56.9
+    ],
+    "angle": 130.2,
+    "len": 9.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     54.3,
+     58.5
+    ],
+    "angle": 102.3,
+    "len": 6.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     58.9,
+     57.1
+    ],
+    "angle": 132.9,
+    "len": 12.7,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     42.0,
+     46.1
+    ],
+    "angle": 131.4,
+    "len": 59.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     41.8,
+     44.7
+    ],
+    "angle": 133.7,
+    "len": 61.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     52.7,
+     53.0
+    ],
+    "angle": 142.7,
+    "len": 20.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     76.9,
+     72.8
+    ],
+    "angle": 168.8,
+    "len": 10.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ]
+ },
+ "bow": {
+  "north-east": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "east": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "north": [
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ],
+  "south": [
+   {
+    "grip": [
+     62.0,
+     26.0
+    ],
+    "angle": 177.4,
+    "len": 22.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     62.0,
+     26.0
+    ],
+    "angle": 177.4,
+    "len": 22.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     62.0,
+     26.0
+    ],
+    "angle": 177.4,
+    "len": 22.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     62.0,
+     26.0
+    ],
+    "angle": 177.4,
+    "len": 22.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     62.0,
+     26.0
+    ],
+    "angle": 177.4,
+    "len": 22.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     62.0,
+     26.0
+    ],
+    "angle": 177.4,
+    "len": 22.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     62.0,
+     26.0
+    ],
+    "angle": 177.4,
+    "len": 22.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     65.0,
+     29.0
+    ],
+    "angle": -171.3,
+    "len": 13.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     65.0,
+     29.0
+    ],
+    "angle": -171.3,
+    "len": 13.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "south-east": [
+   {
+    "grip": [
+     70.0,
+     36.0
+    ],
+    "angle": 173.2,
+    "len": 25.2,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     70.0,
+     36.0
+    ],
+    "angle": 173.2,
+    "len": 25.2,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     70.0,
+     36.0
+    ],
+    "angle": 173.2,
+    "len": 25.2,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     70.0,
+     36.0
+    ],
+    "angle": 173.2,
+    "len": 25.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     73.0,
+     38.0
+    ],
+    "angle": 185.1,
+    "len": 25.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     76.0,
+     40.0
+    ],
+    "angle": -163.1,
+    "len": 34.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     75.5,
+     43.0
+    ],
+    "angle": -163.1,
+    "len": 34.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     75.0,
+     46.0
+    ],
+    "angle": -163.1,
+    "len": 34.5,
+    "front": true,
+    "sure": true,
+    "visible": true,
+    "nock": [
+     64.0,
+     32.0
+    ]
+   },
+   {
+    "grip": [
+     77.0,
+     44.0
+    ],
+    "angle": -161.0,
+    "len": 33.8,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ]
+ },
+ "staff": {
+  "south-east": [
+   {
+    "grip": [
+     71.3,
+     53.7
+    ],
+    "angle": 168.5,
+    "len": 21.8,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     71.3,
+     53.7
+    ],
+    "angle": 168.5,
+    "len": 21.8,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     74.8,
+     53.5
+    ],
+    "angle": 178.9,
+    "len": 32.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     76.6,
+     54.9
+    ],
+    "angle": 178.1,
+    "len": 32.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     76.6,
+     54.9
+    ],
+    "angle": 178.3,
+    "len": 32.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     76.6,
+     53.6
+    ],
+    "angle": 178.5,
+    "len": 32.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     76.7,
+     51.4
+    ],
+    "angle": 178.1,
+    "len": 31.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     56.9,
+     62.1
+    ],
+    "angle": 93.7,
+    "len": 45.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     62.0,
+     58.4
+    ],
+    "angle": 87.6,
+    "len": 40.1,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "east": [
+   {
+    "grip": [
+     63.8,
+     36.2
+    ],
+    "angle": 170.3,
+    "len": 52.8,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     63.8,
+     36.2
+    ],
+    "angle": 170.3,
+    "len": 52.8,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     72.0,
+     52.8
+    ],
+    "angle": 170.3,
+    "len": 32.7,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     64.6,
+     45.3
+    ],
+    "angle": 130.0,
+    "len": 22.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     59.9,
+     42.1
+    ],
+    "angle": 118.2,
+    "len": 21.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     64.9,
+     40.3
+    ],
+    "angle": 74.4,
+    "len": 17.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     72.0,
+     48.1
+    ],
+    "angle": 81.5,
+    "len": 18.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     73.2,
+     52.8
+    ],
+    "angle": 89.8,
+    "len": 19.8,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     74.2,
+     50.1
+    ],
+    "angle": 88.4,
+    "len": 18.8,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "north-east": [
+   {
+    "grip": [
+     54.1,
+     55.5
+    ],
+    "angle": 24.4,
+    "len": 38.9,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     54.1,
+     55.5
+    ],
+    "angle": 24.4,
+    "len": 38.9,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     54.1,
+     55.5
+    ],
+    "angle": 24.4,
+    "len": 38.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     54.3,
+     54.5
+    ],
+    "angle": 35.5,
+    "len": 31.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     55.8,
+     54.8
+    ],
+    "angle": 50.7,
+    "len": 38.5,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     73.8,
+     45.4
+    ],
+    "angle": 66.6,
+    "len": 20.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     73.6,
+     48.4
+    ],
+    "angle": 75.0,
+    "len": 23.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     73.6,
+     51.8
+    ],
+    "angle": 84.8,
+    "len": 25.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     54.7,
+     54.3
+    ],
+    "angle": 82.4,
+    "len": 43.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "south": [
+   {
+    "grip": [
+     36.2,
+     63.0
+    ],
+    "angle": -178.6,
+    "len": 38.0,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     36.2,
+     63.0
+    ],
+    "angle": -178.6,
+    "len": 38.0,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     36.2,
+     63.0
+    ],
+    "angle": -178.6,
+    "len": 38.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     36.0,
+     59.9
+    ],
+    "angle": 180.0,
+    "len": 34.1,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     36.0,
+     59.9
+    ],
+    "angle": -179.9,
+    "len": 33.1,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     35.9,
+     55.9
+    ],
+    "angle": 179.7,
+    "len": 32.1,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     39.6,
+     49.5
+    ],
+    "angle": 174.9,
+    "len": 29.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     56.1,
+     56.2
+    ],
+    "angle": 138.6,
+    "len": 28.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     60.1,
+     75.0
+    ],
+    "angle": 164.6,
+    "len": 27.2,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ],
+  "north": [
+   {
+    "grip": [
+     74.6,
+     31.3
+    ],
+    "angle": 3.2,
+    "len": 19.3,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     74.6,
+     31.3
+    ],
+    "angle": 3.2,
+    "len": 19.3,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     74.6,
+     31.3
+    ],
+    "angle": 3.2,
+    "len": 19.3,
+    "front": false,
+    "visible": false,
+    "sure": false
+   },
+   {
+    "grip": [
+     74.6,
+     31.3
+    ],
+    "angle": 3.2,
+    "len": 19.3,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     71.4,
+     27.1
+    ],
+    "angle": -4.3,
+    "len": 15.2,
+    "front": false,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     71.8,
+     40.2
+    ],
+    "angle": -3.5,
+    "len": 15.2,
+    "front": false,
+    "visible": true,
+    "sure": false
+   },
+   {
+    "grip": [
+     72.2,
+     53.2
+    ],
+    "angle": -2.7,
+    "len": 40.4,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     66.8,
+     61.1
+    ],
+    "angle": 25.6,
+    "len": 19.9,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     57.6,
+     63.3
+    ],
+    "angle": -47.4,
+    "len": 49.6,
+    "front": true,
+    "sure": true,
+    "visible": true
+   }
+  ]
+ }
+}
