@@ -732,5 +732,6 @@
  "atlas": [
   "/pixellab/swordman_onmyoji/frames_0",
   "/pixellab/swordman_onmyoji/frames_1"
- ]
+ ],
+ "hairDy": 14
 }

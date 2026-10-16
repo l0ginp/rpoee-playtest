@@ -682,7 +682,7 @@
    },
    "slot": "headMid",
    "costume": true,
-   "anchor": "head",
+   "anchor": "hair",
    "origin": [
     0.5,
     0.09090909090909091
@@ -697,7 +697,11 @@
     "south-east": "/items/mask_tengu/south-east.png",
     "east": "/items/mask_tengu/east.png"
    },
-   "icon": "/items/mask_tengu/icon.png"
+   "icon": "/items/mask_tengu/icon.png",
+   "offset": [
+    0,
+    -1
+   ]
   },
   "cloak_shinobi": {
    "name": {
@@ -1751,7 +1755,7 @@
    },
    "slot": "headMid",
    "costume": true,
-   "anchor": "head",
+   "anchor": "hair",
    "hide": [
     "north",
     "north-west",
@@ -1763,7 +1767,7 @@
    ],
    "offset": [
     0,
-    13
+    12
    ],
    "scale": 0.75,
    "sprites": {
@@ -1780,7 +1784,7 @@
    },
    "slot": "headMid",
    "costume": true,
-   "anchor": "head",
+   "anchor": "hair",
    "hide": [
     "north",
     "north-west",
@@ -1792,7 +1796,7 @@
    ],
    "offset": [
     0,
-    12
+    11
    ],
    "scale": 0.72,
    "sprites": {
@@ -1809,7 +1813,7 @@
    },
    "slot": "headMid",
    "costume": true,
-   "anchor": "head",
+   "anchor": "hair",
    "hide": [
     "north",
     "north-west",
@@ -1821,7 +1825,7 @@
    ],
    "offset": [
     0,
-    16
+    15
    ],
    "scale": 0.5,
    "sprites": {
@@ -1837,7 +1841,7 @@
    },
    "slot": "headMid",
    "costume": true,
-   "anchor": "head",
+   "anchor": "hair",
    "hide": [
     "north",
     "north-west",
@@ -1849,7 +1853,7 @@
    ],
    "offset": [
     0,
-    15
+    14
    ],
    "scale": 0.6,
    "sprites": {
@@ -1865,7 +1869,7 @@
    },
    "slot": "headMid",
    "costume": true,
-   "anchor": "head",
+   "anchor": "hair",
    "hide": [
     "north",
     "north-west",
@@ -1877,7 +1881,7 @@
    ],
    "offset": [
     0,
-    13
+    12
    ],
    "scale": 0.72,
    "sprites": {
