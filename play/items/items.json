@@ -299,19 +299,21 @@
     "th": "หมวกฟาง"
    },
    "sprites": {
-    "south": "/items/h_kasa/south.png"
+    "south": "/items/h_kasa/south.png",
+    "north": "/items/h_kasa/north.png",
+    "east": "/items/h_kasa/east.png"
    },
-   "origin": [
-    0.5,
-    0.62
-   ],
    "slot": "headTop",
    "anchor": "head",
+   "origin": [
+    0.5,
+    0.4032
+   ],
    "offset": [
     0,
-    5
+    7
    ],
-   "scale": 0.85
+   "scale": 1
   },
   "h_kabuto": {
    "name": {
@@ -1479,6 +1481,92 @@
     "north": 150
    },
    "weaponType": "slash1h"
+  },
+  "h_kasa_tiny": {
+   "name": {
+    "en": "Tiny Straw Kasa",
+    "th": "หมวกฟางจิ๋ว"
+   },
+   "sprites": {
+    "south": "/items/h_kasa_tiny/south.png",
+    "north": "/items/h_kasa_tiny/north.png",
+    "east": "/items/h_kasa_tiny/east.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.65
+   ],
+   "offset": [
+    0,
+    2
+   ],
+   "scale": 1
+  },
+  "h_kasa_big": {
+   "name": {
+    "en": "Big Straw Kasa",
+    "th": "หมวกฟางใบใหญ่"
+   },
+   "sprites": {
+    "south": "/items/h_kasa_big/south.png",
+    "north": "/items/h_kasa_big/north.png",
+    "east": "/items/h_kasa_big/east.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.473
+   ],
+   "offset": [
+    0,
+    7
+   ],
+   "scale": 1
+  },
+  "h_kasa_giant": {
+   "name": {
+    "en": "Giant Straw Kasa",
+    "th": "หมวกฟางยักษ์"
+   },
+   "sprites": {
+    "south": "/items/h_kasa_giant/south.png",
+    "north": "/items/h_kasa_giant/north.png",
+    "east": "/items/h_kasa_giant/east.png"
+   },
+   "slot": "headTop",
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.5222
+   ],
+   "offset": [
+    0,
+    7
+   ],
+   "scale": 1
+  },
+  "h_kabuto_great": {
+   "name": {
+    "en": "Great Kabuto",
+    "th": "คาบูโตะยักษ์"
+   },
+   "sprites": {
+    "south": "/items/h_kabuto/south.png"
+   },
+   "origin": [
+    0.5,
+    0.66
+   ],
+   "slot": "headTop",
+   "anchor": "head",
+   "offset": [
+    0,
+    9
+   ],
+   "scale": 1.45
   }
  },
  "hairstyles": [
