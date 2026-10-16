@@ -1,0 +1,118 @@
+{
+ "id": "657029b6-7a8e-4678-9b37-e22a9a577105",
+ "name": "inugami",
+ "size": {
+  "width": 64,
+  "height": 64
+ },
+ "view": "low top-down",
+ "rotations": {
+  "south": "/pixellab/inugami/rotations/south.png",
+  "west": "/pixellab/inugami/rotations/west.png",
+  "east": "/pixellab/inugami/rotations/east.png",
+  "north": "/pixellab/inugami/rotations/north.png",
+  "south-east": "/pixellab/inugami/rotations/south-east.png",
+  "north-east": "/pixellab/inugami/rotations/north-east.png",
+  "north-west": "/pixellab/inugami/rotations/north-west.png",
+  "south-west": "/pixellab/inugami/rotations/south-west.png"
+ },
+ "animations": {
+  "attack": {
+   "east": [
+    "/pixellab/inugami/animations/attack/east/0.png",
+    "/pixellab/inugami/animations/attack/east/1.png",
+    "/pixellab/inugami/animations/attack/east/2.png",
+    "/pixellab/inugami/animations/attack/east/3.png",
+    "/pixellab/inugami/animations/attack/east/4.png",
+    "/pixellab/inugami/animations/attack/east/5.png",
+    "/pixellab/inugami/animations/attack/east/6.png"
+   ],
+   "south": [
+    "/pixellab/inugami/animations/attack/south/0.png",
+    "/pixellab/inugami/animations/attack/south/1.png",
+    "/pixellab/inugami/animations/attack/south/2.png",
+    "/pixellab/inugami/animations/attack/south/3.png",
+    "/pixellab/inugami/animations/attack/south/4.png",
+    "/pixellab/inugami/animations/attack/south/5.png",
+    "/pixellab/inugami/animations/attack/south/6.png"
+   ],
+   "north-east": [
+    "/pixellab/inugami/animations/attack/north-east/0.png",
+    "/pixellab/inugami/animations/attack/north-east/1.png",
+    "/pixellab/inugami/animations/attack/north-east/2.png",
+    "/pixellab/inugami/animations/attack/north-east/3.png",
+    "/pixellab/inugami/animations/attack/north-east/4.png",
+    "/pixellab/inugami/animations/attack/north-east/5.png",
+    "/pixellab/inugami/animations/attack/north-east/6.png"
+   ],
+   "south-east": [
+    "/pixellab/inugami/animations/attack/south-east/0.png",
+    "/pixellab/inugami/animations/attack/south-east/1.png",
+    "/pixellab/inugami/animations/attack/south-east/2.png",
+    "/pixellab/inugami/animations/attack/south-east/3.png",
+    "/pixellab/inugami/animations/attack/south-east/4.png",
+    "/pixellab/inugami/animations/attack/south-east/5.png",
+    "/pixellab/inugami/animations/attack/south-east/6.png"
+   ],
+   "north": [
+    "/pixellab/inugami/animations/attack/north/0.png",
+    "/pixellab/inugami/animations/attack/north/1.png",
+    "/pixellab/inugami/animations/attack/north/2.png",
+    "/pixellab/inugami/animations/attack/north/3.png",
+    "/pixellab/inugami/animations/attack/north/4.png",
+    "/pixellab/inugami/animations/attack/north/5.png",
+    "/pixellab/inugami/animations/attack/north/6.png"
+   ]
+  },
+  "walking": {
+   "south-east": [
+    "/pixellab/inugami/animations/walking/south-east/0.png",
+    "/pixellab/inugami/animations/walking/south-east/1.png",
+    "/pixellab/inugami/animations/walking/south-east/2.png",
+    "/pixellab/inugami/animations/walking/south-east/3.png",
+    "/pixellab/inugami/animations/walking/south-east/4.png",
+    "/pixellab/inugami/animations/walking/south-east/5.png",
+    "/pixellab/inugami/animations/walking/south-east/6.png"
+   ],
+   "north": [
+    "/pixellab/inugami/animations/walking/north/0.png",
+    "/pixellab/inugami/animations/walking/north/1.png",
+    "/pixellab/inugami/animations/walking/north/2.png",
+    "/pixellab/inugami/animations/walking/north/3.png",
+    "/pixellab/inugami/animations/walking/north/4.png",
+    "/pixellab/inugami/animations/walking/north/5.png",
+    "/pixellab/inugami/animations/walking/north/6.png"
+   ],
+   "south": [
+    "/pixellab/inugami/animations/walking/south/0.png",
+    "/pixellab/inugami/animations/walking/south/1.png",
+    "/pixellab/inugami/animations/walking/south/2.png",
+    "/pixellab/inugami/animations/walking/south/3.png",
+    "/pixellab/inugami/animations/walking/south/4.png",
+    "/pixellab/inugami/animations/walking/south/5.png",
+    "/pixellab/inugami/animations/walking/south/6.png"
+   ],
+   "north-east": [
+    "/pixellab/inugami/animations/walking/north-east/0.png",
+    "/pixellab/inugami/animations/walking/north-east/1.png",
+    "/pixellab/inugami/animations/walking/north-east/2.png",
+    "/pixellab/inugami/animations/walking/north-east/3.png",
+    "/pixellab/inugami/animations/walking/north-east/4.png",
+    "/pixellab/inugami/animations/walking/north-east/5.png",
+    "/pixellab/inugami/animations/walking/north-east/6.png"
+   ],
+   "east": [
+    "/pixellab/inugami/animations/walking/east/0.png",
+    "/pixellab/inugami/animations/walking/east/1.png",
+    "/pixellab/inugami/animations/walking/east/2.png",
+    "/pixellab/inugami/animations/walking/east/3.png",
+    "/pixellab/inugami/animations/walking/east/4.png",
+    "/pixellab/inugami/animations/walking/east/5.png",
+    "/pixellab/inugami/animations/walking/east/6.png"
+   ]
+  }
+ },
+ "atlas": [
+  "/pixellab/inugami/frames_0"
+ ]
+}

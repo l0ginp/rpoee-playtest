@@ -1486,6 +1486,871 @@
    },
    "weaponType": "slash1h"
   },
+  "horns_oni": {
+   "name": {
+    "en": "Oni Horns",
+    "th": "เขาโอนิแดง"
+   },
+   "slot": "headTop",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.8
+   ],
+   "offset": [
+    0,
+    8
+   ],
+   "scale": 0.75,
+   "sprites": {
+    "south": "/items/horns_oni/south.png"
+   },
+   "icon": "/items/horns_oni/icon.png"
+  },
+  "hat_kasa": {
+   "name": {
+    "en": "Ronin Straw Kasa",
+    "th": "หมวกฟางโรนิน"
+   },
+   "slot": "headTop",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.75
+   ],
+   "offset": [
+    0,
+    9
+   ],
+   "scale": 0.95,
+   "sprites": {
+    "south": "/items/hat_kasa/south.png"
+   },
+   "icon": "/items/hat_kasa/icon.png"
+  },
+  "crest_kabuto": {
+   "name": {
+    "en": "Kabuto Moon Crest",
+    "th": "พู่หมวกเกราะคาบูโตะ"
+   },
+   "slot": "headTop",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.85
+   ],
+   "offset": [
+    0,
+    12
+   ],
+   "scale": 0.62,
+   "sprites": {
+    "south": "/items/crest_kabuto/south.png"
+   },
+   "icon": "/items/crest_kabuto/icon.png"
+  },
+  "crown_sakura": {
+   "name": {
+    "en": "Sakura Crown",
+    "th": "มงกุฎซากุระ"
+   },
+   "slot": "headTop",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.6
+   ],
+   "offset": [
+    0,
+    4
+   ],
+   "scale": 0.75,
+   "sprites": {
+    "south": "/items/crown_sakura/south.png"
+   },
+   "icon": "/items/crown_sakura/icon.png"
+  },
+  "kanzashi_gold": {
+   "name": {
+    "en": "Gold Kanzashi",
+    "th": "ปิ่นคันซาชิทองระย้า"
+   },
+   "slot": "headTop",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "offset": [
+    9,
+    9
+   ],
+   "scale": 0.5,
+   "sprites": {
+    "south": "/items/kanzashi_gold/south.png"
+   },
+   "icon": "/items/kanzashi_gold/icon.png"
+  },
+  "band_hachimaki": {
+   "name": {
+    "en": "Hachimaki Headband",
+    "th": "ผ้าคาดหัวฮาจิมากิ"
+   },
+   "slot": "headTop",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "offset": [
+    0,
+    11
+   ],
+   "scale": 0.62,
+   "sprites": {
+    "south": "/items/band_hachimaki/south.png"
+   },
+   "icon": "/items/band_hachimaki/icon.png"
+  },
+  "ears_rabbit": {
+   "name": {
+    "en": "Rabbit Ears",
+    "th": "หูกระต่าย"
+   },
+   "slot": "headTop",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.8
+   ],
+   "offset": [
+    0,
+    5
+   ],
+   "scale": 0.8,
+   "sprites": {
+    "south": "/items/ears_rabbit/south.png"
+   },
+   "icon": "/items/ears_rabbit/icon.png"
+  },
+  "ears_tanuki": {
+   "name": {
+    "en": "Tanuki Ears",
+    "th": "หูทานูกิ"
+   },
+   "slot": "headTop",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.75
+   ],
+   "offset": [
+    0,
+    6
+   ],
+   "scale": 0.75,
+   "sprites": {
+    "south": "/items/ears_tanuki/south.png"
+   },
+   "icon": "/items/ears_tanuki/icon.png"
+  },
+  "mask_kitsune": {
+   "name": {
+    "en": "Kitsune Mask",
+    "th": "หน้ากากจิ้งจอก"
+   },
+   "slot": "headMid",
+   "costume": true,
+   "anchor": "hair",
+   "hide": [
+    "north",
+    "north-west",
+    "north-east"
+   ],
+   "origin": [
+    0.5,
+    0.35
+   ],
+   "offset": [
+    0,
+    12
+   ],
+   "scale": 0.75,
+   "sprites": {
+    "south": "/items/mask_kitsune/south.png",
+    "south-east": "/items/mask_kitsune/south-east.png",
+    "east": "/items/mask_kitsune/east.png"
+   },
+   "icon": "/items/mask_kitsune/icon.png"
+  },
+  "mask_hannya": {
+   "name": {
+    "en": "Hannya Mask",
+    "th": "หน้ากากฮันเนีย"
+   },
+   "slot": "headMid",
+   "costume": true,
+   "anchor": "hair",
+   "hide": [
+    "north",
+    "north-west",
+    "north-east"
+   ],
+   "origin": [
+    0.5,
+    0.35
+   ],
+   "offset": [
+    0,
+    11
+   ],
+   "scale": 0.72,
+   "sprites": {
+    "south": "/items/mask_hannya/south.png",
+    "south-east": "/items/mask_hannya/south-east.png",
+    "east": "/items/mask_hannya/east.png"
+   },
+   "icon": "/items/mask_hannya/icon.png"
+  },
+  "glasses_taisho": {
+   "name": {
+    "en": "Taishō Round Glasses",
+    "th": "แว่นกลมยุคไทโช"
+   },
+   "slot": "headMid",
+   "costume": true,
+   "anchor": "hair",
+   "hide": [
+    "north",
+    "north-west",
+    "north-east"
+   ],
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "offset": [
+    0,
+    15
+   ],
+   "scale": 0.5,
+   "sprites": {
+    "south": "/items/glasses_taisho/south.png",
+    "east": "/items/glasses_taisho/east.png"
+   },
+   "icon": "/items/glasses_taisho/icon.png"
+  },
+  "patch_date": {
+   "name": {
+    "en": "Dragon Eyepatch",
+    "th": "ผ้าปิดตาดาเตะ"
+   },
+   "slot": "headMid",
+   "costume": true,
+   "anchor": "hair",
+   "hide": [
+    "north",
+    "north-west",
+    "north-east"
+   ],
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "offset": [
+    0,
+    14
+   ],
+   "scale": 0.6,
+   "sprites": {
+    "south": "/items/patch_date/south.png",
+    "east": "/items/patch_date/east.png"
+   },
+   "icon": "/items/patch_date/icon.png"
+  },
+  "mask_karasu": {
+   "name": {
+    "en": "Karasu Tengu Mask",
+    "th": "หน้ากากเท็นงุดำ"
+   },
+   "slot": "headMid",
+   "costume": true,
+   "anchor": "hair",
+   "hide": [
+    "north",
+    "north-west",
+    "north-east"
+   ],
+   "origin": [
+    0.5,
+    0.35
+   ],
+   "offset": [
+    0,
+    12
+   ],
+   "scale": 0.72,
+   "sprites": {
+    "south": "/items/mask_karasu/south.png",
+    "south-east": "/items/mask_karasu/south-east.png",
+    "east": "/items/mask_karasu/east.png"
+   },
+   "icon": "/items/mask_karasu/icon.png"
+  },
+  "menpo_samurai": {
+   "name": {
+    "en": "Samurai Menpō",
+    "th": "หน้ากากเมนโปซามูไร"
+   },
+   "slot": "headLow",
+   "costume": true,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/menpo_samurai/south.png",
+    "south-east": "/items/menpo_samurai/south-east.png",
+    "east": "/items/menpo_samurai/east.png"
+   },
+   "icon": "/items/menpo_samurai/icon.png",
+   "hide": [
+    "north",
+    "north-west",
+    "north-east"
+   ]
+  },
+  "mask_ninja": {
+   "name": {
+    "en": "Shinobi Face Cloth",
+    "th": "ผ้าปิดหน้านินจา"
+   },
+   "slot": "headLow",
+   "costume": true,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/mask_ninja/south.png",
+    "south-east": "/items/mask_ninja/south-east.png",
+    "east": "/items/mask_ninja/east.png",
+    "north-east": "/items/mask_ninja/north-east.png"
+   },
+   "icon": "/items/mask_ninja/icon.png",
+   "hide": [
+    "north",
+    "north-west"
+   ]
+  },
+  "twig_sakura": {
+   "name": {
+    "en": "Sakura Twig",
+    "th": "กิ่งซากุระคาบปาก"
+   },
+   "slot": "headLow",
+   "costume": true,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/twig_sakura/south.png",
+    "south-east": "/items/twig_sakura/south-east.png",
+    "east": "/items/twig_sakura/east.png",
+    "north-east": "/items/twig_sakura/north-east.png"
+   },
+   "icon": "/items/twig_sakura/icon.png",
+   "hide": [
+    "north",
+    "north-west"
+   ]
+  },
+  "pipe_kiseru": {
+   "name": {
+    "en": "Kiseru Pipe",
+    "th": "กล้องยาสูบคิเซรุ"
+   },
+   "slot": "headLow",
+   "costume": true,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/pipe_kiseru/south.png",
+    "south-east": "/items/pipe_kiseru/south-east.png",
+    "east": "/items/pipe_kiseru/east.png"
+   },
+   "icon": "/items/pipe_kiseru/icon.png",
+   "hide": [
+    "north",
+    "north-west",
+    "north-east"
+   ]
+  },
+  "float_daruma": {
+   "name": {
+    "en": "Daruma Doll",
+    "th": "ตุ๊กตาดารุมะ"
+   },
+   "slot": "float",
+   "costume": true,
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "scale": 0.7,
+   "hover": {
+    "height": 60,
+    "bob": 3,
+    "hz": 0.6,
+    "follow": 4
+   },
+   "sprites": {
+    "south": "/items/float_daruma/south.png"
+   },
+   "icon": "/items/float_daruma/icon.png"
+  },
+  "hair_hime": {
+   "name": {
+    "en": "Hime Cut",
+    "th": "ฮิเมะคัต"
+   },
+   "slot": "hair",
+   "costume": true,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/hair_hime/south.png",
+    "south-east": "/items/hair_hime/south-east.png",
+    "east": "/items/hair_hime/east.png",
+    "north-east": "/items/hair_hime/north-east.png",
+    "north": "/items/hair_hime/north.png"
+   },
+   "icon": "/items/hair_hime/icon.png"
+  },
+  "float_maneki": {
+   "name": {
+    "en": "Maneki-neko",
+    "th": "แมวกวัก"
+   },
+   "slot": "float",
+   "costume": true,
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "scale": 0.7,
+   "hover": {
+    "height": 60,
+    "bob": 3,
+    "hz": 0.6,
+    "follow": 4
+   },
+   "sprites": {
+    "south": "/items/float_maneki/south.png"
+   },
+   "icon": "/items/float_maneki/icon.png"
+  },
+  "float_teruteru": {
+   "name": {
+    "en": "Teru Teru Bōzu",
+    "th": "เทรุเทรุโบซุ"
+   },
+   "slot": "float",
+   "costume": true,
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "scale": 0.7,
+   "hover": {
+    "height": 60,
+    "bob": 3,
+    "hz": 0.6,
+    "follow": 4
+   },
+   "sprites": {
+    "south": "/items/float_teruteru/south.png"
+   },
+   "icon": "/items/float_teruteru/icon.png"
+  },
+  "float_koi": {
+   "name": {
+    "en": "Golden Koi",
+    "th": "ปลาคาร์ปทอง"
+   },
+   "slot": "float",
+   "costume": true,
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "scale": 0.7,
+   "hover": {
+    "height": 60,
+    "bob": 3,
+    "hz": 0.6,
+    "follow": 4
+   },
+   "sprites": {
+    "south": "/items/float_koi/south.png"
+   },
+   "icon": "/items/float_koi/icon.png"
+  },
+  "float_furin": {
+   "name": {
+    "en": "Fūrin Wind Chime",
+    "th": "กระดิ่งลมฟูริน"
+   },
+   "slot": "float",
+   "costume": true,
+   "origin": [
+    0.5,
+    0.5
+   ],
+   "scale": 0.7,
+   "hover": {
+    "height": 60,
+    "bob": 3,
+    "hz": 0.6,
+    "follow": 4
+   },
+   "sprites": {
+    "south": "/items/float_furin/south.png"
+   },
+   "icon": "/items/float_furin/icon.png"
+  },
+  "tails_kyubi": {
+   "name": {
+    "en": "Nine Fox Tails",
+    "th": "หางจิ้งจอก 9 หาง"
+   },
+   "slot": "back",
+   "costume": true,
+   "anchor": "back",
+   "origin": [
+    0.5,
+    1.0
+   ],
+   "offset": [
+    0,
+    20
+   ],
+   "scale": 1.25,
+   "sideScale": 0.5,
+   "flap": {
+    "hz": 0.7,
+    "amp": 0.05
+   },
+   "sprites": {
+    "north": "/items/tails_kyubi/north.png"
+   },
+   "icon": "/items/tails_kyubi/icon.png"
+  },
+  "wings_karasu": {
+   "name": {
+    "en": "Tengu Crow Wings",
+    "th": "ปีกอีกาเท็นงุ"
+   },
+   "slot": "back",
+   "costume": true,
+   "anchor": "back",
+   "origin": [
+    0.5,
+    0.42
+   ],
+   "offset": [
+    0,
+    4
+   ],
+   "scale": 1.1,
+   "sideScale": 0.45,
+   "flap": {
+    "hz": 1.1,
+    "amp": 0.12
+   },
+   "sprites": {
+    "north": "/items/wings_karasu/north.png"
+   },
+   "icon": "/items/wings_karasu/icon.png"
+  },
+  "umbrella_wagasa": {
+   "name": {
+    "en": "Wagasa Umbrella",
+    "th": "ร่มกระดาษวากาสะ"
+   },
+   "slot": "back",
+   "costume": true,
+   "anchor": "back",
+   "origin": [
+    0.3,
+    0.8
+   ],
+   "offset": [
+    0,
+    2
+   ],
+   "scale": 0.75,
+   "sideScale": 0.6,
+   "sprites": {
+    "north": "/items/umbrella_wagasa/north.png"
+   },
+   "icon": "/items/umbrella_wagasa/icon.png"
+  },
+  "ring_raijin": {
+   "name": {
+    "en": "Raijin Drum Ring",
+    "th": "วงกลองไรจิน"
+   },
+   "slot": "back",
+   "costume": true,
+   "anchor": "back",
+   "origin": [
+    0.5,
+    0.65
+   ],
+   "offset": [
+    0,
+    0
+   ],
+   "scale": 1.0,
+   "sideScale": 0.5,
+   "sprites": {
+    "north": "/items/ring_raijin/north.png"
+   },
+   "icon": "/items/ring_raijin/icon.png"
+  },
+  "koinobori": {
+   "name": {
+    "en": "Koinobori Streamers",
+    "th": "ธงปลาคาร์ปโคยโนโบริ"
+   },
+   "slot": "back",
+   "costume": true,
+   "anchor": "back",
+   "origin": [
+    0.12,
+    0.75
+   ],
+   "offset": [
+    4,
+    6
+   ],
+   "scale": 0.9,
+   "sideScale": 0.7,
+   "sprites": {
+    "north": "/items/koinobori/north.png"
+   },
+   "icon": "/items/koinobori/icon.png"
+  },
+  "hair_ronin": {
+   "name": {
+    "en": "Messy Rōnin Tie",
+    "th": "มัดจุกโรนินยุ่ง"
+   },
+   "slot": "hair",
+   "costume": true,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/hair_ronin/south.png",
+    "south-east": "/items/hair_ronin/south-east.png",
+    "east": "/items/hair_ronin/east.png",
+    "north-east": "/items/hair_ronin/north-east.png",
+    "north": "/items/hair_ronin/north.png"
+   },
+   "icon": "/items/hair_ronin/icon.png"
+  },
+  "haori_shinsengumi": {
+   "name": {
+    "en": "Shinsengumi Haori",
+    "th": "ฮาโอริชินเซ็นงุมิ"
+   },
+   "slot": "garment",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.09090909090909091
+   ],
+   "sprites": {
+    "south": "/items/haori_shinsengumi/south.png",
+    "south-east": "/items/haori_shinsengumi/south-east.png",
+    "east": "/items/haori_shinsengumi/east.png",
+    "north-east": "/items/haori_shinsengumi/north-east.png",
+    "north": "/items/haori_shinsengumi/north.png"
+   },
+   "icon": "/items/haori_shinsengumi/icon.png",
+   "fore": {
+    "south": "/items/haori_shinsengumi/south_fore.png",
+    "south-east": "/items/haori_shinsengumi/south-east_fore.png",
+    "east": "/items/haori_shinsengumi/east_fore.png"
+   }
+  },
+  "haori_crane": {
+   "name": {
+    "en": "Crane Haori",
+    "th": "ฮาโอริดำลายกระเรียน"
+   },
+   "slot": "garment",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.09090909090909091
+   ],
+   "sprites": {
+    "south": "/items/haori_crane/south.png",
+    "south-east": "/items/haori_crane/south-east.png",
+    "east": "/items/haori_crane/east.png",
+    "north-east": "/items/haori_crane/north-east.png",
+    "north": "/items/haori_crane/north.png"
+   },
+   "icon": "/items/haori_crane/icon.png",
+   "fore": {
+    "south": "/items/haori_crane/south_fore.png"
+   }
+  },
+  "cloak_dragon": {
+   "name": {
+    "en": "Golden Dragon Cloak",
+    "th": "ผ้าคลุมมังกรทอง"
+   },
+   "slot": "garment",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.09090909090909091
+   ],
+   "sprites": {
+    "south": "/items/cloak_dragon/south.png",
+    "south-east": "/items/cloak_dragon/south-east.png",
+    "east": "/items/cloak_dragon/east.png",
+    "north-east": "/items/cloak_dragon/north-east.png",
+    "north": "/items/cloak_dragon/north.png"
+   },
+   "icon": "/items/cloak_dragon/icon.png",
+   "fore": {
+    "south": "/items/cloak_dragon/south_fore.png",
+    "south-east": "/items/cloak_dragon/south-east_fore.png",
+    "east": "/items/cloak_dragon/east_fore.png"
+   }
+  },
+  "hair_odango": {
+   "name": {
+    "en": "Twin Odango Buns",
+    "th": "มวยโอดังโกะคู่"
+   },
+   "slot": "hair",
+   "costume": true,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/hair_odango/south.png",
+    "south-east": "/items/hair_odango/south-east.png",
+    "east": "/items/hair_odango/east.png",
+    "north-east": "/items/hair_odango/north-east.png",
+    "north": "/items/hair_odango/north.png"
+   },
+   "icon": "/items/hair_odango/icon.png"
+  },
+  "hair_shimada": {
+   "name": {
+    "en": "Shimada Updo",
+    "th": "มวยเกอิชาชิมาดะ"
+   },
+   "slot": "hair",
+   "costume": true,
+   "anchor": "hair",
+   "origin": [
+    0.5,
+    0.2222222222222222
+   ],
+   "sprites": {
+    "south": "/items/hair_shimada/south.png",
+    "south-east": "/items/hair_shimada/south-east.png",
+    "east": "/items/hair_shimada/east.png",
+    "north-east": "/items/hair_shimada/north-east.png",
+    "north": "/items/hair_shimada/north.png"
+   },
+   "icon": "/items/hair_shimada/icon.png"
+  },
+  "cloak_wave": {
+   "name": {
+    "en": "Great Wave Cloak",
+    "th": "ผ้าคลุมคลื่นโฮคุไซ"
+   },
+   "slot": "garment",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.09090909090909091
+   ],
+   "sprites": {
+    "south": "/items/cloak_wave/south.png",
+    "south-east": "/items/cloak_wave/south-east.png",
+    "east": "/items/cloak_wave/east.png",
+    "north-east": "/items/cloak_wave/north-east.png",
+    "north": "/items/cloak_wave/north.png"
+   },
+   "icon": "/items/cloak_wave/icon.png",
+   "fore": {
+    "south": "/items/cloak_wave/south_fore.png",
+    "south-east": "/items/cloak_wave/south-east_fore.png",
+    "east": "/items/cloak_wave/east_fore.png"
+   }
+  },
+  "mino_straw": {
+   "name": {
+    "en": "Mino Straw Coat",
+    "th": "เสื้อฟางมิโนะ"
+   },
+   "slot": "garment",
+   "costume": true,
+   "anchor": "head",
+   "origin": [
+    0.5,
+    0.09090909090909091
+   ],
+   "sprites": {
+    "south": "/items/mino_straw/south.png",
+    "south-east": "/items/mino_straw/south-east.png",
+    "east": "/items/mino_straw/east.png",
+    "north-east": "/items/mino_straw/north-east.png",
+    "north": "/items/mino_straw/north.png"
+   },
+   "icon": "/items/mino_straw/icon.png",
+   "fore": {
+    "south": "/items/mino_straw/south_fore.png",
+    "south-east": "/items/mino_straw/south-east_fore.png",
+    "east": "/items/mino_straw/east_fore.png"
+   }
+  },
   "h_kasa_tiny": {
    "name": {
     "en": "Tiny Straw Kasa",

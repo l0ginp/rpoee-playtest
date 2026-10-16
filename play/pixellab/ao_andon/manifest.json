@@ -1,0 +1,118 @@
+{
+ "id": "e7cb71d1-acad-4180-9a5e-b17e0450e2d1",
+ "name": "ao_andon",
+ "size": {
+  "width": 64,
+  "height": 64
+ },
+ "view": "low top-down",
+ "rotations": {
+  "south": "/pixellab/ao_andon/rotations/south.png",
+  "west": "/pixellab/ao_andon/rotations/west.png",
+  "east": "/pixellab/ao_andon/rotations/east.png",
+  "north": "/pixellab/ao_andon/rotations/north.png",
+  "south-east": "/pixellab/ao_andon/rotations/south-east.png",
+  "north-east": "/pixellab/ao_andon/rotations/north-east.png",
+  "north-west": "/pixellab/ao_andon/rotations/north-west.png",
+  "south-west": "/pixellab/ao_andon/rotations/south-west.png"
+ },
+ "animations": {
+  "attack": {
+   "south": [
+    "/pixellab/ao_andon/animations/attack/south/0.png",
+    "/pixellab/ao_andon/animations/attack/south/1.png",
+    "/pixellab/ao_andon/animations/attack/south/2.png",
+    "/pixellab/ao_andon/animations/attack/south/3.png",
+    "/pixellab/ao_andon/animations/attack/south/4.png",
+    "/pixellab/ao_andon/animations/attack/south/5.png",
+    "/pixellab/ao_andon/animations/attack/south/6.png"
+   ],
+   "east": [
+    "/pixellab/ao_andon/animations/attack/east/0.png",
+    "/pixellab/ao_andon/animations/attack/east/1.png",
+    "/pixellab/ao_andon/animations/attack/east/2.png",
+    "/pixellab/ao_andon/animations/attack/east/3.png",
+    "/pixellab/ao_andon/animations/attack/east/4.png",
+    "/pixellab/ao_andon/animations/attack/east/5.png",
+    "/pixellab/ao_andon/animations/attack/east/6.png"
+   ],
+   "north": [
+    "/pixellab/ao_andon/animations/attack/north/0.png",
+    "/pixellab/ao_andon/animations/attack/north/1.png",
+    "/pixellab/ao_andon/animations/attack/north/2.png",
+    "/pixellab/ao_andon/animations/attack/north/3.png",
+    "/pixellab/ao_andon/animations/attack/north/4.png",
+    "/pixellab/ao_andon/animations/attack/north/5.png",
+    "/pixellab/ao_andon/animations/attack/north/6.png"
+   ],
+   "north-east": [
+    "/pixellab/ao_andon/animations/attack/north-east/0.png",
+    "/pixellab/ao_andon/animations/attack/north-east/1.png",
+    "/pixellab/ao_andon/animations/attack/north-east/2.png",
+    "/pixellab/ao_andon/animations/attack/north-east/3.png",
+    "/pixellab/ao_andon/animations/attack/north-east/4.png",
+    "/pixellab/ao_andon/animations/attack/north-east/5.png",
+    "/pixellab/ao_andon/animations/attack/north-east/6.png"
+   ],
+   "south-east": [
+    "/pixellab/ao_andon/animations/attack/south-east/0.png",
+    "/pixellab/ao_andon/animations/attack/south-east/1.png",
+    "/pixellab/ao_andon/animations/attack/south-east/2.png",
+    "/pixellab/ao_andon/animations/attack/south-east/3.png",
+    "/pixellab/ao_andon/animations/attack/south-east/4.png",
+    "/pixellab/ao_andon/animations/attack/south-east/5.png",
+    "/pixellab/ao_andon/animations/attack/south-east/6.png"
+   ]
+  },
+  "walking": {
+   "north": [
+    "/pixellab/ao_andon/animations/walking/north/0.png",
+    "/pixellab/ao_andon/animations/walking/north/1.png",
+    "/pixellab/ao_andon/animations/walking/north/2.png",
+    "/pixellab/ao_andon/animations/walking/north/3.png",
+    "/pixellab/ao_andon/animations/walking/north/4.png",
+    "/pixellab/ao_andon/animations/walking/north/5.png",
+    "/pixellab/ao_andon/animations/walking/north/6.png"
+   ],
+   "north-east": [
+    "/pixellab/ao_andon/animations/walking/north-east/0.png",
+    "/pixellab/ao_andon/animations/walking/north-east/1.png",
+    "/pixellab/ao_andon/animations/walking/north-east/2.png",
+    "/pixellab/ao_andon/animations/walking/north-east/3.png",
+    "/pixellab/ao_andon/animations/walking/north-east/4.png",
+    "/pixellab/ao_andon/animations/walking/north-east/5.png",
+    "/pixellab/ao_andon/animations/walking/north-east/6.png"
+   ],
+   "south-east": [
+    "/pixellab/ao_andon/animations/walking/south-east/0.png",
+    "/pixellab/ao_andon/animations/walking/south-east/1.png",
+    "/pixellab/ao_andon/animations/walking/south-east/2.png",
+    "/pixellab/ao_andon/animations/walking/south-east/3.png",
+    "/pixellab/ao_andon/animations/walking/south-east/4.png",
+    "/pixellab/ao_andon/animations/walking/south-east/5.png",
+    "/pixellab/ao_andon/animations/walking/south-east/6.png"
+   ],
+   "south": [
+    "/pixellab/ao_andon/animations/walking/south/0.png",
+    "/pixellab/ao_andon/animations/walking/south/1.png",
+    "/pixellab/ao_andon/animations/walking/south/2.png",
+    "/pixellab/ao_andon/animations/walking/south/3.png",
+    "/pixellab/ao_andon/animations/walking/south/4.png",
+    "/pixellab/ao_andon/animations/walking/south/5.png",
+    "/pixellab/ao_andon/animations/walking/south/6.png"
+   ],
+   "east": [
+    "/pixellab/ao_andon/animations/walking/east/0.png",
+    "/pixellab/ao_andon/animations/walking/east/1.png",
+    "/pixellab/ao_andon/animations/walking/east/2.png",
+    "/pixellab/ao_andon/animations/walking/east/3.png",
+    "/pixellab/ao_andon/animations/walking/east/4.png",
+    "/pixellab/ao_andon/animations/walking/east/5.png",
+    "/pixellab/ao_andon/animations/walking/east/6.png"
+   ]
+  }
+ },
+ "atlas": [
+  "/pixellab/ao_andon/frames_0"
+ ]
+}
