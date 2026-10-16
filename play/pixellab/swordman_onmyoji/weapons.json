@@ -3085,110 +3085,102 @@
   "south": [
    {
     "grip": [
-     75.0,
-     40.0
+     64.0,
+     49.0
     ],
-    "angle": -170.9,
-    "len": 56.7,
+    "angle": -174.7,
+    "len": 54.2,
     "front": false,
     "visible": false,
     "sure": false
    },
    {
     "grip": [
-     75.0,
-     40.0
+     64.0,
+     49.0
     ],
-    "angle": -170.9,
-    "len": 56.7,
+    "angle": -174.7,
+    "len": 54.2,
     "front": false,
     "visible": false,
     "sure": false
    },
    {
     "grip": [
-     75.0,
-     40.0
+     64.0,
+     49.0
     ],
-    "angle": -170.9,
-    "len": 56.7,
-    "front": false,
-    "visible": false,
-    "sure": false
-   },
-   {
-    "grip": [
-     75.0,
-     40.0
-    ],
-    "angle": -170.9,
-    "len": 56.7,
-    "front": false,
-    "visible": false,
-    "sure": false
-   },
-   {
-    "grip": [
-     75.0,
-     40.0
-    ],
-    "angle": -170.9,
-    "len": 56.7,
-    "front": false,
-    "visible": false,
-    "sure": false
-   },
-   {
-    "grip": [
-     75.0,
-     40.0
-    ],
-    "angle": -170.9,
-    "len": 56.7,
-    "front": false,
-    "visible": false,
-    "sure": false
-   },
-   {
-    "grip": [
-     75.0,
-     40.0
-    ],
-    "angle": -170.9,
-    "len": 56.7,
-    "front": false,
-    "visible": false,
-    "sure": false
-   },
-   {
-    "grip": [
-     75.0,
-     40.0
-    ],
-    "angle": -170.9,
-    "len": 56.7,
+    "angle": -174.7,
+    "len": 54.2,
     "front": true,
     "sure": true,
-    "visible": true,
-    "nock": [
-     46.0,
-     42.0
-    ]
+    "visible": true
+   },
+   {
+    "grip": [
+     67.0,
+     29.0
+    ],
+    "angle": 178.3,
+    "len": 67.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     63.0,
+     29.0
+    ],
+    "angle": -180.0,
+    "len": 67.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     63.0,
+     30.0
+    ],
+    "angle": 179.2,
+    "len": 68.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     67.0,
+     40.0
+    ],
+    "angle": -180.0,
+    "len": 62.0,
+    "front": true,
+    "sure": true,
+    "visible": true
+   },
+   {
+    "grip": [
+     72.0,
+     29.0
+    ],
+    "angle": 178.3,
+    "len": 68.0,
+    "front": true,
+    "sure": true,
+    "visible": true
    },
    {
     "grip": [
      75.0,
-     35.0
+     45.0
     ],
-    "angle": 177.9,
-    "len": 55.0,
+    "angle": 179.2,
+    "len": 68.0,
     "front": true,
     "sure": true,
-    "visible": true,
-    "nock": [
-     43.0,
-     40.0
-    ]
+    "visible": true
    }
   ],
   "north-east": [

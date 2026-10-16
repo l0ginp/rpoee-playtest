@@ -732,5 +732,6 @@
  "atlas": [
   "/pixellab/swordman_miko/frames_0",
   "/pixellab/swordman_miko/frames_1"
- ]
+ ],
+ "hairDy": 4
 }
